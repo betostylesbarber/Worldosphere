@@ -1,0 +1,31 @@
+Day,Date,Weekday,Episode,Title,Lead,Original slot,Pinned reason
+1,2026-11-09,Mon,WS-003,Everyone Says the Superstore Is the Best Place to Survive,Tess,Day 3 (2026-11-02),
+2,2026-11-10,Tue,WS-002,Your Car Is Sinking. You Have About One Minute.,Owen,Day 2 (2026-11-01),
+3,2026-11-11,Wed,WS-004,Why You Shouldn't Run to the Doorway in an Earthquake,Kai,Day 4 (2026-11-03),
+4,2026-11-12,Thu,WS-005,The Blackout Mistake That's More Dangerous Than the Storm,Owen,Day 5 (2026-11-04),
+5,2026-11-13,Fri,WS-006,"A Zombie Outbreak at 35,000 Feet: What Would You Do?",Tess,Day 6 (2026-11-05),
+6,2026-11-14,Sat,WS-007,Roof or Basement? We Played Both Endings,Kai + Mia,Day 7 (2026-11-06),
+7,2026-11-15,Sun,WS-008,Why the Highway Overpass Is the Worst Place in a Tornado,Tess,Day 8 (2026-11-07),
+8,2026-11-16,Mon,WS-009,Zombies Can't Swim. So Why Wasn't the Boat Safe?,Owen,Day 9 (2026-11-08),
+9,2026-11-17,Tue,WS-018,"If You See a Flash in the Sky, Don't Go to the Window",Tess,Day 18 (2026-11-17),Leonid week (if C-1802 verified)
+10,2026-11-18,Wed,WS-010,"When the Power Goes Out for Days, This Is What Fails First",Kai + Mia (Owen cameo),Day 10 (2026-11-09),
+11,2026-11-19,Thu,WS-012,House Fire at 3 A.M.: The One Thing That Buys You Time,Owen,Day 12 (2026-11-11),
+12,2026-11-20,Fri,WS-011,Zombie Outbreak in Your Apartment Building: Go Up or Down?,Tess,Day 11 (2026-11-10),
+13,2026-11-21,Sat,WS-015,The Last Place on Earth Without the Outbreak (Part 1),Owen,Day 15 (2026-11-14),Saga Part 1 on a Saturday
+14,2026-11-22,Sun,WS-016,Station Zero Part 2: The Only Weapon Was the Cold,Owen,Day 16 (2026-11-15),Saga Part 2 on the next day (Sunday)
+15,2026-11-23,Mon,WS-013,Zombie Outbreak in a Movie Theater: Nobody Noticed the Screams,Kai,Day 13 (2026-11-12),
+16,2026-11-24,Tue,WS-014,7 Days of Warning Before the Outbreak: Stay or Leave?,Tess,Day 14 (2026-11-13),
+17,2026-11-25,Wed,WS-026,Zombie Outbreak at the Airport the Day Before Thanksgiving,Kai + Mia,Day 26 (2026-11-25),Day before US Thanksgiving
+18,2026-11-26,Thu,WS-027,Why You Never Put Water on a Grease Fire,Owen,Day 27 (2026-11-26),US Thanksgiving
+19,2026-11-27,Fri,WS-028,Caught in a Crowd Surge: How to Stay on Your Feet,Tess,Day 28 (2026-11-27),Black Friday
+20,2026-11-28,Sat,WS-017,Caught in a Rip Current? Don't Swim Back to Shore.,Kai,Day 17 (2026-11-16),
+21,2026-11-29,Sun,WS-021,Fell Through the Ice? Turn Back the Way You Came.,Tess,Day 21 (2026-11-20),
+22,2026-11-30,Mon,WS-019,Stuck in an Elevator When the Outbreak Starts,Kai + Mia,Day 19 (2026-11-18),
+23,2026-12-01,Tue,WS-020,What Would a Massive Solar Storm Do to the Power Grid?,Owen,Day 20 (2026-11-19),
+24,2026-12-02,Wed,WS-022,The Subway Stopped in the Tunnel. Then the Lights Went Out.,Kai,Day 22 (2026-11-21),
+25,2026-12-03,Thu,WS-023,Wildfire Evacuation: Why Waiting One More Hour Is Dangerous,Owen,Day 23 (2026-11-22),
+26,2026-12-04,Fri,WS-024,Five People in a Safe Room. One Was Bitten.,Mia (ensemble),Day 24 (2026-11-23),
+27,2026-12-05,Sat,WS-025,Avalanche: Why Your Friends Are Your Only Rescue,Tess,Day 25 (2026-11-24),
+28,2026-12-06,Sun,WS-029,Stranded in a Blizzard: Walk for Help or Stay in the Car?,Kai + Mia,Day 29 (2026-11-28),
+29,2026-12-07,Mon,R04,The Outbreak Starts While You're Getting Gas at 2 A.M.,Tess (fallback lead),Reserve R04,
+30,2026-12-08,Tue,WS-030,The Last Bus Out of the City Before the Pass Closes,"Kai, Mia, Tess, Owen",Day 30 (2026-11-29),Finale
