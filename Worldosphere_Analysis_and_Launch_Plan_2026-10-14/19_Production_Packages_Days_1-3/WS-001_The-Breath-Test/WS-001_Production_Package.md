@@ -98,6 +98,32 @@ Files in this folder:
 | 58.93–61.53 | — | *(no dialogue: Reverse angle from outside the same window. Pell's hand presses flat on the glass right ne…)* |
 | 61.53–64.73 | — | *(no dialogue: The Verdict card slides up over the held final image (frame darkens 20%).…)* |
 
+| Time | Speaker | Line |
+|---|---|---|
+| 00.10–02.74 | NARR | The alert said: avoid anyone acting strangely. |
+| 02.99–04.04 | NARR | It was Halloween. |
+| 04.24–06.34 | NARR | Three blocks to get Mia home. |
+| 06.74–09.20 | NARR | Half the street was dressed as zombies. |
+| 09.65–11.40 | NARR | Some of them weren't pretending. |
+| 12.15–13.91 | NARR | Then the screaming didn't stop. |
+| 14.41–15.81 | MIA | Which ones are real? |
+| 16.36–19.18 | NARR | Two ways home: the bright, crowded street… |
+| 19.38–21.31 | NARR | …or the empty, dark alley. |
+| 21.73–24.71 | NARR | In the dark, you can't see what's coming. |
+| 24.96–26.37 | NARR | Kai took the light. |
+| 26.72–29.52 | NARR | It was cold enough to see your breath. |
+| 29.97–32.08 | NARR | Every costume around him was breathing. |
+| 32.72–33.42 | NARR | Except one. |
+| 35.17–39.51 | NARR | The living breathe. On a cold night, you can see it. |
+| 39.96–42.27 | NARR | Puff. Puff. Puff. Nothing. |
+| 43.01–44.77 | GUEST | Stay away from Mr. Pell! |
+| 45.51–48.97 | NARR | The scariest costume was breathing. The friendliest face wasn't. |
+| 49.27–51.87 | — | *(no dialogue: Wide. Kai scoops Mia up and crosses the street at a fast walk; Pell lurches after (1.4× wa…)* |
+| 52.12–55.23 | NARR | They can push. They can't turn a handle. |
+| 55.78–58.53 | NARR | Two breaths on the glass. Both alive. |
+| 58.93–61.53 | — | *(no dialogue: Reverse angle from outside the same window. Pell's hand presses flat on the glass right ne…)* |
+| 61.53–64.73 | — | *(no dialogue: The Verdict card slides up over the held final image (frame darkens 20%).…)* |
+
 Pronunciation: "Pell" rhymes with "bell". Direction notes per line are in §11.
 
 ## 4. Scene-by-scene storyboard
@@ -106,13 +132,13 @@ Pronunciation: "Pell" rhymes with "bell". Direction notes per line are in §11.
 |---|---|---|---|---|
 | S1 — The alert | 01 | Over-the-shoulder: phone alert (FG left), costumed crowd (MG), Mia's fogging visor (right edge), Turned #1 under the far light | Hook lane + A | The contradiction and the question |
 | S2 — Maple Row | 02–05 | Wide street to home (screen-right) → costume crowd → Turned #1 standing too still → a real scream off-screen | A | Stakes, place and the hidden threat |
-| S3 — The choice | 06–09F | Mia asks → street vs alley → **FORK** split (STREET / ALLEY) → the street wins | A, then B during the Fork | The decision and its reason (you need light to see) |
+| S3 — The choice | 06–09F | Mia asks → street vs alley → **FORK** split (STREET / ALLEY) → the street wins | A (tag above the crack layer during the Fork) | The decision and its reason (you need light to see) |
 | S4 — The breath test | 10–14 | Kai's breath in the streetlight → costumes puffing (amber rim pulses) → Turned #1 with no breath (**drop**) → realisation → "Puff. Puff. Puff. Nothing." | A | Discovering the rule; first micro-payoff |
 | S5 — The reversal | 15–17 | Raven (scary costume, breathing) warns them → Mr. Pell (friendly face, no breath) → crossing; the candy rattle Sphere | A; none in 17 | Escalation and reversal; second micro-payoff |
 | S6 — Home | 18–20 | The door slams; Pell can't turn the handle → two fog patches and a smiley → **Pell's hand on the glass, no fog** | A; none in 20 | The payoff image |
 | S7 — Verdict | 21V | Paper card over the held final image | Verdict | Resolution and quotable takeaway |
 
-Thumbnail sketches can be drawn directly from the "Camera & composition" column of the shot list. Each panel's caption lane is given above. Subject boxes: faces and hands must stay out of y 1100–1300 in shots marked lane A. Shot 09F uses lane B.
+Thumbnail sketches can be drawn directly from the "Camera & composition" column of the shot list. Each panel's caption lane is given above. Subject boxes: faces and hands must stay out of y 1100–1300 in shots marked lane A (including the Fork, where the caption tag sits above the crack layer).
 
 ## 5. Shot list with durations
 | Shot | Start | End | Dur | Camera & composition | Action / performance | Spoken (speaker: line @ start–end) | Graphics / on-screen text | Sound | Transition | Continuity / notes |
@@ -125,7 +151,7 @@ Thumbnail sketches can be drawn directly from the "Camera & composition" column 
 | 06 | 14.31 | 16.31 | 2.00 | Medium two-shot, slightly low. Kai pulls Mia close; her visor fogs fast. | Mia looks up at Kai (eyes lead the head by 4 frames); Kai's brows knit. | MIA: "Which ones are real?" @14.41–15.81 | S1 chip 'MIA' (Lilac) | Pulse bed +2 dB | Hard cut | Mia's pumpkin candy bucket is in her LEFT hand from here on. |
 | 07 | 16.31 | 19.33 | 3.02 | Kai's POV, split by architecture: left, the bright main street (crowd, amber lights, music); right, the alley mouth (dark, empty, a dumpster). | Kai's head turns left, then right (2 key poses). | NARR: "Two ways home: the bright, crowded street…" @16.36–19.18 | — | Party music swells, panned left; right side quiet wind | Hard cut | — |
 | 08 | 19.33 | 21.63 | 2.30 | Push into the alley: long shadows; a shape far down that might be a person (ambiguous). | Nothing clearly moves. That's the point. | NARR: "…or the empty, dark alley." @19.38–21.31 | — | Music muffles (low-pass) entering the alley; a can rolls | Freeze into the FORK | — |
-| 09F | 21.63 | 26.62 | 4.99 | THE FORK. Frame freezes; an amber crack runs top-right to bottom-left (12°). Left panel = the bright street (still from shot 07); right panel = the dark alley (still from shot 08). F1 chips 'STREET' / 'ALLEY' slide in (4 frames). At ~1.6 s (split hold 1.0–1.6 s) the left panel wipes to full frame and the right desaturates and slides off right; the narration continues over the chosen street view. | Freeze; Kai's chosen move resumes in the left panel. | NARR: "In the dark, you can't see what's coming." @21.73–24.71 / NARR: "Kai took the light." @24.96–26.37 | F1 'STREET' (becomes Amber chip when chosen) · F1 'ALLEY' | Paper-tear whoosh on the split; soft tick on the choice; pulse resumes | Fork transition (branded) | Captions use Lane B during the Fork; never over the crack line. |
+| 09F | 21.63 | 26.62 | 4.99 | THE FORK. Frame freezes; an amber crack runs top-right to bottom-left (12°). Left panel = the bright street (still from shot 07); right panel = the dark alley (still from shot 08). F1 chips 'STREET' / 'ALLEY' slide in (4 frames). At ~1.6 s (split hold 1.0–1.6 s) the left panel wipes to full frame and the right desaturates and slides off right; the narration continues over the chosen street view. | Freeze; Kai's chosen move resumes in the left panel. | NARR: "In the dark, you can't see what's coming." @21.73–24.71 / NARR: "Kai took the light." @24.96–26.37 | F1 'STREET' (becomes Amber chip when chosen) · F1 'ALLEY' | Paper-tear whoosh on the split; soft tick on the choice; pulse resumes | Fork transition (branded) | During the Fork, captions stay in lane A on their ink tag above the crack layer; F1 chips sit in the hook lane. |
 | 10 | 26.62 | 29.87 | 3.26 | Medium close under a streetlight. Kai exhales; the puff blooms in the amber light. Mia's visor fogs. | Kai notices his own breath; his eyes follow the puff upward. | NARR: "It was cold enough to see your breath." @26.72–29.52 | — | Soft exhale Foley; streetlight hum | Hard cut | Breath FX spec: see the asset sheet. |
 | 11 | 29.87 | 32.47 | 2.60 | One lateral pan, no cuts, across three inserts: zombie bride laughs (puff), football zombie groans (puff), rubber-mask guy (puff through the mask holes). | Each puff gets a 6-frame amber rim pulse (the 'Breath Check' highlight). | NARR: "Every costume around him was breathing." @29.97–32.08 | Amber rim on breath puffs (60% opacity), never on the Turned | Three soft exhale ticks synced to the puffs | Hard cut | — |
 | 12 | 32.47 | 35.07 | 2.60 | Medium, symmetrical. At the curb under a streetlight, Turned #1 faces camera, mouth slightly open. No puff. Long hold. | One slow head tilt late in the hold. Absolutely no breath and no chest motion. | NARR: "Except one." @32.72–33.42 | — | **PLANNED DROP:** music and pulse cut at shot start; only wind and far laughter remain for the whole hold | Hard cut | No caption after the line (hold the image). |
@@ -189,7 +215,7 @@ Thumbnail sketches can be drawn directly from the "Camera & composition" column 
 - **Lighting:** amber practical pools on the street. Faces are lit when inside a pool and rim-lit Night Teal outside. Interior: warm key, cold blue window.
 
 ## 9. Captions and provisional timings
-Presets: N1 narration (lane A; lane B during the Fork) · D1 + S1 for Mia (Lilac) and Raven (Guest) · H1 hook · G1 scenario tag · L1 labels · F1 Fork chips · V1/V2 Verdict.
+Presets: N1 narration (lane A throughout) · D1 + S1 for Mia (Lilac) and Raven (Guest) · H1 hook · G1 scenario tag · L1 labels · F1 Fork chips · V1/V2 Verdict.
 **No-text moments:**
 - shot 12 after "Except one." (the drop hold)
 - shot 17 (the Sphere carries the information)
@@ -210,9 +236,9 @@ Presets: N1 narration (lane A; lane B during the Fork) · D1 + S1 for Mia (Lilac
 | 10 | 16.28 | 17.46 | 1.19 | NARR | A | Two ways home: | — | yes |
 | 11 | 17.48 | 19.27 | 1.79 | NARR | A | the bright, / crowded street… | — | yes |
 | 12 | 19.29 | 21.41 | 2.12 | NARR | A | …or the empty, / dark alley. | dark (threat tint) | yes |
-| 13 | 21.64 | 22.74 | 1.10 | NARR | B | In the dark, | — | yes |
-| 14 | 22.76 | 24.81 | 2.05 | NARR | B | you can't see / what's coming. | — | yes |
-| 15 | 24.88 | 26.47 | 1.59 | NARR | B | Kai took the light. | light (amber) | yes |
+| 13 | 21.64 | 22.74 | 1.10 | NARR | A | In the dark, | — | yes |
+| 14 | 22.76 | 24.81 | 2.05 | NARR | A | you can't see / what's coming. | — | yes |
+| 15 | 24.88 | 26.47 | 1.59 | NARR | A | Kai took the light. | light (amber) | yes |
 | 16 | 26.63 | 28.02 | 1.38 | NARR | A | It was cold enough | — | yes |
 | 17 | 28.04 | 29.62 | 1.59 | NARR | A | to see your breath. | breath (amber) | yes |
 | 18 | 29.89 | 31.27 | 1.38 | NARR | A | Every costume around him | — | yes |
@@ -342,7 +368,7 @@ A successful still does not prove its animation will stay consistent.
 - [ ] Frame 0 shows the alert, the crowd, Mia's fogging visor and Turned #1 (no breath). H1 is readable.
 - [ ] Every living outdoor character puffs at least every 3.5 s. **No Turned ever puffs.** Indoors, no character puffs.
 - [ ] Screen direction to home is screen-right throughout.
-- [ ] The Fork holds 1.0–1.6 s. Labels are STREET / ALLEY. Captions are in lane B.
+- [ ] The Fork holds 1.0–1.6 s. Labels are STREET / ALLEY (hook lane). Captions stay in lane A on their tag.
 - [ ] Drop: music silent from 32.47 s to 35.07 s (adjust after VO sync). No caption after "Except one."
 - [ ] Pell's handle never turns. The door opens inward.
 - [ ] Final glass: two fog patches + smiley inside; no fog around Pell's hand outside.

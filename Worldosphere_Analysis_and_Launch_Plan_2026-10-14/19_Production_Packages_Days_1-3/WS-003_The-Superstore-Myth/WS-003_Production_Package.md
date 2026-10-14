@@ -55,6 +55,44 @@ Files: `WS-003_shot_list.csv` · `WS-003_captions_PROVISIONAL.ass` · `WS-003_ca
 | 50.67–54.13 | NARR | Tess didn't need the superstore. She'd been driving one. |
 | 54.63–58.03 | — | *(no dialogue: The Verdict card slides up over the held cargo image.…)* |
 
+| Time | Speaker | Line |
+|---|---|---|
+| 00.10–04.31 | NARR | Everyone says the superstore is the best place to survive an outbreak. |
+| 04.56–06.31 | NARR | Everyone else says it too. |
+| 06.66–09.77 | NARR | Six a.m. Tess was unloading at the back. |
+| 10.17–13.28 | GUEST | Reports of attacks downtown. Officials say stay indoors. |
+| 13.68–17.02 | NARR | Minutes later, the manager opened the doors for shelter. |
+| 17.42–19.52 | NARR | And the whole town drove in. |
+| 19.92–22.63 | NARR | Horns. Alarms. Hundreds of people shouting. |
+| 23.12–28.28 | NARR | Tess knew this building from the back. One glass front. Eight dock doors. |
+| 28.68–31.14 | GUEST | Can you get us out of here? |
+| 31.54–35.89 | NARR | Inside: food for months. Outside: a van, and a road. |
+| 36.29–40.93 | NARR | No reversing. No beeping. She rolled out the back, lights off. |
+| 41.33–44.67 | NARR | Behind her, the town was walking toward the noise. |
+| 44.97–47.57 | — | *(no dialogue: The ridge, wide: the van stopped at a turnout; Tess stands by the cab looking down at the …)* |
+| 47.72–50.17 | GUEST | We left the best place to survive. |
+| 50.67–54.13 | NARR | Tess didn't need the superstore. She'd been driving one. |
+| 54.63–58.03 | — | *(no dialogue: The Verdict card slides up over the held cargo image.…)* |
+
+| Time | Speaker | Line |
+|---|---|---|
+| 00.10–04.31 | NARR | Everyone says the superstore is the best place to survive an outbreak. |
+| 04.56–06.31 | NARR | Everyone else says it too. |
+| 06.66–09.77 | NARR | Six a.m. Tess was unloading at the back. |
+| 10.17–13.28 | GUEST | Reports of attacks downtown. Officials say stay indoors. |
+| 13.68–17.02 | NARR | Minutes later, the manager opened the doors for shelter. |
+| 17.42–19.52 | NARR | And the whole town drove in. |
+| 19.92–22.63 | NARR | Horns. Alarms. Hundreds of people shouting. |
+| 23.12–28.28 | NARR | Tess knew this building from the back. One glass front. Eight dock doors. |
+| 28.68–31.14 | GUEST | Can you get us out of here? |
+| 31.54–35.89 | NARR | Inside: food for months. Outside: a van, and a road. |
+| 36.29–40.93 | NARR | No reversing. No beeping. She rolled out the back, lights off. |
+| 41.33–44.67 | NARR | Behind her, the town was walking toward the noise. |
+| 44.97–47.57 | — | *(no dialogue: The ridge, wide: the van stopped at a turnout; Tess stands by the cab looking down at the …)* |
+| 47.72–50.17 | GUEST | We left the best place to survive. |
+| 50.67–54.13 | NARR | Tess didn't need the superstore. She'd been driving one. |
+| 54.63–58.03 | — | *(no dialogue: The Verdict card slides up over the held cargo image.…)* |
+
 ## 4. Scene-by-scene storyboard
 | Scene | Shots | Key frame | Lane | Job |
 |---|---|---|---|---|
@@ -62,7 +100,7 @@ Files: `WS-003_shot_list.csv` · `WS-003_captions_PROVISIONAL.ass` · `WS-003_ca
 | S2 — The back of the store | 02–03 | Tess scanning cargo at Dock 6 → the radio report | A | Introduce Tess and her cargo (the setup for the payoff) |
 | S3 — The town arrives | 04–06 | Manager opens the doors → lot jammed → map with the Amber Sphere and red dots turning | A | Show the mechanism (noise + herding) |
 | S4 — Reading the building | 07–08 | Labels: GLASS FRONT · 8 DOCK DOORS · 1,200 PEOPLE ARRIVING → Marcus asks for help | A | Tess's expertise; the human stake |
-| S5 — The choice | 09F | Fork: DRIVE AWAY (left, chosen) / GO INSIDE | B | The decision |
+| S5 — The choice | 09F | Fork: DRIVE AWAY (left, chosen) / GO INSIDE | A | The decision |
 | S6 — Leaving quietly | 10–12 | Forward out of the dock, lights off → the town walking toward the noise → ridge hold (**drop**) | A; none in 12 | Consequence avoided; dread |
 | S7 — The twist | 13–14 | "We left the best place to survive." → rear door up: the van is a store | A | The payoff |
 | S8 — Verdict | 15V | Card over the cargo image | Verdict | Resolution |
@@ -137,9 +175,9 @@ Files: `WS-003_shot_list.csv` · `WS-003_captions_PROVISIONAL.ass` · `WS-003_ca
 | 12 | 20.74 | 22.73 | 1.99 | NARR | A | Hundreds of people / shouting. | — | yes |
 | 13 | 23.04 | 25.80 | 2.76 | NARR | A | Tess knew this building / from the back. | — | yes |
 | 14 | 25.82 | 28.38 | 2.57 | NARR | A | One glass front. / Eight dock doors. | glass (amber) | yes |
-| 15 | 28.60 | 31.24 | 2.64 | GUEST | A-right | Can you get us / out of here? | out (amber) | yes |
-| 16 | 31.46 | 33.18 | 1.72 | NARR | B | Inside: food for months. | — | yes |
-| 17 | 33.20 | 35.99 | 2.79 | NARR | B | Outside: a van, / and a road. | — | yes |
+| 15 | 28.60 | 31.24 | 2.64 | GUEST | A-right | Can you get us / out of here? | — | yes |
+| 16 | 31.46 | 33.18 | 1.72 | NARR | A | Inside: food for months. | — | yes |
+| 17 | 33.20 | 35.99 | 2.79 | NARR | A | Outside: a van, / and a road. | — | yes |
 | 18 | 36.21 | 37.87 | 1.67 | NARR | A | No reversing. / No beeping. | — | yes |
 | 19 | 37.89 | 41.03 | 3.14 | NARR | A | She rolled out the back, / lights off. | — | yes |
 | 20 | 41.25 | 41.97 | 0.72 | NARR | A | Behind her, | — | yes |

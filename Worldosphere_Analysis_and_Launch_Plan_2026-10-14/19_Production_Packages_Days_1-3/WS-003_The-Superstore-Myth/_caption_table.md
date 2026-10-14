@@ -14,9 +14,9 @@
 | 12 | 20.74 | 22.73 | 1.99 | NARR | A | Hundreds of people / shouting. | — | yes |
 | 13 | 23.04 | 25.80 | 2.76 | NARR | A | Tess knew this building / from the back. | — | yes |
 | 14 | 25.82 | 28.38 | 2.57 | NARR | A | One glass front. / Eight dock doors. | glass (amber) | yes |
-| 15 | 28.60 | 31.24 | 2.64 | GUEST | A-right | Can you get us / out of here? | out (amber) | yes |
-| 16 | 31.46 | 33.18 | 1.72 | NARR | B | Inside: food for months. | — | yes |
-| 17 | 33.20 | 35.99 | 2.79 | NARR | B | Outside: a van, / and a road. | — | yes |
+| 15 | 28.60 | 31.24 | 2.64 | GUEST | A-right | Can you get us / out of here? | — | yes |
+| 16 | 31.46 | 33.18 | 1.72 | NARR | A | Inside: food for months. | — | yes |
+| 17 | 33.20 | 35.99 | 2.79 | NARR | A | Outside: a van, / and a road. | — | yes |
 | 18 | 36.21 | 37.87 | 1.67 | NARR | A | No reversing. / No beeping. | — | yes |
 | 19 | 37.89 | 41.03 | 3.14 | NARR | A | She rolled out the back, / lights off. | — | yes |
 | 20 | 41.25 | 41.97 | 0.72 | NARR | A | Behind her, | — | yes |

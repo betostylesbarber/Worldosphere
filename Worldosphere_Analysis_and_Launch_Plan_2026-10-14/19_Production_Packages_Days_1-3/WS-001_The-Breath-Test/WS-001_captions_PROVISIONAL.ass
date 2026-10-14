@@ -59,9 +59,9 @@ Dialogue: 0,0:00:14.33,0:00:15.91,D1_Left,,0,0,0,,{\fad(83,0)}Which ones are {\1
 Dialogue: 0,0:00:16.28,0:00:17.46,N1_Narration,,0,0,0,,{\fad(83,0)}Two ways home:
 Dialogue: 0,0:00:17.48,0:00:19.27,N1_Narration,,0,0,0,,{\fad(83,0)}the bright,\Ncrowded street…
 Dialogue: 0,0:00:19.29,0:00:21.41,N1_Narration,,0,0,0,,{\fad(83,0)}…or the empty,\N{\1c&H7A8AFF&}dark{\1c&HFFFFFF&} alley.
-Dialogue: 0,0:00:21.64,0:00:22.74,N1_LaneB,,0,0,0,,{\fad(83,0)}In the dark,
-Dialogue: 0,0:00:22.76,0:00:24.81,N1_LaneB,,0,0,0,,{\fad(83,0)}you can't see\Nwhat's coming.
-Dialogue: 0,0:00:24.88,0:00:26.47,N1_LaneB,,0,0,0,,{\fad(83,0)}Kai took the {\1c&H47C2FF&}light{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:21.64,0:00:22.74,N1_Narration,,0,0,0,,{\fad(83,0)}In the dark,
+Dialogue: 0,0:00:22.76,0:00:24.81,N1_Narration,,0,0,0,,{\fad(83,0)}you can't see\Nwhat's coming.
+Dialogue: 0,0:00:24.88,0:00:26.47,N1_Narration,,0,0,0,,{\fad(83,0)}Kai took the {\1c&H47C2FF&}light{\1c&HFFFFFF&}.
 Dialogue: 0,0:00:26.63,0:00:28.02,N1_Narration,,0,0,0,,{\fad(83,0)}It was cold enough
 Dialogue: 0,0:00:28.04,0:00:29.62,N1_Narration,,0,0,0,,{\fad(83,0)}to see your {\1c&H47C2FF&}breath{\1c&HFFFFFF&}.
 Dialogue: 0,0:00:29.89,0:00:31.27,N1_Narration,,0,0,0,,{\fad(83,0)}Every costume around him

@@ -74,7 +74,7 @@ A visual overlay is provided: `safe_zone_overlay_1080x1920.png`. Put it on the t
 ## 6. Keeping text off faces, hands and threats
 - Each storyboard panel marks the **caption lane**: A (low) or B (high: y 470–610, same style). Lane B is used when a face, hands, or the threat occupies y 1050–1350.
 - Each shot draws a "subject box" around faces, hands and the threat. Captions must not intersect it (QA item T-04).
-- Never place text over the Fork crack line or the Sphere's source point.
+- During the Fork, captions stay in lane A on their ink tag, which sits above the crack layer. F1 chips sit in the hook lane (y≈520). Never place text over the chips or the Sphere's source point.
 
 ## 7. Speaker identification
 - Narrator: no chip, centred tag.

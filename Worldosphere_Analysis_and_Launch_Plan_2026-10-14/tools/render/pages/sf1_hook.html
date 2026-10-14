@@ -1,0 +1,44 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../ws.css">
+<style>
+.phone{position:absolute;left:70px;top:610px;width:330px;height:520px;background:#0e1116;border:6px solid #161A22;border-radius:42px;box-shadow:0 10px 0 rgba(0,0,0,.35);transform:rotate(-7deg)}
+.scr{position:absolute;inset:18px;border-radius:28px;background:#1d2530;overflow:hidden}
+.card{position:absolute;left:14px;right:14px;top:70px;background:#F2EBDD;border-radius:16px;overflow:hidden}
+.card .hd{background:#E5483B;color:#F2EBDD;font:800 30px/1 BSD;letter-spacing:.03em;padding:12px 14px}
+.card .bd{color:#161A22;font:800 31px/1.12 AHN;padding:14px}
+.card .ft{color:#4a4f58;font:700 20px JBM;padding:0 14px 14px}
+.clock{position:absolute;top:18px;width:100%;text-align:center;color:#9FB3B6;font:700 20px JBM}
+</style></head><body><div class="stage">
+<svg id="s" width="1080" height="1920" viewBox="0 0 1080 1920" style="position:absolute;inset:0"></svg>
+<div class="phone"><div class="scr"><div class="clock">9:14 PM · 38°F</div>
+ <div class="card"><div class="hd">MAPLE ROW CITY ALERT</div><div class="bd">Avoid anyone acting strangely. Stay indoors.</div><div class="ft">ISSUED 9:12 PM</div></div></div></div>
+<div style="position:absolute;left:120px;top:1050px;width:120px;height:96px;background:#A86F4C;border:6px solid #161A22;border-radius:48px;transform:rotate(-20deg)"></div>
+<div class="g1">SCENARIO 001</div>
+<div class="h1" style="top:300px">WHO'S IN <span class="amb">COSTUME</span>?</div>
+<div class="lane" style="top:1150px"><div class="n1">The alert said:</div></div>
+</div>
+<script src="../ws_draw.js"></script>
+<script>
+const svg=document.getElementById('s'); defs(svg);
+const g=el('g',{},svg); nightStreet(g,{horizon:900});
+streetlight(g,320,1390,680,320); streetlight(g,900,1260,560,240);
+// sidewalk band + fence + pumpkins in the lower third (under UI, but never empty)
+el('rect',{x:0,y:1400,width:1080,height:520,fill:'#2b3d46'},g);
+for(let i=0;i<14;i++) el('rect',{x:i*80+10,y:1430,width:18,height:120,rx:4,fill:'#3e5661',stroke:'#161A22','stroke-width':4},g);
+el('rect',{x:0,y:1450,width:1080,height:16,fill:'#3e5661',stroke:'#161A22','stroke-width':4},g);
+pumpkin(g,520,1560,1.5); pumpkin(g,690,1600,1.2); pumpkin(g,140,1400,1.2);
+const fwd=(f)=>({l:[f*84,f*92],r:[f*78,f*88]});
+const crowd=[
+ {x:480,y:1340,h:420,skin:'#D9A47A',paint:'#9fd18b',top:'#f4f1ea',bottom:'#e8e2d4',hairBack:KIT.veil,face:{brows:'up',mouth:'o'},arms:fwd(1),puff:0.25},
+ {x:650,y:1330,h:440,skin:'#A86F4C',paint:'#8fc47a',top:'#2f6d3a',bottom:'#e9e4d6',face:{brows:'angry',mouth:'o'},arms:fwd(-1),facing:-1,puff:0.55},
+ {x:790,y:1310,h:400,skin:'#F1C9A5',top:'#3a2a4a',bottom:'#2a2236',hairFront:KIT.hat('#2b2236'),face:{brows:'up',mouth:'smile'},puff:0.05},
+ {x:560,y:1270,h:330,skin:'#6B4430',top:'#141414',bottom:'#141414',face:{brows:'calm',mouth:'smile'},puff:0.8},
+];
+crowd.forEach(c=>{const r=character(g,Object.assign({shoe:'#222'},c)); breathPuff(g,r.mouth[0],r.mouth[1],c.puff,1.1);});
+character(g,{x:905,y:1262,h:340,skin:'#D9A47A',turned:true,top:'#8d9197',bottom:'#4d5560',shoe:'#333',facing:-1,arms:{l:[6,0],r:[-6,0]},hairFront:KIT.greyHair});
+character(g,{x:1010,y:1780,h:640,skin:'#A86F4C',top:'#eef3f6',bottom:'#eef3f6',shoe:'#e5c64a',facing:-1,face:{brows:'worried',mouth:'rest'},hairFront:KIT.helmet(0.85),arms:{l:[10,0],r:[40,20]}});
+// Kai's sleeve + mitten hand gripping the phone
+el('path',{d:'M -30 1560 Q 110 1330 210 1150',stroke:'#161A22','stroke-width':126,'stroke-linecap':'round',fill:'none'},g);
+el('path',{d:'M -30 1560 Q 110 1330 210 1150',stroke:'#F2C230','stroke-width':110,'stroke-linecap':'round',fill:'none'},g);
+breathPuff(g,430,980,0.35,1.4);
+el('rect',{x:0,y:0,width:1080,height:1920,filter:'url(#grain)'},svg);
+</script></body></html>

@@ -76,6 +76,24 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 52.87–56.47 | — | *(no dialogue: The Verdict card slides up over the held bank image.…)* |
 | 56.52–59.33 | NARR | Send this to someone who drives at night. |
 
+| Time | Speaker | Line |
+|---|---|---|
+| 00.10–04.14 | NARR | When a car goes into water, you get about one minute. |
+| 04.54–09.63 | NARR | The first night after the clocks went back, it got dark an hour earlier. |
+| 09.93–12.92 | NARR | The car hit the water — and floated. |
+| 13.32–18.76 | NARR | In tests, cars floated about fifteen seconds to a minute before water reached the windows. |
+| 19.16–21.22 | OWEN | The door. Get the door. |
+| 21.62–27.18 | NARR | Water was pressing on the door. It wouldn't open until the car was nearly full. |
+| 27.58–28.81 | NARR | Door, or window? |
+| 29.53–34.27 | NARR | The way out is the window — while the car is still floating. |
+| 34.57–35.92 | NARR | Belt off. Window. |
+| 37.82–41.16 | NARR | Then out — before the water reached the glass. |
+| 41.46–44.46 | — | *(no dialogue: Low wide from the water surface: Owen swims three strokes and grabs the grassy bank; behin…)* |
+| 44.46–47.06 | — | *(no dialogue: Underwater: the headlights glow and fade as the car settles nose-first into the dark; bubb…)* |
+| 47.26–52.47 | NARR | Most people try the door. The ones who make it out use the window. |
+| 52.87–56.47 | — | *(no dialogue: The Verdict card slides up over the held bank image.…)* |
+| 56.52–59.33 | NARR | Send this to someone who drives at night. |
+
 **Version B for C-205** (use if current guidance puts the window first): shot 09 line becomes **"Window. Belt off."** Swap the animation beats: punch first (with the belt still on, which keeps him braced), then the belt release. Captions: "Window." / "Belt off." Same timing.
 
 ## 4. Scene-by-scene storyboard
@@ -84,7 +102,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | S1 — The minute | 01 | Waterline split; Owen's lit face below; T1 ≈1:00 | A + hook lane | Stakes and the clock |
 | S2 — How it happened | 02–03 | Desaturated rainy curve → the car slides into the pond, splash | A | Plausible cause (dark, rain, curve); time resets to the splash |
 | S3 — The physics | 04–06 | Cyan Sphere over the submerged body → Owen shoves the door → pressure arrows | A | The fact and the failed instinct |
-| S4 — The choice | 07F | Fork: DOOR / WINDOW | B | The decision |
+| S4 — The choice | 07F | Fork: DOOR / WINDOW | A | The decision |
 | S5 — The escape | 08–11 | Keyring punch → belt + window (order per C-205) → out through the window → to the bank | A | The correct action, step by step |
 | S6 — The car goes | 12 | Underwater headlights fading (**drop**) | none | Consequence avoided |
 | S7 — Lesson and Verdict | 13–15 | Owen on the bank → Verdict card with REAL RULE → share line | A | Takeaway + share-to-protect |
@@ -98,7 +116,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 04 | 13.22 | 19.06 | 5.84 | Return to the WATERLINE SPLIT. A cyan Sphere outlines the submerged part of the car; the water line creeps up the doors. | Owen breathing fast; hands off the wheel. | NARR: "In tests, cars floated about fifteen seconds to a minute before water reached the windows." @13.32–18.76 | Cyan Sphere around the submerged body · L1 'WATERLINE' with a small arrow at the door | Creaks; bubbles; pulse | Hard cut | Claim C-201 (script-safe wording). |
 | 05 | 19.06 | 21.52 | 2.45 | Interior, medium close from the passenger seat: Owen's shoulder to the driver's door, hand on the handle. | Owen shoves; the door gives nothing. | OWEN: "The door. Get the door." @19.16–21.22 | S1 chip 'OWEN' (Moss) | Muffled thump; strain grunt | Hard cut | Seatbelt still on in this shot (visible strap). |
 | 06 | 21.52 | 27.48 | 5.96 | Exterior underwater close on the driver's door: cyan pressure arrows (Sphere detail) pushing inward on the whole door panel. | The handle moves; the door doesn't. | NARR: "Water was pressing on the door. It wouldn't open until the car was nearly full." @21.62–27.18 | Cyan arrows (L1 'WATER PRESSURE') | Deep underwater groan; arrows have a soft 'press' whoosh | Freeze into the FORK | Claim C-202. |
-| 07F | 27.48 | 29.48 | 2.00 | THE FORK. Left panel: the door with arrows, water rising behind the glass. Right panel: the side window with an exit path drawn as a dotted amber line out to the surface. At ~1.4 s the right panel wipes to full frame; the left desaturates and slides off left. | Freeze; Owen's eyes move to the window (the choice is his look). | NARR: "Door, or window?" @27.58–28.81 | F1 'DOOR' / 'WINDOW' (WINDOW becomes Amber chip) | Paper-tear whoosh; tick on the choice | Fork transition | Lane B for captions during the Fork. |
+| 07F | 27.48 | 29.48 | 2.00 | THE FORK. Left panel: the door with arrows, water rising behind the glass. Right panel: the side window with an exit path drawn as a dotted amber line out to the surface. At ~1.4 s the right panel wipes to full frame; the left desaturates and slides off left. | Freeze; Owen's eyes move to the window (the choice is his look). | NARR: "Door, or window?" @27.58–28.81 | F1 'DOOR' / 'WINDOW' (WINDOW becomes Amber chip) | Paper-tear whoosh; tick on the choice | Fork transition | Captions stay in lane A (tag above the crack layer); chips in the hook lane. |
 | 08 | 29.48 | 34.52 | 5.04 | Interior close: Owen's keyring dangling from the ignition; a small spring-loaded window punch on the ring (amber highlight 6 frames). | Owen grabs the keyring. | NARR: "The way out is the window — while the car is still floating." @29.53–34.27 | L1 'WINDOW PUNCH' with leader line | Keys jingle (underwater-muffled) | Hard cut | Claim C-203; tool shown per C-206 (qualified). |
 | 09 | 34.52 | 37.72 | 3.20 | Two-beat close sequence inside one shot: (a) hand presses the belt buckle, strap retracts; (b) the punch pressed into the lower corner of the side window; the tempered glass crazes and drops away. | Belt release (4 frames), reach (6 frames), press (3 frames), glass burst (8 frames). | NARR: "Belt off. Window." @34.57–35.92 | — | Belt click; punch 'snap'; glass crumble; rush of cold air and rain | Hard cut | **C-205 BLOCKING:** the order of 'belt' and 'window' must match current Giesbrecht/U. Manitoba guidance at script lock. Version A (shown): 'Belt off. Window.' Version B: 'Window. Belt off.' Re-order animation beats to match. |
 | 10 | 37.72 | 41.46 | 3.74 | WATERLINE SPLIT, wider: Owen pulls himself through the window and up into the rain; the water line is a hand's width below the window frame. | Head and shoulders out first, then a kick free; he pushes off the car body toward the bank. | NARR: "Then out — before the water reached the glass." @37.82–41.16 | T1 counting (≈0:32 at the moment he clears the window) | Splashing, breath gasps, rain | Hard cut | Owen exits before the waterline reaches the glass (C-201/203). |
@@ -155,7 +173,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 11 | 19.90 | 21.32 | 1.42 | OWEN | A-left | Get the door. | — | yes |
 | 12 | 21.53 | 23.74 | 2.21 | NARR | A | Water was pressing / on the door. | — | yes |
 | 13 | 23.76 | 27.28 | 3.52 | NARR | A | It wouldn't open until / the car was nearly full. | full (threat tint) | yes |
-| 14 | 27.50 | 28.91 | 1.42 | NARR | B | Door, or window? | — | yes |
+| 14 | 27.50 | 28.91 | 1.42 | NARR | A | Door, or window? | — | yes |
 | 15 | 29.45 | 31.98 | 2.53 | NARR | A | The way out / is the window — | window (amber) | yes |
 | 16 | 32.00 | 34.37 | 2.37 | NARR | A | while the car / is still floating. | — | yes |
 | 17 | 34.49 | 35.37 | 0.88 | NARR | A | Belt off. | — | yes |

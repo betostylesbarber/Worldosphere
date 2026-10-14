@@ -13,7 +13,7 @@
 | 11 | 19.90 | 21.32 | 1.42 | OWEN | A-left | Get the door. | — | yes |
 | 12 | 21.53 | 23.74 | 2.21 | NARR | A | Water was pressing / on the door. | — | yes |
 | 13 | 23.76 | 27.28 | 3.52 | NARR | A | It wouldn't open until / the car was nearly full. | full (threat tint) | yes |
-| 14 | 27.50 | 28.91 | 1.42 | NARR | B | Door, or window? | — | yes |
+| 14 | 27.50 | 28.91 | 1.42 | NARR | A | Door, or window? | — | yes |
 | 15 | 29.45 | 31.98 | 2.53 | NARR | A | The way out / is the window — | window (amber) | yes |
 | 16 | 32.00 | 34.37 | 2.37 | NARR | A | while the car / is still floating. | — | yes |
 | 17 | 34.49 | 35.37 | 0.88 | NARR | A | Belt off. | — | yes |

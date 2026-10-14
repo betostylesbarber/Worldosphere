@@ -12,9 +12,9 @@
 | 10 | 16.28 | 17.46 | 1.19 | NARR | A | Two ways home: | — | yes |
 | 11 | 17.48 | 19.27 | 1.79 | NARR | A | the bright, / crowded street… | — | yes |
 | 12 | 19.29 | 21.41 | 2.12 | NARR | A | …or the empty, / dark alley. | dark (threat tint) | yes |
-| 13 | 21.64 | 22.74 | 1.10 | NARR | B | In the dark, | — | yes |
-| 14 | 22.76 | 24.81 | 2.05 | NARR | B | you can't see / what's coming. | — | yes |
-| 15 | 24.88 | 26.47 | 1.59 | NARR | B | Kai took the light. | light (amber) | yes |
+| 13 | 21.64 | 22.74 | 1.10 | NARR | A | In the dark, | — | yes |
+| 14 | 22.76 | 24.81 | 2.05 | NARR | A | you can't see / what's coming. | — | yes |
+| 15 | 24.88 | 26.47 | 1.59 | NARR | A | Kai took the light. | light (amber) | yes |
 | 16 | 26.63 | 28.02 | 1.38 | NARR | A | It was cold enough | — | yes |
 | 17 | 28.04 | 29.62 | 1.59 | NARR | A | to see your breath. | breath (amber) | yes |
 | 18 | 29.89 | 31.27 | 1.38 | NARR | A | Every costume around him | — | yes |

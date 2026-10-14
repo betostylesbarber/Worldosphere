@@ -1,0 +1,39 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../ws.css"></head><body><div class="stage">
+<svg id="s" width="1080" height="1920" viewBox="0 0 1080 1920" style="position:absolute;inset:0"></svg>
+<div class="f1 on" style="left:120px;top:470px">STREET</div><div class="f1" style="left:700px;top:520px">ALLEY</div>
+<div class="lane" style="top:1150px"><div class="n1">In the dark,</div></div>
+</div>
+<script src="../ws_draw.js"></script>
+<script>
+const svg=document.getElementById('s'); const d=defs(svg);
+// crack line: through (540,960), 12 deg from vertical, top-right to bottom-left
+const k=Math.tan(12*Math.PI/180), xAt=y=>540+(960-y)*k, gap=14;
+const cl=el('clipPath',{id:'L'},d); el('polygon',{points:`0,0 ${xAt(0)-gap},0 ${xAt(1920)-gap},1920 0,1920`},cl);
+const cr=el('clipPath',{id:'R'},d); el('polygon',{points:`${xAt(0)+gap},0 1080,0 1080,1920 ${xAt(1920)+gap},1920`},cr);
+// LEFT: bright crowded street
+const L=el('g',{'clip-path':'url(#L)'},svg); nightStreet(L,{horizon:900});
+el('rect',{x:0,y:0,width:1080,height:1920,fill:'#F5A524',opacity:0.10},L);
+streetlight(L,170,1330,640,320); streetlight(L,430,1280,560,260);
+[[120,1350,420,'#2f6d3a','#9fd18b',.3],[300,1330,400,'#f4f1ea','#9fd18b',.7],[230,1250,300,'#3a2a4a',null,.1],[420,1300,360,'#7a2a2a',null,.5]].forEach(([x,y,h,top,paint,p],i)=>{
+  const r=character(L,{x,y,h,skin:['#D9A47A','#A86F4C','#F1C9A5','#6B4430'][i],paint,top,bottom:'#2a2236',shoe:'#222',facing:i%2?-1:1,face:{brows:'up',mouth:i%2?'smile':'o'}}); breathPuff(L,r.mouth[0],r.mouth[1],p,1.0);});
+// Kai + Mia on the bright side (chosen)
+const kai=character(L,{x:250,y:1560,h:560,skin:'#A86F4C',top:'#F2C230',bottom:'#3b3f47',shoe:'#f2f2f2',face:{brows:'worried',mouth:'tight'},hairBack:KIT.kaiHair.hairBack,hairFront:KIT.kaiHair.hairFront,extra:KIT.headphones,arms:{l:[20,10],r:[-30,-20]}});
+breathPuff(L,kai.mouth[0],kai.mouth[1],0.4,1.3);
+character(L,{x:90,y:1600,h:420,skin:'#A86F4C',top:'#eef3f6',bottom:'#eef3f6',shoe:'#e5c64a',face:{brows:'worried',mouth:'rest'},hairFront:KIT.helmet(0.6)});
+// RIGHT: dark empty alley, desaturated
+const Rg=el('g',{'clip-path':'url(#R)'},svg);
+el('rect',{x:0,y:0,width:1080,height:1920,fill:'#0f1a20'},Rg);
+el('polygon',{points:'560,0 1080,0 1080,1920 760,1920 820,1100 700,1100',fill:'#1b2a31'},Rg);
+el('polygon',{points:'600,1100 1080,1100 1080,1920 520,1920',fill:'#141f25'},Rg);
+el('rect',{x:850,y:900,width:210,height:180,rx:10,fill:'#22323a',stroke:'#161A22','stroke-width':6},Rg); // dumpster
+el('rect',{x:830,y:880,width:250,height:30,rx:6,fill:'#2b3d46',stroke:'#161A22','stroke-width':6},Rg);
+el('ellipse',{cx:760,cy:1100,rx:120,ry:30,fill:'#000',opacity:.35},Rg);
+// ambiguous shape far down the alley
+el('ellipse',{cx:735,cy:840,rx:22,ry:60,fill:'#0b1216',opacity:.9,filter:'url(#blur6)'},Rg);
+el('circle',{cx:735,cy:770,r:20,fill:'#0b1216',opacity:.9,filter:'url(#blur6)'},Rg);
+el('rect',{x:0,y:0,width:1080,height:1920,fill:'#1F3A44',opacity:.25},Rg);
+// the crack (amber glow + core)
+el('line',{x1:xAt(0),y1:0,x2:xAt(1920),y2:1920,stroke:'#F5A524','stroke-width':26,opacity:.35,filter:'url(#blur6)'},svg);
+el('line',{x1:xAt(0),y1:0,x2:xAt(1920),y2:1920,stroke:'#F5A524','stroke-width':8},svg);
+el('rect',{x:0,y:0,width:1080,height:1920,filter:'url(#grain)'},svg);
+</script></body></html>

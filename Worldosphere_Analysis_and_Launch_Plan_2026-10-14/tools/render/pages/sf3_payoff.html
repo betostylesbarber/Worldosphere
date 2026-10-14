@@ -1,0 +1,39 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../ws.css"></head><body><div class="stage">
+<svg id="s" width="1080" height="1920" viewBox="0 0 1080 1920" style="position:absolute;inset:0"></svg>
+<div class="v1" style="top:1040px"><div class="st">SURVIVED</div><div class="bar"></div>
+<div class="fac">He watched their breath, not their costumes.</div></div>
+</div>
+<script src="../ws_draw.js"></script>
+<script>
+const svg=document.getElementById('s'); const d=defs(svg);
+const g=el('g',{},svg);
+// exterior wall (night) and window
+el('rect',{x:0,y:0,width:1080,height:1920,fill:'#1d3039'},g);
+for(let i=0;i<24;i++) el('rect',{x:0,y:i*80,width:1080,height:6,fill:'#18282f'},g); // siding
+const wx=170,wy=250,ww=740,wh=760;
+el('rect',{x:wx-30,y:wy-30,width:ww+60,height:wh+60,rx:10,fill:'#e8e2d4',stroke:'#161A22','stroke-width':8},g);
+const cp=el('clipPath',{id:'win'},d); el('rect',{x:wx,y:wy,width:ww,height:wh},cp);
+const inside=el('g',{'clip-path':'url(#win)'},g);
+el('rect',{x:wx,y:wy,width:ww,height:wh,fill:'url(#warmroom)'},inside);
+el('rect',{x:wx+460,y:wy+110,width:180,height:240,rx:8,fill:'#8a6440',stroke:'#161A22','stroke-width':5},inside); // picture
+el('circle',{cx:wx+150,cy:wy+150,r:70,fill:'#FFD48A',opacity:.5,filter:'url(#blur14)'},inside); // lamp glow
+character(inside,{x:wx+250,y:wy+wh+260,h:700,skin:'#A86F4C',top:'#F2C230',bottom:'#3b3f47',face:{brows:'up',mouth:'tight'},hairBack:KIT.kaiHair.hairBack,hairFront:KIT.kaiHair.hairFront,extra:KIT.headphones,arms:{l:[20,10],r:[-60,-40]}});
+character(inside,{x:wx+480,y:wy+wh+200,h:500,skin:'#A86F4C',top:'#eef3f6',bottom:'#eef3f6',facing:-1,face:{brows:'up',mouth:'smile'},hairFront:KIT.helmet(0),arms:{l:[-10,-5],r:[-150,-175]}});
+// fog patches on glass + smiley
+[[wx+270,wy+540,105],[wx+470,wy+610,92]].forEach(([x,y,r])=>el('ellipse',{cx:x,cy:y,rx:r,ry:r*0.75,fill:'url(#fog)',opacity:.95},g));
+el('circle',{cx:wx+450,cy:wy+592,r:7,fill:'#5a4430'},g); el('circle',{cx:wx+492,cy:wy+592,r:7,fill:'#5a4430'},g);
+el('path',{d:`M ${wx+440} ${wy+627} q 31 26 62 0`,stroke:'#5a4430','stroke-width':7,fill:'none','stroke-linecap':'round'},g);
+// window mullions
+el('rect',{x:wx+ww/2-8,y:wy,width:16,height:wh,fill:'#e8e2d4',stroke:'#161A22','stroke-width':4},g);
+el('rect',{x:wx,y:wy+wh/2-8,width:ww,height:16,fill:'#e8e2d4',stroke:'#161A22','stroke-width':4},g);
+// Pell's hand flat on the glass (no fog), grey-green, 4 fingers
+const hx=wx+600,hy=wy+250;
+el('ellipse',{cx:hx,cy:hy+40,rx:62,ry:70,fill:'#8A9A86',stroke:'#161A22','stroke-width':6},g);
+[-42,-14,14,42].forEach((dx,i)=>el('rect',{x:hx+dx-13,y:hy-70+(i%3?0:16),width:26,height:90,rx:13,fill:'#8A9A86',stroke:'#161A22','stroke-width':6},g));
+el('rect',{x:hx+48,y:hy+10,width:24,height:62,rx:12,fill:'#8A9A86',stroke:'#161A22','stroke-width':6,transform:`rotate(-35 ${hx+60} ${hy+40})`},g);
+// Pell's sleeve and shoulder from the right edge, dark foreground
+el('path',{d:`M 1140 ${hy+420} Q ${hx+120} ${hy+260} ${hx+20} ${hy+110}`,stroke:'#161A22','stroke-width':150,'stroke-linecap':'round',fill:'none'},g);
+el('path',{d:`M 1140 ${hy+420} Q ${hx+120} ${hy+260} ${hx+20} ${hy+110}`,stroke:'#22324a','stroke-width':132,'stroke-linecap':'round',fill:'none'},g);
+el('rect',{x:0,y:0,width:1080,height:1920,fill:'#000',opacity:.18},svg); // verdict darken 20%
+el('rect',{x:0,y:0,width:1080,height:1920,filter:'url(#grain)'},svg);
+</script></body></html>
