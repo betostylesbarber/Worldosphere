@@ -1,0 +1,6 @@
+time_s,cue_id,cue,type (AMB/SFX/MUS/HUD/VO),source (original / library + asset-register ID),level_note,sync_point (frame or visual event),notes
+0.00,Q01,,AMB,original,,,
+,Q02,Fork paper-tear whoosh,HUD,AR-009,,crack frame 1,
+,Q03,Fork tick on choice,HUD,AR-009,,chip select,
+,Q04,Drop: music out,MUS,—,silence on the bed only; ambience stays,,
+,Q05,Verdict paper slide + motif,HUD/MUS,AR-007/AR-009,,V1 entry,
