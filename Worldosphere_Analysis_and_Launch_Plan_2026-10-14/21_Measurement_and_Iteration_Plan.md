@@ -127,6 +127,7 @@ Pre-launch entries from this planning session:
 | CL-009 | 2026-10-14 | Ledger rows C-506 (CO first response) and C-1206 (second way out) added as BLOCKING | Scripts used these instructions without ledger rows | ledger, WS-005, WS-012 |
 | CL-010 | 2026-10-14 | Fallback launch order re-flowed so seasonal episodes keep their dates | "Same order, 9 days later" would have mis-dated the Thanksgiving and Black Friday episodes | 17, 20 §2.4 |
 | CL-011 | 2026-10-14 | WS-003 target duration revised from 62–66 s to 58–62 s; Verdict statuses normalised to the fixed set (CONTAINED/READY/OUT/FOUND mapped to SURVIVED/SAFE/ESCAPED) | The timed package reads 58.0 s; one status vocabulary keeps the Verdict ritual consistent | calendar, WS-003/015/020/021/023/025 briefs |
+| CL-012 | 2026-10-14 | C-1205 re-worded to the evidence and re-classed QUALIFIED; C-1206 re-classed QUALIFIED; a verification-results pipeline and worksheet added | The USFA escape-planning excerpt already in appendix D2 §3c ("if the door is hot, keep it closed and use your second way out") meets the same evidence standard as other SUPPORTED rows; the "back of the hand" detail had no evidence and was removed | ledger, WS-012 brief, calendar, 07 Verification_Worksheet |
 
 ## 9. Templates
 - Per-video review: `13_Templates/Performance_Review_Template.md`.

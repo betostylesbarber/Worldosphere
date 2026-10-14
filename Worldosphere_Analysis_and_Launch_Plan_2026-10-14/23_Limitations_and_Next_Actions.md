@@ -6,7 +6,7 @@ Everything here is something this session **could not** do or verify. Each item 
 
 | # | Limitation | Consequence | Next action | Owner | Due |
 |---|---|---|---|---|---|
-| L1 | **The "Worldosphere" folder on the Desktop was not inspected.** This work ran in a cloud container with no access to the owner's computer, and the repository was empty at the start (02 §1) | Existing scripts, assets, branding or past uploads there may already cover subjects in this plan, or contain things to preserve | When downloading this package, place it **inside** the Desktop "Worldosphere" folder as its own dated subfolder (it doesn't overwrite anything). Then list the existing contents and check them against the calendar topics (17) and the brand (08). Log any overlap in the change log | Owner | Before Oct 17 |
+| L1 | **The "Worldosphere" folder on the Desktop was not inspected.** This work ran in a cloud container with no access to the owner's computer, and the repository was empty at the start (02 §1) | Existing scripts, assets, branding or past uploads there may already cover subjects in this plan, or contain things to preserve | When downloading this package, place it **inside** the Desktop "Worldosphere" folder as its own dated subfolder (it doesn't overwrite anything). Then run `python3 tools/desktop_intake.py "<path to Desktop/Worldosphere>"` from the package folder. It is read-only: it inventories every file, detects copies of the reference videos by MD5, and flags files that mention a planned episode's subject, writing a timestamped report into the package. Review the flags against the calendar (17) and the brand (08), and log any change in the change log | Owner | Before Oct 17 |
 | L2 | **The reference account's online catalog was not accessible** (Instagram, YouTube, TikTok and the aggregators were blocked; no search result named the account; A §1) | Online coverage is 0 videos. Other uploads could share premises with Worldosphere's topics; no metrics or comments were analysed | ≈30 minutes in a normal browser: list the reference's video titles and dates; note any premise that matches a Worldosphere topic. A match doesn't require a change (premises are general), but every Worldosphere execution must stay original (05 §5) | Owner | Before Oct 17 |
 | L3 | **Web pages could not be opened** (WebFetch DNS failure; proxy 403s). All research comes from search excerpts, and the shared search budget ran out | Platform facts, tool prices and claim sources need confirmation on the live pages | See §2 (platform) and the ledger sprint (20 §6) | Producer | Oct 15–21 |
 | L4 | **The Worldosphere YouTube channel was not inspected** | Unknown: existing uploads, subscribers, YPP status, audience regions, branding | Check the channel in Studio; record the baseline in the workbook *Tracking* sheet before Day 1 | Owner | Before Oct 28 |
@@ -14,6 +14,8 @@ Everything here is something this session **could not** do or verify. Each item 
 | L6 | **No production capacity was measured** | Hour estimates are unproven (12 §9) | Run the pilot (20 §5) and decide at the Oct 28 gate | Owner + team | Oct 28 |
 
 ## 2. Platform requirements to verify on official YouTube pages before launch
+
+The step-by-step procedure and where to record each result: `07_Survival_Logic_and_Facts/Verification_Worksheet.md` §C.
 
 | # | Item | Why it matters | Where (from appendix B) |
 |---|---|---|---|
@@ -29,7 +31,7 @@ Everything here is something this session **could not** do or verify. Each item 
 
 | # | Limitation | Next action | Due |
 |---|---|---|---|
-| C1 | **17 claims are UNVERIFIED — BLOCKING** (ledger; 20 §6 lists each with a deadline and a reserve) | Verify with the source URL, exact quote and access date; update `tools/ledger_data.py`; regenerate | Days 1–5 claims by Sat 17 Oct; the rest at T-10 |
+| C1 | **15 claims are UNVERIFIED — BLOCKING** (ledger; 20 §6 lists each with a deadline and a reserve). C-1205 and C-1206 were re-classed QUALIFIED from the USFA excerpt in appendix D2 §3c (CL-012) | Follow `07_Survival_Logic_and_Facts/Verification_Worksheet.md`: record each result in `verification_results.csv` and regenerate (the ledger, 20 and the workbook update automatically) | Days 1–5 claims by Sat 17 Oct; the rest at T-10 |
 | C2 | Even SUPPORTED claims were checked through search excerpts only | Re-open each cited page before the episode's script lock (QA F-03) | T-10 |
 | C3 | Ten briefs carry [PENDING VERIFICATION] markers on specific lines: WS-012, WS-016, WS-018, WS-020, WS-023, WS-025, WS-027, WS-028, WS-029, WS-030. WS-005 depends on BLOCKING row C-506 (field 8) | Treat the marked lines as placeholders; swap to the named reserve if not verified | T-10 per episode |
 | C4 | WS-028 (crowd surge) needs a **sensitivity review** beyond fact-checking (real crowd tragedies) | A second reader checks tone, framing and the absence of real-event imagery; or swap to R02 | T-10 (Tue 17 Nov) |

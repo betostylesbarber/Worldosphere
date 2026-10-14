@@ -16,7 +16,7 @@
 | 4 | Cross-video findings and evidence ledger | `04_Cross_Video_Findings_and_Evidence_Ledger.md` (F01–F15, E01–E18) |
 | 5 | Niche, audience and content pillars | `05_Niche_Audience_and_Pillars.md` |
 | 6 | Performance hypotheses and limitations | `06_Performance_Hypotheses_and_Limitations.md` (H1–H10) |
-| 7 | Survival-logic and factual-verification framework | `07_Survival_Logic_and_Facts/07_Survival_Logic_and_Fact_Framework.md` (world rules WR-01–WR-12); `claim_ledger.csv` / `.md` (71 claims) |
+| 7 | Survival-logic and factual-verification framework | `07_Survival_Logic_and_Facts/07_Survival_Logic_and_Fact_Framework.md` (world rules WR-01–WR-12); `claim_ledger.csv` / `.md` (71 claims); `Verification_Worksheet.md` + `verification_results.csv` (how to close every open claim and platform fact) |
 | 8 | Brand and animation bible | `08_Brand_and_Animation_Bible.md` |
 | 9 | Typography and caption specifications | `09_Typography_and_Captions/` (system doc, ASS styles, presets JSON, type specimen, Verdict specimen, safe-zone overlay) |
 | 10 | Improvement audit and prioritised actions | `10_Improvement_Audit.md` |
@@ -32,7 +32,7 @@
 | 20 | Deadlines, dependencies, buffer plan | `20_Production_Schedule_and_Buffer.md` |
 | 21 | Measurement and iteration plan | `21_Measurement_and_Iteration_Plan.md` (T-01–T-12, checkpoints, diagnosis, change log) |
 | 22 | Asset-rights and factual-source records | `22_Asset_Rights_and_Sources.md`; `22_Asset_Rights_and_Sources/asset_register.csv`; `research_appendices/A–F` |
-| 23 | Limitations and next actions | `23_Limitations_and_Next_Actions.md` |
+| 23 | Limitations and next actions | `23_Limitations_and_Next_Actions.md`; `tools/desktop_intake.py` (read-only check of the Desktop folder, run locally) |
 | 24 | "Make the Next Worldosphere Video" checklist | `24_Make_the_Next_Worldosphere_Video_Checklist.md` |
 | + | Editable workbook | `Worldosphere_Launch_Workbook.xlsx` (Calendar, Fallback calendar, Briefs, Reserves, Topic pool, Claims, Schedule, Pilot hours, Tracking, QA log, Change log, Asset register) |
 | + | Tools | `tools/README.md` (generators, timing engine, renderer, analysis scripts) |
@@ -75,12 +75,12 @@
 
 | Section of the brief | Status | Notes |
 |---|---|---|
-| 1 Locate materials | Done, with gaps stated | No Desktop in the cloud environment; repo empty; the two uploaded videos used (02 §1; 23 L1) |
+| 1 Locate materials | Done, with gaps stated | No Desktop in the cloud environment; repo empty; the two uploaded videos used (02 §1). The Desktop folder can be checked locally with `tools/desktop_intake.py` (23 L1) |
 | 2 Inventory and coverage | Done | 2 local / 0 online; reconciled (02 §4) |
 | 3 Evidence standards | Done | Labels used across all documents |
 | 4 Niche, promise, pillars | Done | 05 |
 | 5 Timestamped breakdowns | Done | 80 shots, every second covered, A–J components (03) |
-| 6 Survival logic, world rules, claim ledger | Done | 07; 71 claims (34 SUPPORTED, 13 QUALIFIED, 1 FALSE, 2 FICTION, 1 DESIGN, 3 UNVERIFIED, 17 UNVERIFIED — BLOCKING) |
+| 6 Survival logic, world rules, claim ledger | Done | 07; 71 claims (34 SUPPORTED, 15 QUALIFIED, 1 FALSE, 2 FICTION, 1 DESIGN, 3 UNVERIFIED, 15 UNVERIFIED — BLOCKING); `Verification_Worksheet.md` closes the open ones |
 | 7 Production workflow reconstruction | Done | 12 §6 (labelled as reconstruction) |
 | 8 Improvement audit | Done | 10 |
 | 9 Creative directions + chosen system | Done | 08 §1, §8 |
@@ -116,13 +116,13 @@
 | Topic choices have genuine research behind them | **Partly**: labelled honestly. Retrieved evidence [R-S#] where it exists; [BK]/[J] where it doesn't; demand data was largely inaccessible | 15, 16, appendix C |
 | Every daily brief contains a real story and payoff | **Yes** | 18 field 15 (beginning, middle, ending) and field 18 (payoff + Verdict) in all 30 |
 | The first three packages are complete and consistent | **Yes**: titles, Verdicts and durations match the calendar (WS-003's target was revised to its timed length; CL-011) | 19; 17 |
-| The daily schedule is workable | **Conditionally**: workable with two people (A) or a lean solo scope with a later launch (B). Not workable for one person at full scope; this is stated, not hidden | 20 §2 |
+| The daily schedule is workable | **Yes, under the recommended scope.** Brief §19 requires that a conflict with the quality standard be explained and a workable scope or launch date recommended. 20 §2 does this: two people launch on 31 Oct, or one person launches on 9 Nov with the lean scope. Each scenario has hour budgets, a bank, a gate and a pilot measurement. One person at full scope daily is shown **not** to work, and that is stated plainly | 20 §2–§5 |
 | Testing and adaptation rules are clear | **Yes** | 21 §3–§7 |
 | No guaranteed views or invented analytics | **Yes**: no view figures for Worldosphere appear; third-party figures are cited only as research context with sources | 06; 21 |
 | Nothing published, scheduled, purchased or overwritten | **Yes** | No upload or scheduling actions were taken; no purchases; work saved in this dated subfolder of a previously empty repository |
 
 **Open items that keep the plan honest, not incomplete:**
-- 17 BLOCKING claims, each with a deadline and a fallback (20 §6)
+- 15 BLOCKING claims, each with a deadline, a fallback (20 §6) and a step-by-step procedure (`07_Survival_Logic_and_Facts/Verification_Worksheet.md`)
 - platform facts to confirm (23 §2)
 - capacity to measure (20 §5)
 - the Desktop folder and the reference catalog to check manually (23 L1–L2)

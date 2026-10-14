@@ -119,7 +119,7 @@ dict(day=12,date="2026-11-11",id="WS-012",slug="Close-the-Door",pillar="P2 REAL 
  verdict="SAFE — His door was closed before the fire started. REAL RULE: Sleep with the door closed. Get out, stay out.",dur="54–58 s",complexity="M",
  test="Split-screen comparison opener",
  placement="Heating season; verified facts (C-1201–1204). It is the strongest share-to-protect candidate in week 2.",
- kits="K4 house cross-section (night); K9",claims="C-1201, C-1202, C-1203, C-1204, C-1206 (BLOCKING: window as second way out); C-1205 only if verified",reserve="R01 Lightning",
+ kits="K4 house cross-section (night); K9",claims="C-1201, C-1202, C-1203, C-1204, C-1206 (QUALIFIED: window as second way out); C-1205 (QUALIFIED; heat check only)",reserve="R01 Lightning",
  spine="3:00 a.m., the smoke alarm. Owen's bedroom door is closed, a habit. The split screen compares two identical rooms, door open vs door closed, with heat Spheres (closed: under ~100 °F; open: over 1,000 °F, per UL FSRI test conditions). FORK: OPEN THE DOOR AND RUN vs STAY LOW AND USE THE WINDOW. Smoke is pushing under the hallway door, so Owen keeps it shut, stays low and climbs out onto the porch roof and down. On the lawn he turns back toward the door for his photo album and stops. 'Get out. Stay out.'"),
 dict(day=13,date="2026-11-12",id="WS-013",slug="The-Loudest-Room-in-Town",pillar="P1 OUTBREAK",recipe="R-A Location Outbreak",lead="Kai",
  topic="Outbreak during a horror film: the loudest room in town, and the exit door that only opens one way",

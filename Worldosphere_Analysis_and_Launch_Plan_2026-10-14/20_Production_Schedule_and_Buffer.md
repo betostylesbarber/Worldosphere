@@ -18,7 +18,7 @@
 | Character rigs, kits, HUD templates in the production tool | **None** | Rigs for 4 leads + guest + Turned; kits K1–K4, K9, K10 |
 | Narrator voice | **Not chosen, not recorded** | A decision (own voice, contracted actor or licensed synthetic) + test recording |
 | Music and SFX library | **None**. Licensing for Shorts over 60 s is unverified (B §9) | Motif, 3 beds, core SFX; rights logged (22) |
-| Real-world claims | 17 rows UNVERIFIED — BLOCKING in the ledger | Days 1–5 claims verified by Sat 17 Oct (§6) |
+| Real-world claims | 15 rows UNVERIFIED — BLOCKING in the ledger (procedure: `07_Survival_Logic_and_Facts/Verification_Worksheet.md`) | Days 1–5 claims verified by Sat 17 Oct (§6) |
 | YouTube channel | Not inspected (no access). YPP status unknown | Channel exists, branding set, nothing published |
 | Production capacity | **Unknown, never measured** | Pilot hours from Days 1–3 (§5) |
 
@@ -207,8 +207,6 @@ Verification is mostly 20–40 minutes per claim with web access (find the agenc
 | C-506 | UNVERIFIED — BLOCKING | WS-005 | Wed 04 Nov | **Sat 17 Oct** (pre-launch sprint) | Swap to R08 Cold Water Overboard |
 | C-1003 | UNVERIFIED — BLOCKING if stated | WS-010 | Mon 09 Nov | Fri 30 Oct | Cut the line (the episode works without it) |
 | C-1101 | UNVERIFIED (treat as in-story fact only) | WS-011, WS-013 | Tue 10 Nov | Sat 31 Oct | Keep it as an in-story fact only (no real-world claim) |
-| C-1205 | UNVERIFIED — BLOCKING if used | WS-012 | Wed 11 Nov | Sun 01 Nov | Cut the line (the episode works without it) |
-| C-1206 | UNVERIFIED — BLOCKING | WS-012 | Wed 11 Nov | Sun 01 Nov | Swap to R01 Lightning |
 | C-1501 | UNVERIFIED — BLOCKING if a number is shown | WS-015, WS-016 | Sat 14 Nov | Wed 04 Nov | Cut the line (the episode works without it) |
 | C-1704 | UNVERIFIED — BLOCKING if shown | WS-017 | Mon 16 Nov | Fri 06 Nov | Cut the line (the episode works without it) |
 | C-1801 | UNVERIFIED — BLOCKING | WS-018 | Tue 17 Nov | Sat 07 Nov | Swap to R01 Lightning (verified) |

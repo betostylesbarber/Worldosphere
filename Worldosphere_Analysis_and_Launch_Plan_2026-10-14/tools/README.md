@@ -16,6 +16,8 @@ Run everything with the package root as the argument, e.g. `python3 -I tools/gen
 | `gen_package.py` | `package_ws00N` | captions, shot list CSV, script/shot/caption tables in a package folder |
 | `assemble_package.py`, `refresh_package.py` | package folder | re-embeds generated tables into the package document; writes `_sound_cues.csv` |
 | `render/` | `pages/*.html`, `ws_draw.js`, `ws.css`, fonts | style frames, specimens, motion-proof frames (`node render/render.js page.html out.png`) |
+| `desktop_intake.py` | **your local** Desktop "Worldosphere" folder (read-only) | `Desktop_Folder_Intake_Report_<timestamp>.md` (inventory, reference-video copies by MD5, possible topic overlaps) |
+| `../07_Survival_Logic_and_Facts/verification_results.csv` | — (you add one row per verified claim) | applied by `gen_ledger.py` on top of `ledger_data.py` |
 | `analysis/` | **local** reference video copies (not in the repo) | every measurement in `data/` and `03` (see `analysis/README.md`) |
 
 To make a package for a new episode: copy `package_ws001.py` to `package_ws0NN.py`, replace `SHOTS`, run `gen_package.py`, then fill the package document using a Day 1–3 package as the model (12 §5).

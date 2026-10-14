@@ -18,7 +18,7 @@
 | Character rigs, kits, HUD templates in the production tool | **None** | Rigs for 4 leads + guest + Turned; kits K1–K4, K9, K10 |
 | Narrator voice | **Not chosen, not recorded** | A decision (own voice, contracted actor or licensed synthetic) + test recording |
 | Music and SFX library | **None**. Licensing for Shorts over 60 s is unverified (B §9) | Motif, 3 beds, core SFX; rights logged (22) |
-| Real-world claims | 17 rows UNVERIFIED — BLOCKING in the ledger | Days 1–5 claims verified by Sat 17 Oct (§6) |
+| Real-world claims | 15 rows UNVERIFIED — BLOCKING in the ledger (procedure: `07_Survival_Logic_and_Facts/Verification_Worksheet.md`) | Days 1–5 claims verified by Sat 17 Oct (§6) |
 | YouTube channel | Not inspected (no access). YPP status unknown | Channel exists, branding set, nothing published |
 | Production capacity | **Unknown, never measured** | Pilot hours from Days 1–3 (§5) |
 

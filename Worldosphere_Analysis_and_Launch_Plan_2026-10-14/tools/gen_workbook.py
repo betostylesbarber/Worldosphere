@@ -89,6 +89,6 @@ for r in range(2, len(rows) + 2):
 import re
 txt = open(os.path.join(D, "21_Measurement_and_Iteration_Plan.md")).read()
 cls = [[x.strip() for x in m.split("|")[1:-1]] for m in re.findall(r"^\| CL-\d{3} .*\|$", txt, re.M)]
-sheet(wb, "Change log", ["ID", "Date", "Change", "Why (evidence)", "Files"], cls + [["CL-012", "", "", "", ""]], {"Change": 60, "Why (evidence)": 60, "Files": 30})
+sheet(wb, "Change log", ["ID", "Date", "Change", "Why (evidence)", "Files"], cls + [["CL-013", "", "", "", ""]], {"Change": 60, "Why (evidence)": 60, "Files": 30})
 ar = read("22_Asset_Rights_and_Sources/asset_register.csv"); sheet(wb, "Asset register", ar[0], ar[1:], {"Asset": 40, "Notes": 50})
 out = os.path.join(D, "Worldosphere_Launch_Workbook.xlsx"); wb.save(out); print("wrote", out, [s.title for s in wb.worksheets])

@@ -5,7 +5,7 @@ Work top to bottom. Each line points to the document that holds the detail. Copy
 **Before writing (T-14 → T-10)**
 - [ ] Open the brief `18_Daily_Briefs/WS-0NN_*.md` and the calendar row (17). Check the change log for any swap (21 §8).
 - [ ] Note the recipe in brief field 6 (`13_Templates/Production_Recipes.md`) and its word budget.
-- [ ] Find every real-world claim in brief field 8 in `07_Survival_Logic_and_Facts/claim_ledger.csv`. **Any UNVERIFIED — BLOCKING claim must be verified by T-10, or you swap to the reserve in field 29.**
+- [ ] Find every real-world claim in brief field 8 in `07_Survival_Logic_and_Facts/claim_ledger.csv`. **Any UNVERIFIED — BLOCKING claim must be verified by T-10 (procedure: `07_Survival_Logic_and_Facts/Verification_Worksheet.md`), or you swap to the reserve in field 29.**
 - [ ] For outbreak episodes, list the world rules used (07 §3: WR-01…WR-12) and run the four consistency checks.
 
 **Write (T-8)**

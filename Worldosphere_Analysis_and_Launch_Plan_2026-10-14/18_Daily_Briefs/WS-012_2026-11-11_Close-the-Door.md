@@ -21,13 +21,13 @@
 - **C-1202** SUPPORTED: "A closed door can keep a room hundreds of degrees cooler." Labels "1,000+ °F" / "UNDER 100 °F" carry "UL FSRI TESTS"; no CO figures. It also covers keeping the door shut.
 - **C-1203** SUPPORTED: "Get low." + "The cleaner air is near the floor." (source row, D2 §3c).
 - **C-1204** SUPPORTED: "Get out. Stay out."
-- **C-1205** UNVERIFIED — BLOCKING: **not used**. There is no hand-to-door test; Owen's cue is visible smoke.
-- **C-1206 (UNVERIFIED — BLOCKING):** the window escape ("second way out") is now ledger row C-1206 (NFPA/USFA "two ways out"). The window line is marked **[PENDING VERIFICATION C-1206]**. The 911 call uses 07 §4 wording. No smoke-alarm advice; fire is glow and smoke only.
+- **C-1205** QUALIFIED (re-worded to the evidence: check a closed door for heat; if hot, keep it shut and use the second way out). **Not used as a hand-to-door test**; Owen's cue is visible smoke. The earlier "back of the hand" detail is not in the evidence and must not be scripted.
+- **C-1206 (QUALIFIED):** the window escape ("second way out") is supported by the USFA escape-planning excerpt in research appendix D2 §3c ("if the door is hot, keep it closed and use your second way out"), qualified to windows that lead somewhere safe (here, a low porch roof). Confirm the live wording at QA F-03. The 911 call uses 07 §4 wording. No smoke-alarm advice; fire is glow and smoke only.
 
 **9. Three hook options:**
 - A. **HP10 Split comparison.** Spoken: "In a house fire, you may have about two minutes." H1: "OPEN OR CLOSED?" + T1 "≈2:00".
 - B. **HP02 Mid-event + real clock.** 3 a.m., the alarm, smoke under the door. Spoken: "Three a.m. The alarm. You may have about two minutes." H1: "3 A.M."
-- C. **HP04 Wrong instinct.** Owen's hand on the doorknob. Spoken: "Every instinct says open the door and run." H1: "DON'T OPEN IT" **[PENDING VERIFICATION C-1205]**, unusable until C-1205 is verified.
+- C. **HP04 Wrong instinct.** Owen's hand on the doorknob. Spoken: "Every instinct says open the door and run." H1: "DON'T OPEN IT". Usable now that C-1205 is QUALIFIED, but only with the evidence wording (heat check, keep it shut), not a "back of the hand" demonstration.
 
 **10. Selected hook and why it wins:** A. Calendar: "Frame 0: split cutaway of two bedrooms, one door open and one closed, with smoke filling the hallway; a T1 timer reads 02:00". It proves the rule visually in the first second, which is the calendar's split-opener test. B delays the payoff, and C depends on a blocked claim.
 
@@ -54,7 +54,7 @@
 | 19.8–21.2 | **FORK** | Left: the door opens; heat and smoke roll in along the ceiling. Right: Owen low at the window | — | Choose |
 | 21.2–25.0 | Choice | Hand pulls back | N: "But smoke is pushing under the door. So it stays shut." | C-1202 |
 | 25.0–28.4 | Low | Hands and knees under the smoke layer | N: "Get low. The cleaner air is near the floor." | C-1203 |
-| 28.4–32.4 | Window | Sash up; cold air; onto the porch roof | N: "The window opens onto the porch roof. He takes it slowly." [PENDING VERIFICATION C-1206] | Second exit |
+| 28.4–32.4 | Window | Sash up; cold air; onto the porch roof | N: "The window opens onto the porch roof. He takes it slowly." (C-1206, QUALIFIED) | Second exit |
 | 32.4–35.8 | Out | Down the post; T1 rolls to "≈1:05" and freezes | N: "Down the porch post, onto the grass. He's out." | Micro-payoff |
 | 35.8–39.4 | Call | Lawn; phone | Owen: "House fire. I'm out. Nobody else inside." | 07 §4 |
 | 39.4–43.4 | Temptation | The album glows in the hall window; two steps toward the door | N: "Then he remembers the photo album. It's right inside the door." | Escalation |
@@ -93,7 +93,7 @@
 - **Replay:** the split numbers and the habit plant.
 - **Subscribe:** real rules you can act on today.
 
-**27. Production dependencies and reusable assets:** Verification of ledger row C-1206 ("second way out"), the QA F-03 check, smoke FX, the porch piece. Reusable: the smoke layer.
+**27. Production dependencies and reusable assets:** The QA F-03 live-wording check for C-1201–C-1206, smoke FX, the porch piece. Reusable: the smoke layer.
 
 **28. Why it belongs in its calendar position:** "Heating season; verified facts (C-1201–1204). It is the strongest share-to-protect candidate in week 2."
 
@@ -101,4 +101,4 @@
 - **Primary:** shares per 1,000 views vs the running median.
 - **Secondary:** "Stayed to watch" % for the split opener.
 - **Guardrail:** the verified-correction rate (temperatures, the window advice).
-- **Reserve:** R01 Lightning (verified). Swap it in if the window-escape row can't be verified by script lock.
+- **Reserve:** R01 Lightning (verified). Swap it in if the live USFA/NFPA wording contradicts C-1206 at the QA F-03 check.

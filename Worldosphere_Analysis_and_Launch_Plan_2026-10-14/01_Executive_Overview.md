@@ -87,7 +87,7 @@ This page answers the brief's final question in one place: **what Worldosphere s
   - a two-part saga as a test (Station Zero, 14–15 Nov)
   - Thanksgiving-week placements (airport, grease fire, crowd surge)
   - an ensemble finale (29 Nov).
-- **17 claims are still UNVERIFIED — BLOCKING** (all P2/P3 except the saga's optional temperature readout). Each has a verification deadline and a verified or simpler fallback (20 §6). The Days 1–5 claims must be verified by **Sat 17 Oct**.
+- **15 claims are still UNVERIFIED — BLOCKING** (all in P2/P3 episodes except the saga's optional temperature readout). Each has a verification deadline and a verified or simpler fallback (20 §6). The Days 1–5 claims must be verified by **Sat 17 Oct**.
 
 ## 6. How to improve using real results
 The measurement plan (21) defines:
@@ -99,7 +99,7 @@ The measurement plan (21) defines:
 Organic comparisons are treated as observational, not experiments. **No view counts are promised or predicted anywhere in this package.**
 
 ## 7. Top risks and the first actions
-1. **Claim verification** (17 BLOCKING): run the sprint from 15 to 17 Oct for Days 1–5, then work to T-10.
+1. **Claim verification** (15 BLOCKING): follow `07_Survival_Logic_and_Facts/Verification_Worksheet.md`. Run the sprint from 15 to 17 Oct for Days 1–5, then work to T-10.
 2. **Capacity:** decide staffing now and measure the pilot hours.
 3. **Platform facts** came only from search excerpts. Verify the music and Content ID rule for Shorts over 60 s, Audio Library terms, metric definitions and the safe zones on a device (private upload only; 23 §2).
 4. **The repository `betostylesbarber/Worldosphere` is public.** Decide whether to make it private, and keep licensed media and voice files out of it.
