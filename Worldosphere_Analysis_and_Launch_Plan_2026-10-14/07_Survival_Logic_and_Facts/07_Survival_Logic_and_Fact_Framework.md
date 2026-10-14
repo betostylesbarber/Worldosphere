@@ -46,7 +46,7 @@ The rules are deliberately simple, physical and testable on screen, so the stori
 | **WR-01 Transmission** | Bites transmit; scratches, blood contact and air do not. Fever within about 10 minutes. The person turns 30–90 minutes after the bite (it varies by person; state the window when it matters) | A bandage, sweat, shivers. Never the bite itself | WS-024, WS-026, WS-030 |
 | **WR-02 No breath** | The Turned do not breathe: no breath fog in cold air, no chest movement, no fog on glass. They cannot drown; they sink and can walk on the bottom of shallow water | Breath puffs on living characters; their absence on the Turned | **WS-001**, WS-009, WS-016 |
 | **WR-03 Senses** | Hearing first: they turn toward sudden or loud sounds. How far they react follows real acoustics (a loud engine carries hundreds of metres in quiet country; a whisper doesn't carry across a room). Motion second: they notice movement within about 30 m in good light. Sight in darkness is no better than a person's. No sense of smell beyond a person's | The **Amber Sphere** shows how far a sound carries | WS-003, WS-006, WS-013, WS-022 |
-| **WR-04 Bodies** | Walk at about a normal human walking pace. Lurch to about 1.4× when they see a target. Cannot run, swim, climb ladders, or work handles, latches, locks or keys. **Can push** a door open with their weight; **cannot pull** a door open. Climb stairs slowly | Push/pull door logic is drawn with arrows | WS-001, WS-003, WS-011, WS-013, WS-019 |
+| **WR-04 Bodies** | Walk at about a normal human walking pace. Lurch to about 1.4× when they see a target. Cannot run, swim, climb ladders, or work handles, latches, locks or keys. **Cannot climb over obstacles about waist height or higher** (carts, counters, fences, a boat's swim step); they lean and push against them instead. **Can push** a door open with their weight; **cannot pull** a door open. Climb stairs slowly | Push/pull door logic is drawn with arrows; a Turned leaning over a barrier that doesn't give | WS-001, WS-003, WS-006, WS-007, WS-009, WS-011, WS-013, WS-019 |
 | **WR-05 Endurance** | They never tire or sleep and do not heal. Worldosphere never shows combat or injuries to them; stories are about avoidance, barriers and escape | — | All |
 | **WR-06 Cold** | Below about −20 °C (−4 °F) they slow sharply. Below about −30 °C (−22 °F) they stiffen and stop moving within an hour, and recover if warmed. No effect above freezing | Frost on their skin; slow-motion shamble | WS-015/016 |
 | **WR-07 Herding** | They follow other Turned and moving crowds. A moving crowd pulls in more of them | Red dots streaming on maps | WS-003, WS-014, WS-026 |
@@ -57,7 +57,7 @@ The rules are deliberately simple, physical and testable on screen, so the stori
 | **WR-12 Labelling** | Outbreak episodes are labelled "Fiction scenario" in the description. Real-world physics inside fiction must still be true (e.g. breath fog needs cold air) | — | All P1 |
 
 ### Consistency checks for every P1 script
-- Does any escape rely on the Turned pulling a door, climbing a ladder or swimming? (Not allowed.)
+- Does any escape rely on the Turned pulling a door, climbing a ladder or a waist-high barrier, or swimming? (Not allowed.) A barrier that can roll or slide must be braked or wedged on screen (WS-006).
 - Does a sound draw them from farther away than real acoustics allow? (Check against C-012/C-013.)
 - Does someone turn faster than WR-01 allows?
 - Do threat positions stay consistent across cuts? (Use the floor-plan sheet in the storyboard template.)

@@ -33,7 +33,7 @@
 
 **12. Exact first on-screen text:** H1 "ROOF OR / BASEMENT?" (ROOF in Amber), kept clear of the crack, plus G1 "SCENARIO 007". The H1 doubles as the Fork labels on frame 0.
 
-**13. First-frame composition:** Night; the amber crack splits the frame. Left: the attic hatch and ladder (teal). Right: warm basement stairs, the door's hinges visible on the hallway side (replay plant). Kai and Mia at the crack; Turned silhouettes at the front-door glass.
+**13. First-frame composition:** Night; the amber crack splits the frame. Left: the attic hatch and ladder (teal). Right: warm basement stairs, the door standing open, swung in toward the stairs (replay plant: it opens away from the hallway). Kai and Mia at the crack; Turned silhouettes at the front-door glass.
 
 **14. First three seconds:** 0–0.5 s: H1, G1, distant shuffling · 0.5–1 s: Mia looks left, Kai right · 1–2 s: a silhouette presses on the glass · 2–3 s: H1 fades at 2.8 s.
 
@@ -88,13 +88,13 @@
 - **Cues:** 0.0 shuffles · 4.0 tick · 9.6 ladder clunk · 18.6 Mia's dry cough · 26.4 rotor rising · 30.0 tape-rewind whoosh + tick · 42.6 door thumps · 50.0 latch pop · 66.4 motif.
 - **Planned drop:** 50.0–52.0 s. Silence as the door swings, held shot.
 
-**24. Original Worldosphere contribution:** Both answers played honestly under fixed rules, with the decisive hinge planted on frame 0.
+**24. Original Worldosphere contribution:** Both answers played honestly under fixed rules, with the decisive door swing planted on frame 0.
 
 **25. CTA:** No spoken CTA and no chip. Pinned comment (playbook wording): "Roof or basement — which would you pick?"
 
 **26. Why someone might share, replay or subscribe:**
 - **Share:** to settle the up-vs-down argument.
-- **Replay:** to spot the hinge plant on frame 0.
+- **Replay:** to spot the door-swing plant on frame 0.
 - **Subscribe:** the Both Endings format and the cast.
 
 **27. Production dependencies and reusable assets:** Hatch and ladder rigs, basement set, rewind transition, comparison template; all reusable (WS-014, WS-024, WS-029).

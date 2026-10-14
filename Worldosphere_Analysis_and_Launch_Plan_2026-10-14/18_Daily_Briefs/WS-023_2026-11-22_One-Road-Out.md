@@ -41,7 +41,7 @@
 
 **14. First three seconds:** 0–0.5 s: H1 + G1; "One" at 0.2 s · 0.5–1 s: the box lands · 1–2 s: the crank radio crackles · 2–3 s: Owen looks at the ridge; T1 slides in.
 
-**15. Beginning, middle and ending:** At 4:40 p.m. Owen's radio orders the canyon to evacuate. His go-bag is in the cab, but his tools and six photo boxes would take another hour, and he is always slow to leave. An ember settles on a box [PENDING VERIFICATION C-2301]. **Fork: PACK THE REST vs GO NOW.** He sets the box down, takes one framed photo and drives. The only road is already slowing as embers ride the wind ahead of the flames [pending]. **Ending:** he clears the checkpoint at 5:21, and nine minutes later the road closes behind him. At the evacuation centre, photo on the seat: "Most of what he left behind was replaceable." OUT.
+**15. Beginning, middle and ending:** At 4:40 p.m. Owen's radio orders the canyon to evacuate. His go-bag is in the cab, but his tools and six photo boxes would take another hour, and he is always slow to leave. An ember settles on a box [PENDING VERIFICATION C-2301]. **Fork: PACK THE REST vs GO NOW.** He sets the box down, takes one framed photo and drives. The only road is already slowing as embers ride the wind ahead of the flames [PENDING VERIFICATION C-2301]. **Ending:** he clears the checkpoint at 5:21, and nine minutes later the road closes behind him. At the evacuation centre, photo on the seat: "Most of what he left behind was replaceable." OUT.
 
 **16. Timed beat outline** (58.0 s · about 30 shots · Fork at 34.5–37%, R-B window)
 
@@ -53,13 +53,13 @@
 | 12.0–17.0 | Flaw | Smoke behind the ridge; Owen lifts a box | N: "The fire is still over the ridge. Owen is always slow to leave." | Flaw |
 | 17.0–20.0 | **DROP** | An ember glows on the box lid; Owen freezes [PENDING VERIFICATION C-2301] | — | Turn |
 | 20.0–21.4 | **FORK** | Left PACK THE REST: brake lights stack; embers over the ridge [PENDING VERIFICATION C-2301]. Right GO NOW: tailgate slams | — | Choose |
-| 21.4–26.0 | Step 1 | Box down; one framed photo | N: "He sets the box down. He takes one photo. He goes." | Action |
+| 21.4–26.0 | Step 1 | Box down; one framed photo | N: "He sets the box down. He takes one photo. He goes." [PENDING VERIFICATION C-2301] | Action |
 | 26.0–30.0 | Step 2 | Tail lights from above; T1 "4:58 PM" | N: "On the only road out, traffic is already slowing." | Time cost |
 | 30.0–36.5 | Mechanism | Red Sphere over the ridge; ember streaks | N: "Wind can carry burning embers far ahead of the fire and start new fires." [PENDING VERIFICATION C-2301] | Why waiting fails |
 | 36.5–42.0 | Step 3 | Checkpoint; T1 "5:21 PM"; ROAD CLOSED in the mirror | N: "He clears the checkpoint at 5:21. Nine minutes later, they close the road." | Micro-payoff |
 | 42.0–47.5 | Outcome | Evacuation-centre lot; ash on the glass; photo on the seat | N: "Most of what he left behind was replaceable." | Consequence |
 | 47.5–51.5 | Final image | Owen's hand on the frame; orange ridge in the window | OWEN: "The rest is just stuff." | Closure |
-| 51.5–56.5 | Verdict | V1 + V2 + V3 [PENDING]; motif | N: "He left when told, not when ready." | Rule |
+| 51.5–56.5 | Verdict | V1 + V2 + V3 [PENDING VERIFICATION C-2301]; motif | N: "He left when told, not when ready." | Rule |
 | 56.5–58.0 | CTA | Card holds | N: "Tell someone who'd stay." | Share |
 
 **17. Central decision (the Fork):** FORK: PACK THE REST vs GO NOW. F1: "PACK THE REST" | "GO NOW". Chosen: right. If the ember element stays unverified, the left preview shows only the queue and the barrier (story consequences).

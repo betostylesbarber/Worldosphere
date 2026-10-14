@@ -41,7 +41,7 @@
 
 **14. First three seconds:** 0–0.5 s: H1 + T1; crack; first word at 0.2 s · 0.5–1 s: the slab moves; Jun's arms go up · 1–2 s: the snow swallows him; Tess's eyes follow · 2–3 s: the debris settles into silence; T1 00:03.
 
-**15. Beginning, middle and ending:** The slope breaks and Jun is buried. The clock counts up. Tess's instinct is to ski down to the patrol hut far below. But a buried person can't wait [PENDING VERIFICATION C-2501]. **Fork: SKI DOWN FOR HELP vs SEARCH NOW.** She switches her beacon to search, follows the signal across the debris, probes until she strikes, leaves the probe in and digs [all pending]. **Ending:** at 11:40 she uncovers Jun's face. He coughs and blinks, and she calls for help. FOUND.
+**15. Beginning, middle and ending:** The slope breaks and Jun is buried. The clock counts up. Tess's instinct is to ski down to the patrol hut far below. But a buried person can't wait [PENDING VERIFICATION C-2501]. **Fork: SKI DOWN FOR HELP vs SEARCH NOW.** She switches her beacon to search, follows the signal across the debris, probes until she strikes, leaves the probe in and digs [PENDING VERIFICATION C-2501]. **Ending:** at 11:40 she uncovers Jun's face. He coughs and blinks, and she calls for help. FOUND.
 
 **16. Timed beat outline** (58.0 s · about 30 shots · T1 always on · Fork at 36–39%)
 
@@ -54,12 +54,12 @@
 | 19.0–21.0 | Resolve | Tess grips her beacon | TESS: "Not leaving you, Jun." | Character |
 | 21.0–22.4 | **FORK** | Left SKI FOR HELP: Tess shrinking downhill, T1 spinning, an empty silent slope. Right SEARCH NOW: thumb on the beacon dial | — | Choose |
 | 22.4–27.0 | Step 1 | Beacon UI SEND → SEARCH; arrow + number | N: "Tess switches her beacon from send to search." [PENDING VERIFICATION C-2501] | Action |
-| 27.0–32.5 | Follow | Side-stepping down; the number falls; amber pulse rings; T1 rolls 01:30 → 03:10 | N: "She follows the signal across the debris. Every step costs seconds." | Time cost |
+| 27.0–32.5 | Follow | Side-stepping down; the number falls; amber pulse rings; T1 rolls 01:30 → 03:10 | N: "She follows the signal across the debris. Every step costs seconds." [PENDING VERIFICATION C-2501] | Time cost |
 | 32.5–38.0 | Step 2 | Probe assembled; probing; strike at T1 07:50 | N: "The numbers drop. She probes. Again. Again. There." [PENDING VERIFICATION C-2501] | Micro-payoff |
 | 38.0–45.0 | Step 3 | Probe left standing; digging; T1 rolls 08:00 → 11:20 | N: "She leaves the probe in and digs." [PENDING VERIFICATION C-2501] TESS: "Come on, Jun. Come on." | Action |
 | 45.0–48.5 | **DROP** | Shovel stops; a goggle strap appears; T1 freezes 11:40 | — | Stillness |
-| 48.5–54.0 | Payoff | Jun's face; cough, blink; Tess presses SOS on her radio | N: "Eleven minutes, forty seconds. Jun is breathing. Then she calls for help." [order PENDING VERIFICATION C-2501] | Decisive image |
-| 54.0–56.5 | Verdict | V1 + V2 + V3 [PENDING]; motif | N: "She searched instead of going for help." | Rule |
+| 48.5–54.0 | Payoff | Jun's face; cough, blink; Tess presses SOS on her radio | N: "Eleven minutes, forty seconds. Jun is breathing. Then she calls for help." [PENDING VERIFICATION C-2501] (call order) | Decisive image |
+| 54.0–56.5 | Verdict | V1 + V2 + V3 [PENDING VERIFICATION C-2501]; motif | N: "She searched instead of going for help." | Rule |
 | 56.5–58.0 | CTA | Card holds | N: "Tell your ski partner." | Share |
 
 **17. Central decision (the Fork):** FORK: SKI DOWN FOR HELP vs SEARCH NOW. F1: "SKI FOR HELP" | "SEARCH NOW". Chosen: right. The left preview shows only time passing over an empty slope, with no body; what it implies depends on C-2501.

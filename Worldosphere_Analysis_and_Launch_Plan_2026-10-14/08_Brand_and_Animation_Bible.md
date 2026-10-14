@@ -145,7 +145,7 @@ Physics, never monsters. Water, fire, wind, cold, pressure and crowds are drawn 
 - **Rules:** Only when the force matters to a decision. Distances must be plausible (claim ledger). Never more than 2 domes on screen.
 
 ### 8.3 THE VERDICT — every episode resolves
-- **What:** In the last 2–4 s, a paper card slides in over the final image (not over black). It shows the **status** (SURVIVED · ESCAPED · TRAPPED · LOST · UNKNOWN), the **decisive factor** in ≤8 words, and, on Real Rule episodes, a **REAL RULE** line (fact-checked) with "Sources in description".
+- **What:** In the last 2–4 s, a paper card slides in over the final image (not over black). It shows the **status** (SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN; SAFE is used when the danger was avoided rather than escaped, mostly in Real Rule episodes), the **decisive factor** in ≤8 words, and, on Real Rule episodes, a **REAL RULE** line (fact-checked) with "Sources in description".
 - **Why:** Satisfying closure, a quotable takeaway, trust, and a consistent end ritual that tells new viewers what the channel is.
 - **Rules:** Always truthful to the story. Never "Follow to find out". A forward hook, if any, is one spoken line *after* the Verdict, ≤1.5 s.
 

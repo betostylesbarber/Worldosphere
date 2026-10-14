@@ -35,7 +35,7 @@ No real-world or medical claims. Mia is never harmed. No turning is shown.
 
 **12. Exact first on-screen text:** H1 "WHO WAS / BITTEN?" (BITTEN? in Amber) + T1 "30–90 MIN" (unit "BITE → TURNED"). G1 is omitted because T1 occupies its slot (x 72, y 240) and the frame is at the 3-element limit.
 
-**13. First-frame composition:** Five candlelit faces in a semicircle (y 650–1050), with a steel bar across the door behind. Planted clue: Nadia (frame right, left of x 900), scarf to her chin, hands under her thighs. Tess's scratched forearm catches the light. Lane A clear.
+**13. First-frame composition:** Five candlelit faces in a semicircle (y 650–1050), with a steel bar across the door behind. Planted clue: Nadia (frame right, left of x 900), scarf to her chin, hands under her thighs. Tess's torn sleeve and sweaty brow catch the light. Lane A clear.
 
 **14. First three seconds:** 0–0.5 s: H1 + T1; first word at 0.2 s; candles flicker · 0.5–1 s: Owen's eyes sweep the group · 1–2 s: slow push-in; Nadia shifts on her hands · 2–3 s: a thud against the barred door.
 
@@ -57,7 +57,7 @@ No real-world or medical claims. Mia is never harmed. No turning is shown.
 | 29.4–34.0 | Her choice | Tess, the former suspect, squeezes her hand | NADIA: "Not outside. The storage room. Lock it." N: "Nadia chooses first." | Humane turn |
 | 34.0–40.0 | Rule check | L1 "OPENS INWARD" / "BOLT THIS SIDE" | N: "The storage door opens inward. From inside, it's a pull. They can't pull." | WR-04 |
 | 40.0–45.5 | Gift | Mia gives Nadia a glow-star clip | MIA: "So it's not dark." NADIA: "Keep it shut. Whatever you hear." | Attachment |
-| 45.5–49.5 | Door | Kai slides the bolt; T1 fades | N: "The door closed gently." | Resolution |
+| 45.5–49.5 | Door | Door closes; Kai bolts it; T1 fades | N: "The door closed gently." | Resolution |
 | 49.5–53.5 | **DROP** | Closed door; amber glow beneath | — | Stillness |
 | 53.5–60.0 | Final image | Mia's hand in Kai's; candle semicircle (rhymes with frame 0) | N: "Four of them waited for morning. Nobody opened that door." | Closure |
 | 60.0–64.0 | Verdict | V1/V2 + motif; C1 from 62.5 s | N: "Mia watched who was cold, not scared." | Verdict |

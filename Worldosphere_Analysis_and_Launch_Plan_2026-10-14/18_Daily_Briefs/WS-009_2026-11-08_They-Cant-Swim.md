@@ -4,7 +4,7 @@
 
 **1. Video ID and publication date:** WS-009 · 2026-11-08 (12:00 ET)
 
-**2. Exact subject and original angle:** The boat plan. The Turned can't swim, but they don't breathe either, so they can walk the bottom, and the tide decides how deep the bottom is. It is a twist that follows from a rule viewers already know from Day 1.
+**2. Exact subject and original angle:** The boat plan: the Turned can't swim, but they don't breathe, so they walk the bottom, and the tide decides how deep it is. The twist follows from a rule known since Day 1.
 
 **3. Recommended title + two alternatives:** "Zombies Can't Swim. So Why Wasn't the Boat Safe?" (48 characters) · "The Zombie Plan Everyone Thinks Is Perfect: A Boat" · "Owen Anchored Offshore. Then the Tide Went Out."
 
@@ -17,12 +17,10 @@
 **7. Audience-interest evidence:** T010: "[BK] boat strategy in popular survival guides". This is background knowledge, not verified, and there is no retrieved [R-S] signal. The value of the Day 1 callback is [J] judgment.
 
 **8. Factual sources / fictional assumptions:**
-- **WR-02 / C-102:** no breath, can't drown, they sink and walk the bottom. Underwater, no bubbles ever rise from them.
-- **WR-04:** they can't swim or climb. At high tide (about 3 m), they would stand well below the hull. At low tide (chest-deep), they would stand beside the swim step, within reach. Boarding is never shown.
-- **WR-03:** they hear the idle engine. Once it stops, they wait at the last place they heard it.
-- **WR-05:** no combat. **WR-12:** "Fiction scenario".
-- **Tides:** a story prop for a fictional harbour. No general tidal claim is spoken and no ledger row exists, so add one before any general statement. The keel is drawn shallow so the boat floats at low tide.
-- Breath fog: C-101 visual only (UNVERIFIED, low risk).
+- **WR-02 / C-102:** no breath, can't drown; they sink and walk the bottom (no bubbles, ever).
+- **WR-04:** no swimming or climbing. At high tide (about 3 m) they're well under the hull; at low tide (chest-deep) they're beside the swim step, within reach. Boarding is never shown.
+- **WR-03:** they follow the idle engine and stop where it went silent. **WR-05:** no combat. **WR-12:** "Fiction scenario".
+- **Tides:** a story prop for a fictional harbour; no general tidal claim (no ledger row, so add one first if needed). Shallow keel so the boat floats. Breath fog is visual only (C-101, low risk).
 
 **9. Three hook options:**
 - A. **HP08 Rule twist.** Spoken: "They can't swim. That's why Owen anchored a hundred metres out." H1: "THEY CAN'T SWIM".
@@ -35,11 +33,11 @@
 
 **12. Exact first on-screen text:** H1 "THEY CAN'T / SWIM" (SWIM in Amber) + G1 "SCENARIO 009" + R1 "≈100 M" on the cyan Sphere's rim.
 
-**13. First-frame composition:** A moonlit, teal harbour. The sailboat sits mid-frame under its masthead light, with Owen in the cockpit (beanie, breath fog, amber radio glow). Background left: the dock edge lined with Turned silhouettes. A cyan Sphere around the boat reaches toward the dock. H1 sits over the sky.
+**13. First-frame composition:** Moonlit teal harbour. The sailboat mid-frame under its masthead light; Owen in the cockpit (breath fog, amber radio glow). Background left: Turned silhouettes on the dock edge. A cyan Sphere around the boat; H1 over the sky.
 
 **14. First three seconds:** 0–0.5 s: H1, G1, R1, water lapping · 0.5–1 s: a halyard clinks · 1–2 s: a slow push toward the dock · 2–3 s: H1 fades; one figure's toes at the dock edge.
 
-**15. Beginning, middle and ending:** On day three, Owen is anchored 100 m off the marina in about 3 m of water, and the Turned stop at the dock edge. He relaxes, then reads the tide table: low tide is just after midnight, and the water here will be chest-deep. He remembers that they don't breathe, so they can walk the bottom, and the swim step sits at the waterline. Fork: STAY (IT'S 100 M) vs MOVE TO DEEP WATER. He hauls the anchor by hand and idles out past the channel marker. They hear the engine and step off the dock, walking the bottom. He cuts the engine in deep water. **Ending:** At low tide, his old spot is ringed with heads just breaking the surface, facing where the boat was. ESCAPED.
+**15. Beginning, middle and ending:** Day three: Owen is anchored 100 m out in about 3 m of water; the Turned stop at the dock edge. The tide table says low tide just after midnight, when it will be chest-deep here. They don't breathe, so they can walk the bottom, and the swim step sits at the waterline. Fork: STAY (IT'S 100 M) vs MOVE TO DEEP WATER. He hauls the anchor by hand and idles out past the channel marker. They hear the engine and step off the dock, walking the bottom. He cuts the engine in deep water. **Ending:** At low tide, his old spot is ringed with heads just breaking the surface, facing where the boat was. ESCAPED.
 
 **16. Timed beat outline** (60.0 s · Fork at 41.3–43.7% · Verdict in the last 3.0 s)
 
@@ -68,9 +66,9 @@
 
 **19. Target duration and word budget:** 58–62 s. Target 60.0 s. Budget 145–160; the draft is about 140, slightly under because the drop, the 2.5 s reveal hold and the Verdict are wordless.
 
-**20. Characters, locations, props, assets:** OWEN (crank radio; NEW anchor-hauling pose). Six to eight Turned on the dock (K10) and a NEW underwater variant (drifting hair and cloth, bottom-walk, no bubbles). NEW: K7 harbour, dock and sailboat; tide-table prop; green channel marker (red is reserved for threats); anchor-chain rig. K9: cyan and amber Spheres, R1, T1, L1, Fork, Verdict, C1.
+**20. Characters, locations, props, assets:** OWEN (NEW anchor-hauling pose); 6–8 Turned (K10) plus a NEW underwater variant (drifting cloth, no bubbles). NEW: K7 harbour, dock, sailboat, tide table, green channel marker, chain rig. K9: cyan and amber Spheres, R1, T1, L1, Fork, Verdict, C1.
 
-**21. Key animation or visual technique:** The cyan Sphere is the "moat". Its water level visibly drains in the low-tide preview, which makes the twist visible. A small amber Sphere marks the engine (two domes at most). One thematic match-wipe takes us from the surface to the underwater cutaway. The final shot reverses frame 0.
+**21. Key animation or visual technique:** The cyan Sphere is the "moat"; it visibly drains in the low-tide preview. A small amber Sphere marks the engine (two domes at most). One match-wipe from the surface to underwater. The final shot reverses frame 0.
 
 **22. Typography and captions:**
 - **Presets:** H1, G1, R1, L1, T1, N1/N2, D1 + S1 (OWEN), F1, V1/V2, C1.
@@ -79,11 +77,11 @@
 - **No-text moments:** Fork, drop, the first 2.5 s of the reveal, the Verdict's first 0.5 s.
 
 **23. Voice, music, ambience and sound cues:**
-- Narrator hushed; Owen in a warm, unhurried bass. Music: 70 BPM felt-piano pulse. Ambience: lapping water and rigging.
+- Narrator hushed; Owen warm bass. Music: 70 BPM felt piano. Ambience: lapping water, rigging.
 - **Cues:** 0.0 halyard clink · 11.2 radio crank whirr · 24.8 paper tear / 26.0 tick · 26.2 chain hauled · 30.2 idle engine · 32.0 soft splashes · 34.8 underwater muffle · 38.6 engine cut · 44.8 single ripple · 57.0 motif.
 - **Planned drop:** 38.6–40.6 s. Engine off, music out; silence is also what makes them lose the trail.
 
-**24. Original Worldosphere contribution:** The "perfect plan" is broken by a rule we already published, with no new rule. The tide is the hidden variable, and the ending image of heads at the empty anchorage is ours.
+**24. Original Worldosphere contribution:** The "perfect plan" broken by an already-published rule; the tide as the hidden variable; heads at the empty anchorage.
 
 **25. CTA:** C1 "New scenario every day" in the last 1.5 s, below the compact card. This is week 2's first subscribe slot, rewarding returning Day 1 viewers. Pinned comment (rewatch): "Rewatch the dock at 0:08. Count how many of them are breathing."
 
@@ -92,7 +90,7 @@
 - **Replay:** the no-breath dock and the tide table.
 - **Subscribe:** rules that pay off across episodes.
 
-**27. Production dependencies and reusable assets:** Harbour and boat builds, the underwater Turned variant and the Sphere-drain animation; reusable for later coast and saga episodes. The underwater variant needs the most animation time.
+**27. Production dependencies and reusable assets:** Harbour and boat builds, underwater variant (longest animation task), Sphere-drain; all reusable for later coast episodes.
 
 **28. Why it belongs in its calendar position:** "It rewards Day 1 viewers (no-breath rule) while standing alone, and changes setting to water and night after two daytime episodes."
 

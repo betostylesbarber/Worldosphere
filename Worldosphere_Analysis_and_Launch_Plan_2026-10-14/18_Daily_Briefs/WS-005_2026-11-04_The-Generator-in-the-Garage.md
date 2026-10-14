@@ -22,7 +22,7 @@
 - **C-503** SUPPORTED: "You can't see it. You can't smell it."
 - **C-504** SUPPORTED: "Headache. Dizzy. Sleepy. That's not the flu."
 - **C-505** UNVERIFIED — BLOCKING if used: no CO alarm is shown or said.
-- **Gap:** "Fresh air first" and "calls for help" are 07 §4 first-response wording with **no claim ID**; the fact-checker adds a CDC row before lock.
+- **C-506 (UNVERIFIED — BLOCKING):** "Fresh air first" and "calls for help" are 07 §4 first-response wording. They are now ledger row C-506; verify the CDC/CPSC wording before script lock, or swap to the reserve.
 - **Staging:** Owen never re-enters (he pulls the wheeled generator from the driveway). Breath fog is visual only (C-101, low risk). Description: CPSC/CDC/FEMA + "Not professional advice".
 
 **9. Three hook options:**
@@ -66,8 +66,7 @@
 
 **17. Central decision (the Fork):** KNOCK AND EXPLAIN vs GET THEM OUT NOW. F1 chips (hook lane, y≈520): "EXPLAIN FIRST" / "OUT NOW" (chosen; Amber). 1.4 s.
 
-**18. Final payoff and Verdict card:** Calendar: "Owen gets the family into fresh air first, calls for help and moves the generator at least 20 ft away". Final image: Dale and Owen on the steps, the generator far out in the snow. Verdict (calendar): "SAFE — He got them into fresh air first. REAL RULE: Never run a generator in a garage. Keep it at least 20 ft from the house."
-**Flags:** the REAL RULE is 16 words (V3 allows ≤14). It is kept verbatim; a 14-word option for the lead editor is "Never run a generator in a garage. Keep it 20+ ft from the house." SAFE isn't in 09's status list: use the Safe Green bar.
+**18. Final payoff and Verdict card:** Calendar: "Owen gets the family into fresh air first, calls for help and moves the generator at least 20 ft away". Final image: Dale and Owen on the steps, the generator far out in the snow. Verdict (calendar): "SAFE — He got them into fresh air first. REAL RULE: Never run a generator in a garage. Keep it 20+ ft from the house." (14 words; the calendar was shortened from the earlier 16-word draft to meet the V3 limit. SAFE is a standard Verdict status with the Safe Green bar, per 08 §8.3 and 09 V1.)
 
 **19. Target duration and word budget:** 56–60 s. Target 58.0 s. Budget about 140–155; the draft is about 137, just under, because the Verdict is unvoiced.
 
@@ -95,7 +94,7 @@
 - **Replay:** to spot the planted symptoms.
 - **Subscribe:** fact-checked real rules and Owen's expertise.
 
-**27. Production dependencies and reusable assets:** Violet Sphere build, snow variant, generator, VO, the QA F-03 wording check, and the new fresh-air ledger row. Reusable: the generator (WS-010), the snow street (WS-029/030), the ambulance.
+**27. Production dependencies and reusable assets:** Violet Sphere build, snow variant, generator, VO, the QA F-03 wording check, and verification of ledger row C-506. Reusable: the generator (WS-010), the snow street (WS-029/030), the ambulance.
 
 **28. Why it belongs in its calendar position:** "It's seasonal (early winter storms) and verified (C-501–504). The house/suburb kit is reused from Day 1. It is the first Owen 'expert' moment."
 

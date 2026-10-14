@@ -47,7 +47,7 @@ A visual overlay is provided: `safe_zone_overlay_1080x1920.png`. Put it on the t
 | **T1 Timer / counter** | JetBrains Mono 800 · 56 px digits + 26 px unit | — | — | White digits, Amber icon | Ink pill @ 88%, radius 999 | Top-left of the hook lane (x 72, y 240) | — | Ticks on change only; time jumps use a 2-frame roll |
 | **R1 Sphere distance tick** | JetBrains Mono 700 · 30 px | — | — | Paper | none (ink 4 px outline) | On the dome rim, outside faces | e.g. "≈100 M" | With the dome |
 | **F1 Fork label** | Big Shoulders Display 900 · 76 px | CAPS | — | Paper (unchosen) / Ink (chosen) | Ink chip (unchosen) / Amber chip (chosen), radius 10 | Centre of each panel, upper third | ≤3 words | 4-frame slide from the panel edge |
-| **V1 Verdict card** | Status: Big Shoulders Display 900 · 132 px · CAPS · Ink; underline bar 12 px in the status colour (Survived/Escaped = Safe Green #6BBF59, Trapped = Amber, Lost = Signal Red, Unknown = Fog) | — | — | Ink on Paper card | Paper card #F2EBDD, radius 24, width 840, slight 1.5° tilt | Lower story area (y 900–1380) | Factor ≤8 words | Card slides up 8 frames (ease-out); hold ≥2.0 s |
+| **V1 Verdict card** | Status: Big Shoulders Display 900 · 132 px · CAPS · Ink; underline bar 12 px in the status colour (Survived/Escaped/Safe = Safe Green #6BBF59, Trapped = Amber, Lost = Signal Red, Unknown = Fog) | — | — | Ink on Paper card | Paper card #F2EBDD, radius 24, width 840, slight 1.5° tilt | Lower story area (y 900–1380) | Factor ≤8 words | Card slides up 8 frames (ease-out); hold ≥2.0 s |
 | **V2 Verdict factor** | Atkinson Hyperlegible Next 700 · 50 px | Sentence case | 1.15 | Ink | on the V1 card | — | ≤2 lines | with V1 |
 | **V3 Real Rule** | Label: JetBrains Mono 800 · 26 px Ink on Amber chip "REAL RULE"; text: Atkinson 700 · 42 px Ink | Sentence case | 1.15 | Ink | on V1 | — | ≤14 words + "Sources in description" (Atkinson 400 · 28 px) | with V1 |
 | **C1 CTA chip (optional)** | Atkinson Hyperlegible Next 700 · 40 px | Sentence case | — | White | Ink tag @ 88% | y 1320 | ≤6 words | Last 1.5 s only; never over the Verdict factor |
@@ -111,11 +111,11 @@ A visual overlay is provided: `safe_zone_overlay_1080x1920.png`. Put it on the t
 - F1: "DOOR" | "WINDOW"
 - V1–V3: "ESCAPED / He used the window, not the door. / REAL RULE: Car in water — get out through a side window in the first minute."
 
-## 12. Typography QA (included in the master QA checklist)
-- T-01 Every on-screen word matches the final audio.
-- T-02 No text in the UI bands; no text box wider than 792 px.
-- T-03 Reading-time rule satisfied for every group (export the caption CSV and check `duration ≥ 0.3 + 0.22×words`).
-- T-04 No caption intersects a subject box.
-- T-05 Emphasis budget respected.
-- T-06 Spelling, names, numbers and units checked against the script and the claim ledger.
-- T-07 Phone check at 100% brightness and at 30% brightness.
+## 12. Typography QA (included in the master QA checklist, `13_Templates/QA_Checklist.md` section W and V-04/V-05)
+- TY-01 Every on-screen word matches the final audio.
+- TY-02 No text in the UI bands; no text box wider than 792 px.
+- TY-03 Reading-time rule satisfied for every group (export the caption CSV and check `duration ≥ 0.3 + 0.22×words`).
+- TY-04 No caption intersects a subject box.
+- TY-05 Emphasis budget respected.
+- TY-06 Spelling, names, numbers and units checked against the script and the claim ledger.
+- TY-07 Phone check at 100% brightness and at 30% brightness.

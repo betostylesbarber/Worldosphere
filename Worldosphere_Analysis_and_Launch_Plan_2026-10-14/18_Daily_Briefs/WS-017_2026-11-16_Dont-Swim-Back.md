@@ -1,0 +1,89 @@
+# WS-017 — Don't Swim Back — Monday 16 Nov 2026
+
+*Pre-script brief. Not produced or published. Spine: `tools/calendar_data.py`, day 17.*
+
+**1. Video ID and publication date:** WS-017 · 2026-11-16 (12:00 ET)
+
+**2. Exact subject and original angle:** Rip current: the instinct to swim straight back is the one that exhausts swimmers. The overhead Cyan Sphere makes the narrow channel visible, so "sideways" reads as obvious geometry rather than a slogan. Rip "warning signs" are deliberately *not* taught (C-1704 is unverified).
+
+**3. Recommended title + two alternatives:** "Caught in a Rip Current? Don't Swim Back to Shore." · "Why Strong Swimmers Drown in Rip Currents" · "The Rip Current Rule That Saves Lives". Note: Alt 1 implies a claim (that strong swimmers drown) which the ledger doesn't hold. Don't use it unless a source is added.
+
+**4. One-sentence viewer promise:** The three moves that get you out of a rip current, and why sideways works.
+
+**5. Intended audience motivation:** Fear of missing a rule, and protecting others (family beach trips).
+
+**6. Content pillar and recipe:** P2 REAL RULE · R-B Real Rule · lead Kai (guest: lifeguard).
+
+**7. Audience-interest evidence:** T065 has "[BK]" only (background knowledge, unverified); there is no retrieved demand signal. The seasonal note (Southern Hemisphere summer) is [BK] too. Facts: [LEDGER C-1701–1703].
+
+**8. Factual sources / fictional assumptions:**
+- **C-1701** SUPPORTED: "Don't fight it. Float." · "Calm the breathing. Face the shore. Wave." (ledger: relax and float; face shore and wave for help) · "Then swim sideways, parallel to the shore."
+- **C-1702** QUALIFIED: "And most rips are narrower than a basketball court is long." The R1 tick reads "MOST <80 FT"; "most" appears in both.
+- **C-1703** QUALIFIED: no death figure on screen (estimates vary). If the description uses one, it carries that qualifier.
+- **C-1704** UNVERIFIED (BLOCKING if shown): **no rip signs in the art.** No gap in the breaking waves and no churned or discoloured lane. The surf texture is uniform, and the channel exists only as the Cyan Sphere and arrows.
+- Story only: the STAMINA bar has no numbers, and "The water is pulling him out" describes this rip. No narrated speed or exhaustion claim. The description gives NWS/NOAA sources and "Not professional advice; follow local official guidance."
+
+**9. Three hook options:**
+- A. **HP04 Wrong instinct.** Spoken: "Every instinct said swim straight back." H1 "THE SHORE / KEPT LEAVING".
+- B. **HP05 Invisible threat made visible.** A calm overhead beach with one narrow Cyan channel that nobody in the scene can see. Spoken: "From the sand, the water looked calm. One narrow lane wasn't." H1 "CALM WATER?"
+- C. **HP10 Split comparison.** Left: Kai swims for shore as his stamina drains. Right: he floats, then goes sideways. Spoken: "Same swimmer. Same current. Only one of these gets him out." H1 "WHICH ONE / GETS OUT?"
+
+**10. Selected hook and why it wins:** A, the calendar hook: "Frame 0: overhead beach; Kai being pulled outward inside a narrow cyan Sphere channel: 'Every instinct said swim straight back.'" It opens inside the hazard (R-B), names an instinct viewers share and shows the mechanism on frame 0. B delays the danger; C gives away the answer.
+
+**11. Exact opening spoken line:** "Every instinct said swim straight back."
+
+**12. Exact first on-screen text:** H1 "THE SHORE / KEPT LEAVING" (LEAVING in Amber) + G1 "SCENARIO 017".
+
+**13. First-frame composition:** Locked-off overhead. Sand and towels run along the top (H1 sits over the sand). Below is open water with uniform surf. Kai, in the story area (y≈800), is inside a narrow Cyan channel whose arrows point down-frame, away from shore. Lane A sits over plain water.
+
+**14. First three seconds:** 0–0.5 s: H1, G1 and the Sphere on; "Every" at 0.2 s · 0.5–1 s: arrows slide outward and Kai bobs · 1–2 s: Kai turns toward shore · 2–3 s: cut to a water-level POV with the shore small.
+
+**15. Beginning, middle and ending:** Kai, a strong swimmer, sees the beach sliding away: a rip is pulling him out. He fights it, swimming hard for shore and getting nowhere while his stamina drains. FORK: SWIM TO SHORE vs FLOAT, THEN SIDEWAYS. He stops fighting and floats, calms his breathing, faces the shore and waves; the lifeguard stands up. Pulling back overhead shows how narrow the channel is: most rips are narrower than a basketball court is long. He swims parallel to shore, crosses the edge of the pull and angles back in on the waves. **Ending:** Kai lies flat on the sand far down the beach, exhausted but safe, as the lifeguard arrives. "My towel's… way over there." He didn't beat the current; he got out of it. SAFE.
+
+**16. Timed beat outline** (52.0 s · Fork at 34–37% · Verdict + REAL RULE in the last 4.0 s)
+
+| Time (s) | Beat | Visual | Line | Purpose |
+|---|---|---|---|---|
+| 0.0–2.6 | Cold open | Frame 0 | N: "Every instinct said swim straight back." | HP04 |
+| 2.6–6.4 | Situation | Water-level POV: shore and towel shrinking | N: "Kai is a strong swimmer. And the beach is sliding away." | Stakes |
+| 6.4–9.8 | Instinct | Kai swims hard for shore | N: "The water is pulling him out. So he fights it." | Reasonable instinct |
+| 9.8–13.8 | Why it fails | Overhead: strokes, no progress; STAMINA bar drains | N: "Hard strokes. Same distance." | Shown, not told |
+| 13.8–17.6 | Stakes | Close-up: ragged breath; bar near red | N: "And every stroke costs him." | Escalation |
+| 17.6–19.0 | **FORK** | Flailing in place, bar empty / floating on his back | — | Choose |
+| 19.0–21.6 | Step 1 | Rolls onto his back, arms wide; breath slows | N: "Don't fight it. Float." | C-1701 |
+| 21.6–25.0 | Step 2 | Faces shore, waves; the lifeguard stands | N: "Calm the breathing. Face the shore. Wave." | C-1701 |
+| 25.0–29.6 | Sphere | Overhead pull-back: narrow channel; R1 "MOST <80 FT" | N: "And most rips are narrower than a basketball court is long." | C-1702 |
+| 29.6–33.0 | Step 3 | Swims parallel, screen-right; sideways arrows | N: "Then swim sideways, parallel to the shore." | C-1701 |
+| 33.0–36.4 | Hold + **drop** | His hand crosses the dotted rim; the arrows behind fade | — | Stillness |
+| 36.4–39.8 | Out | A wave lifts him; he angles in | N: "Out of the pull. Now he angles back in." | Resolution |
+| 39.8–43.8 | Outcome | Flat on the sand far down the beach; lifeguard jogs up; L1 "TOWEL" far off | Kai: "I'm good. My towel's… way over there." | Consequence |
+| 43.8–48.0 | Takeaway | Thumbs-up; Kai looks back at the water | N: "He didn't beat the current. He got out of it." | Takeaway |
+| 48.0–52.0 | Verdict | V1 + V2 + V3 + sources line; motif | — | Closure |
+
+**17. Central decision (Fork):** FORK: SWIM TO SHORE vs FLOAT, THEN SIDEWAYS. F1 chips "SWIM TO SHORE" | "FLOAT, THEN SIDEWAYS" (chosen, Amber). The unchosen preview shows *why* it fails: no progress, and an empty bar.
+
+**18. Final payoff and Verdict:** Payoff: Kai floats, calms his breathing, swims parallel out of the narrow channel, then angles back to shore. Final image: Kai on the sand, the calm-looking water behind him. Verdict card: **SAFE — He swam sideways, not against it. REAL RULE: Rip current: don't fight it. Float, then swim parallel to shore.** + "Sources in description".
+
+**19. Target duration and word budget:** 50–54 s (cut at 52.0 s). Budget ≈126–141 words (between the R-B 50 s and 55 s rows); the draft has about 95, because the three steps are shown.
+
+**20. Characters, locations, props, assets:** KAI; LIFEGUARD (K10 guest, plain uniform, no real organisation's branding). K7 beach and ocean overhead; a **NEW** water-level POV plate with uniform surf. **NEW** swim, float and wave cycles for Kai's rig (reusable). Lifeguard tower, rescue tube, towel. K9: Cyan Sphere with R1 width tick, flow arrows, a **NEW** STAMINA bar (no digits), Fork, V1–V3.
+
+**21. Key visual technique:** The **Cyan (water) Sphere** is the rip channel from frame 0, with R1 "MOST <80 FT" added at 25.0 s. Flow arrows carry direction. The Fork at 17.6 s puts the physics in the unchosen panel. The Verdict status is SAFE (Safe Green underline), with the REAL RULE.
+
+**22. Typography and captions:** G1 0–2.0 s; H1 0–2.4 s. N1 in lane A over water; **lane B** for the water-level close-ups at 2.6–6.4 s and 13.8–17.6 s. D1 + S1 "KAI" (yellow). L1 "TOWEL". F1 chips at y≈520. Emphasis: *sliding* (threat), *fights* (threat), *Float* (cold), *Wave* (amber), *narrower* (cold), *sideways* (safe), *out* (safe). No text during the Fork, the drop, the first 0.5 s after the 25.0 s pull-back, or the Verdict's first 0.5 s.
+
+**23. Voice, music, ambience, sound cues:** The narrator stays calm even in the panic, because the calm is the lesson. Kai is breathy, then steadier. Bed: an 84 BPM pulse that slows toward 70 BPM once he floats. Ambience: surf wash, gulls, a distant beach crowd, and muffled underwater sound at water level. Cues: 6.8 s hard splashing · 12.0 s low thump in the bed · 17.6 s paper tear, 18.8 s tick · 19.2 s water rush softens · 22.0 s lifeguard whistle · 36.4 s wave-lift whoosh · 48.2 s motif. **Drop:** 33.0–36.4 s, with surf and music cut; only Kai's breathing as he crosses the rim.
+
+**24. Original Worldosphere contribution:** Overhead geometry makes "sideways" self-evident. A number-free stamina bar shows the cost of the instinct, and the Sphere marks the channel without teaching unverified signs. Kai's towel joke is the single dry beat.
+
+**25. CTA:** No spoken CTA (the REAL RULE is the share line). Pinned comment: "Sources: NWS rip current safety; NOAA Ocean Service. Follow your local lifeguards' guidance."
+
+**26. Share / replay / subscribe:** Share: protect someone heading to the beach, with a quotable rule. Replay: compare the channel's width with the beach, and watch the stamina bar in the preview. Subscribe: real rules you can trust, told as stories.
+
+**27. Production dependencies and reusable assets:** Swim and float cycles, the uniform-surf plate (C-1704 constraint), the Cyan Sphere with tick, the lifeguard rig. Reusable: K7 water plates and the swim cycles (R08, WS-021's underwater cutaway).
+
+**28. Why this calendar position:** Verified facts (C-1701–1703). After the saga weekend it returns to a short, clear standalone. Evergreen (Southern Hemisphere summer approaching).
+
+**29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median and against Outbreak episodes (F04). Guardrail: zero factual-correction comments (width, signs), and average percentage viewed at or above the P2 median. Reserve: **R08 Cold Water Overboard**. R08 is also WS-020's and WS-021's named reserve; if more than one is needed, use R01 for the second.
+
+*Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-1704 not depicted ✓ · Fork labels ≤3 words ✓ · Verdict factor 6 words + REAL RULE 11 words ✓
