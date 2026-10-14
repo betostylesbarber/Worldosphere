@@ -1,0 +1,25 @@
+{
+  "canvas": {"width": 1080, "height": 1920, "fps": 24},
+  "safe": {"top_ui_band": [0, 219], "hook_lane": [220, 620], "story_area": [620, 1100], "caption_lane_A": [1100, 1300], "caption_lane_B": [470, 610], "low_safe_band": [1300, 1400], "bottom_ui_band": [1400, 1920], "right_ui_column_x": [936, 1080], "text_box": {"centre_x": 540, "max_width": 792, "x_range": [144, 936]}},
+  "fonts": {"display": "Big Shoulders Display", "text": "Atkinson Hyperlegible Next", "mono": "JetBrains Mono", "licence": "OFL-1.1"},
+  "colours": {"ink": "#161A22", "tag_fill": "#161A22", "tag_opacity": 0.88, "paper": "#F2EBDD", "white": "#FFFFFF", "amber": "#F5A524", "signal_red": "#E5483B", "cold_cyan": "#4FC3D9", "safe_green": "#6BBF59", "gas_violet": "#9B7FD1",
+              "text_tints": {"amber": "#FFC247", "threat": "#FF8A7A", "cold": "#7FE0F0", "safe": "#9BE58A"},
+              "speakers": {"KAI": "#F2C230", "MIA": "#B48EE0", "TESS": "#F28C28", "OWEN": "#7FA650", "GUEST": "#9FB3B6"}},
+  "presets": {
+    "N1": {"font": "text", "weight": 800, "size": 62, "case": "sentence", "line_height": 1.15, "box": {"radius": 18, "pad_y": 16, "pad_x": 26}, "lane": "A", "centre_y": 1200, "max_lines": 2, "max_chars_per_line": 24, "max_words": 7, "in_frames": 2},
+    "D1": {"inherits": "N1", "left_bar_px": 8, "align": "speaker_side"},
+    "S1": {"font": "mono", "weight": 800, "size": 28, "case": "caps", "radius": 8, "pad": [6, 12]},
+    "H1": {"font": "display", "weight": 900, "size": 120, "case": "caps", "line_height": 0.95, "tracking": 0.01, "centre_y": 400, "max_lines": 2, "max_chars_per_line": 14, "max_words": 6, "visible_on_frame_0": true, "hold_s": [2.0, 2.8]},
+    "W1": {"font": "display", "weight": 900, "size": 84, "case": "caps", "bar": "signal_red", "bar_height": 128},
+    "L1": {"font": "mono", "weight": 700, "size": 32, "case": "caps", "tag": "paper", "border_px": 3, "leader_px": 3},
+    "T1": {"font": "mono", "weight": 800, "size": 56, "unit_size": 26, "pos": [72, 240]},
+    "R1": {"font": "mono", "weight": 700, "size": 30},
+    "F1": {"font": "display", "weight": 900, "size": 76, "case": "caps", "max_words": 3},
+    "V1": {"font": "display", "weight": 900, "size": 132, "card": "paper", "card_width": 840, "tilt_deg": 1.5, "hold_min_s": 2.0},
+    "V2": {"font": "text", "weight": 700, "size": 50, "max_words": 8},
+    "V3": {"label_font": "mono", "label_size": 26, "text_font": "text", "text_size": 42, "max_words": 14},
+    "C1": {"font": "text", "weight": 700, "size": 40, "y": 1320, "last_seconds": 1.5},
+    "G1": {"font": "mono", "weight": 700, "size": 28, "pos": [72, 232], "opacity": 0.6, "frames": [0, 48]}
+  },
+  "rules": {"min_display_s": "max(0.5, 0.3 + 0.22*words)", "max_words_per_s_3s_window": 3.5, "emphasis_per_group": 1, "emphasis_groups_per_3s": 1, "max_text_elements": 3}
+}
