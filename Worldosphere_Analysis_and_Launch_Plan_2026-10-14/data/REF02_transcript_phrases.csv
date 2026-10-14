@@ -1,0 +1,20 @@
+start_s,end_s,text,speaker_attribution,median_f0_Hz(measured),words,words_per_s
+0.14,2.57,"If the zombie apocalypse starts while you're on a farm,",Narrator (male),128.2,10,4.12
+2.99,4.27,Don't run to town.,Narrator (male),120.5,4,3.13
+4.27,9.15,"Because without realizing it, you're already standing inside one of the best survival locations possible.",Narrator (male),124.6,15,3.07
+9.15,12.27,But only if you don't make one very stupid mistake.,Narrator (male),127.8,10,3.21
+12.27,15.71,Eli's first instinct is to drive into town and find out what's happening.,Narrator (male),129.0,13,3.78
+15.71,16.2,Don't.,Narrator (emphatic; raised pitch),189.4,1,2.04
+16.75,18.67,That's exactly where everyone else is going.,Narrator (male),128.6,7,3.65
+18.67,22.91,"Instead, Eli has about 30 minutes to prepare before the power grid becomes unreliable.",Narrator (male),123.9,14,3.3
+22.91,25.87,"First, water, because his well uses an electric pump.",Narrator (male),121.8,9,3.04
+25.87,28.19,"And when the power dies, so does the well.",Narrator (male),120.5,9,3.88
+28.19,31.39,"He has a generator, but turning it on creates another problem.",Narrator (male),130.5,11,3.44
+31.39,35.39,"On a quiet farm, an engine can advertise your location from hundreds of meters away.",Narrator (male),125.3,15,3.75
+35.39,37.55,And Eli isn't the only thing living here.,Narrator (male),111.1,8,3.7
+37.55,41.47,"30 chickens, 12 cattle, one horse, and a dog that barks at",Narrator (male),125.3,12,3.06
+41.71,46.03,"Absolutely everything, which means keeping the farm quiet is going to be almost impossible.",Narrator (male),121.2,14,3.24
+46.03,51.15,"So he locks the gate, brings the animals closer to the farmhouse, and starts counting everything he has.",Narrator (male),126.4,18,3.52
+51.15,53.8,"On paper, he could survive here for weeks.",Narrator (male),124.6,8,3.02
+54.06,55.58,There was only one problem.,Narrator (male),133.6,5,3.29
+55.58,60.01,Someone was already inside the fence.,Narrator (male),116.7,6,1.35

@@ -1,0 +1,35 @@
+start_s,end_s,text,speaker_attribution,median_f0_Hz(measured),words,words_per_s
+0.59,1.45,Eli?,"Character (female; Mara, inferred)",183.8,1,1.16
+1.96,4.55,The thing inside Eli's barn knew his name.,Narrator (male),119.8,8,3.09
+5.61,8.1,"It was Mara, his neighbor from Two Farms East.",Narrator (male),120.5,9,3.61
+8.33,11.91,She crossed three miles of fields and her jacket was covered in blood.,Narrator (male),124.6,13,3.63
+12.68,13.89,Don't come closer.,Character (female; Mara),286.4,3,2.48
+14.25,15.37,I'm not bitten.,Character (female; Mara),268.9,3,2.68
+15.37,15.94,Look.,Character (female; Mara),339.2,1,1.75
+16.33,17.85,Eli kept his distance.,Narrator (male),151.0,4,2.63
+17.85,19.78,Another survivor can save your life.,Narrator (male),111.9,6,3.11
+20.46,21.29,or end it.,Narrator (male),98.9,3,3.61
+21.61,24.36,"So before she came any closer, Eli checked for bites.",Narrator (male),137.0,10,3.64
+25.07,25.64,Nothing.,Narrator (male),112.8,1,1.75
+26.51,28.11,It's not my blood.,Character (female; Mara),188.5,4,2.5
+28.11,30.51,Then Mara told him the blood wasn't hers.,Narrator (male),116.1,8,3.33
+30.51,32.51,Her truck died when the roads jammed.,Narrator (male),107.6,7,3.5
+32.51,37.39,She ran through the fields and followed the only sound she could hear: Eli's generator.,Narrator (male),117.0,15,3.07
+37.39,39.49,I heard your generator.,Character (female; Mara),165.8,4,1.9
+40.15,41.03,So did they.,"Character (whispered; Mara, inferred — pitch unreliable)",386.8,3,3.41
+41.67,43.67,Mara wasn't the only one following it.,Narrator (male),111.1,7,3.5
+43.67,47.91,"For 10 minutes, that engine had been telling everything in the woods where the farm was.",Narrator (male),125.6,16,3.77
+47.91,49.09,Eli killed it.,Narrator (male),114.8,3,2.54
+49.83,50.6,Silence.,Narrator (male),96.7,1,1.3
+51.31,53.09,but you can't take noise back.,Narrator (male),113.7,6,3.37
+53.45,55.43,Then Mara gave him worse news.,Narrator (male),111.4,6,3.03
+55.96,57.29,Eli,Character (female; Mara),164.6,1,0.75
+57.64,59.72,I didn't use the gate.,Character (female; Mara),198.6,5,2.4
+59.72,61.56,There's a break by the creek.,Character (female; Mara),302.1,6,3.26
+61.56,63.56,There was a break in the west fence.,Narrator (male),113.7,8,4.0
+63.56,65.64,Rusty was already staring toward it.,Narrator (male),105.0,6,2.88
+66.09,70.63,"Before Eli could reach the fence, something stood up in the grass.",Narrator (male),122.2,12,2.64
+70.86,73.5,One infected was already inside.,Narrator (male),108.1,5,1.89
+73.5,75.62,Then Eli looked beyond it.,Narrator (male),109.2,5,2.36
+76.62,78.46,It's not all of them.,"Character (female range; likely Mara, inferred)",222.7,5,2.72
+78.46,84.04,"The farm wasn't hidden anymore, and it was far too big to defend.",Narrator (male),107.6,13,2.33

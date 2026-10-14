@@ -1,0 +1,7 @@
+# Keep third-party reference media out of the public repository
+References_Supplied/*.mp4
+References_Supplied/*.mov
+References_Supplied/evidence_*/
+**/evidence_REF*/
+.DS_Store
+Thumbs.db

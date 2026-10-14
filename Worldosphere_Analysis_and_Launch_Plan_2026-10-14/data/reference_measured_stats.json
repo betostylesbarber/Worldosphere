@@ -1,0 +1,40 @@
+{
+ "REF02": {
+  "shots": 44,
+  "mean_shot": 1.39,
+  "median_shot": 1.07,
+  "min_shot": 0.37,
+  "max_shot": 3.58,
+  "shots_le_1s": 20,
+  "shots_1_2s": 15,
+  "shots_2_3s": 7,
+  "shots_gt_3s": 2,
+  "caption_groups": 51,
+  "cap_mean_s": 1.04,
+  "cap_median_s": 1.0,
+  "cap_words_mean": 3.37,
+  "cap_words_max": 5,
+  "two_line_groups": 9,
+  "emphasised_groups": 8,
+  "cap_words_per_s_mean": 3.63
+ },
+ "REF01": {
+  "shots": 36,
+  "mean_shot": 2.42,
+  "median_shot": 2.1,
+  "min_shot": 0.57,
+  "max_shot": 7.2,
+  "shots_le_1s": 2,
+  "shots_1_2s": 13,
+  "shots_2_3s": 13,
+  "shots_gt_3s": 8,
+  "caption_groups": 68,
+  "cap_mean_s": 1.12,
+  "cap_median_s": 0.99,
+  "cap_words_mean": 3.06,
+  "cap_words_max": 5,
+  "two_line_groups": 6,
+  "emphasised_groups": 13,
+  "cap_words_per_s_mean": 3.19
+ }
+}
