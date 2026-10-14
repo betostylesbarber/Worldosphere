@@ -1,0 +1,81 @@
+[Script Info]
+; Worldosphere caption style sheet v1.0 (1080x1920). ASS colours are &HAABBGGRR (AA = transparency, 00 = opaque).
+; libass cannot draw rounded boxes; BorderStyle=3 draws a square tag. Use Resolve Text+/After Effects for rounded tags.
+; Font family names: install the OFL fonts (see 09 §1). If your system lists different family names, edit Fontname below.
+Title: Worldosphere captions template
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+; N1 narration: white on ink tag (88% opacity = alpha 1F), lane A (bottom-centre anchored; MarginV puts baseline ~y1270)
+Style: N1_Narration,Atkinson Hyperlegible Next ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,14,0,2,144,144,650,1
+; N1 lane B (high): same style, top-centre anchored at y ~470
+Style: N1_LaneB,Atkinson Hyperlegible Next ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,14,0,8,144,144,470,1
+; D1 dialogue left / right aligned (speaker colour applied with an override tag on the chip line)
+Style: D1_Left,Atkinson Hyperlegible Next ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,14,0,1,144,144,650,1
+Style: D1_Right,Atkinson Hyperlegible Next ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,14,0,3,144,144,650,1
+; S1 speaker chip (fill set per speaker via \3c override)
+Style: S1_Chip,JetBrains Mono ExtraBold,28,&H00221A16,&H00221A16,&H0030C2F2,&H0030C2F2,-1,0,0,0,100,100,1,0,3,8,0,1,144,144,742,1
+; H1 hook card (top lane), white with ink shadow
+Style: H1_Hook,Big Shoulders Display Black,120,&H00FFFFFF,&H00FFFFFF,&H00221A16,&H80221A16,-1,0,0,0,100,100,1,0,1,0,6,8,144,144,300,1
+; W1 warning bar: paper text on signal red box
+Style: W1_Warning,Big Shoulders Display Black,84,&H00DDEBF2,&H00DDEBF2,&H003B48E5,&H003B48E5,-1,0,0,0,100,100,2,0,3,22,0,8,144,144,260,1
+; L1 label: ink text on paper tag
+Style: L1_Label,JetBrains Mono Bold,32,&H00221A16,&H00221A16,&H00DDEBF2,&H00DDEBF2,-1,0,0,0,100,100,1,0,3,10,0,7,0,0,0,1
+; T1 timer: white digits on ink pill
+Style: T1_Timer,JetBrains Mono ExtraBold,56,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,14,0,7,72,0,240,1
+; F1 fork labels
+Style: F1_Fork,Big Shoulders Display Black,76,&H00DDEBF2,&H00DDEBF2,&H00221A16,&H00221A16,-1,0,0,0,100,100,1,0,3,14,0,5,0,0,0,1
+; G1 scenario tag
+Style: G1_Scenario,JetBrains Mono Bold,28,&H66DDEBF2,&H66DDEBF2,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,7,72,0,232,1
+; C1 CTA chip
+Style: C1_CTA,Atkinson Hyperlegible Next Bold,40,&H00FFFFFF,&H00FFFFFF,&H1F221A16,&H1F221A16,-1,0,0,0,100,100,0,0,3,12,0,2,144,144,600,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:02.60,H1_Hook,,0,0,0,,WHO'S IN {\1c&H24A5F5&}COSTUME{\1c&HFFFFFF&}?
+Dialogue: 2,0:00:00.00,0:00:02.00,G1_Scenario,,0,0,0,,SCENARIO 001
+Dialogue: 2,0:00:04.49,0:00:06.69,L1_Label,,0,0,0,,{\pos(700,560)}HOME · 3 BLOCKS
+Dialogue: 2,0:00:21.78,0:00:23.33,F1_Fork,,0,0,0,,{\pos(330,520)}STREET
+Dialogue: 2,0:00:21.78,0:00:23.33,F1_Fork,,0,0,0,,{\pos(760,520)}ALLEY
+Dialogue: 2,0:00:49.87,0:00:51.47,L1_Label,,0,0,0,,{\pos(620,900)}≈10 M
+Dialogue: 2,0:01:01.63,0:01:04.73,H1_Hook,,0,0,0,,{\pos(540,1000)\c&H221A16&}SURVIVED
+Dialogue: 2,0:01:01.63,0:01:04.73,C1_CTA,,0,0,0,,{\pos(540,1160)}He watched their breath, not their costumes.
+Dialogue: 0,0:00:00.02,0:00:01.13,N1_Narration,,0,0,0,,{\fad(83,0)}The alert said:
+Dialogue: 0,0:00:01.15,0:00:02.84,N1_Narration,,0,0,0,,{\fad(83,0)}avoid anyone\Nacting {\1c&H7A8AFF&}strangely{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:02.90,0:00:04.14,N1_Narration,,0,0,0,,{\fad(83,0)}It was Halloween.
+Dialogue: 0,0:00:04.16,0:00:06.44,N1_Narration,,0,0,0,,{\fad(83,0)}Three blocks\Nto get Mia home.
+Dialogue: 0,0:00:06.66,0:00:07.69,N1_Narration,,0,0,0,,{\fad(83,0)}Half the street
+Dialogue: 0,0:00:07.71,0:00:09.30,N1_Narration,,0,0,0,,{\fad(83,0)}was dressed as {\1c&H7A8AFF&}zombies{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:09.57,0:00:11.50,N1_Narration,,0,0,0,,{\fad(83,0)}Some of them\Nweren't pretending.
+Dialogue: 0,0:00:12.07,0:00:14.01,N1_Narration,,0,0,0,,{\fad(83,0)}Then the screaming\Ndidn't stop.
+Dialogue: 1,0:00:14.33,0:00:15.91,S1_Chip,,0,0,742,,{\3c&HE08EB4&\4c&HE08EB4&}MIA
+Dialogue: 0,0:00:14.33,0:00:15.91,D1_Left,,0,0,0,,{\fad(83,0)}Which ones are {\1c&H47C2FF&}real{\1c&HFFFFFF&}?
+Dialogue: 0,0:00:16.28,0:00:17.46,N1_Narration,,0,0,0,,{\fad(83,0)}Two ways home:
+Dialogue: 0,0:00:17.48,0:00:19.27,N1_Narration,,0,0,0,,{\fad(83,0)}the bright,\Ncrowded street…
+Dialogue: 0,0:00:19.29,0:00:21.41,N1_Narration,,0,0,0,,{\fad(83,0)}…or the empty,\N{\1c&H7A8AFF&}dark{\1c&HFFFFFF&} alley.
+Dialogue: 0,0:00:21.64,0:00:22.74,N1_LaneB,,0,0,0,,{\fad(83,0)}In the dark,
+Dialogue: 0,0:00:22.76,0:00:24.81,N1_LaneB,,0,0,0,,{\fad(83,0)}you can't see\Nwhat's coming.
+Dialogue: 0,0:00:24.88,0:00:26.47,N1_LaneB,,0,0,0,,{\fad(83,0)}Kai took the {\1c&H47C2FF&}light{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:26.63,0:00:28.02,N1_Narration,,0,0,0,,{\fad(83,0)}It was cold enough
+Dialogue: 0,0:00:28.04,0:00:29.62,N1_Narration,,0,0,0,,{\fad(83,0)}to see your {\1c&H47C2FF&}breath{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:29.89,0:00:31.27,N1_Narration,,0,0,0,,{\fad(83,0)}Every costume around him
+Dialogue: 0,0:00:31.29,0:00:32.18,N1_Narration,,0,0,0,,{\fad(83,0)}was breathing.
+Dialogue: 0,0:00:32.64,0:00:33.52,N1_Narration,,0,0,0,,{\fad(83,0)}Except one.
+Dialogue: 0,0:00:35.09,0:00:36.25,N1_Narration,,0,0,0,,{\fad(83,0)}The living {\1c&H47C2FF&}breathe{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:36.27,0:00:39.61,N1_Narration,,0,0,0,,{\fad(83,0)}On a cold night,\Nyou can see it.
+Dialogue: 0,0:00:39.88,0:00:41.59,N1_Narration,,0,0,0,,{\fad(83,0)}Puff. Puff. Puff.
+Dialogue: 0,0:00:41.61,0:00:42.37,N1_Narration,,0,0,0,,{\fad(83,0)}{\1c&H7A8AFF&}Nothing{\1c&HFFFFFF&}.
+Dialogue: 1,0:00:42.93,0:00:44.87,S1_Chip,,0,0,742,,{\3c&HB6B39F&\4c&HB6B39F&}GUEST
+Dialogue: 0,0:00:42.93,0:00:44.87,D1_Left,,0,0,0,,{\fad(83,0)}Stay away from Mr. Pell!
+Dialogue: 0,0:00:45.43,0:00:47.33,N1_Narration,,0,0,0,,{\fad(83,0)}The scariest\Ncostume was breathing.
+Dialogue: 0,0:00:47.35,0:00:49.07,N1_Narration,,0,0,0,,{\fad(83,0)}The friendliest\Nface {\1c&H7A8AFF&}wasn't{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:52.04,0:00:53.18,N1_Narration,,0,0,0,,{\fad(83,0)}They can push.
+Dialogue: 0,0:00:53.20,0:00:55.33,N1_Narration,,0,0,0,,{\fad(83,0)}They can't turn\Na {\1c&H47C2FF&}handle{\1c&HFFFFFF&}.
+Dialogue: 0,0:00:55.69,0:00:57.64,N1_Narration,,0,0,0,,{\fad(83,0)}Two breaths\Non the glass.
+Dialogue: 0,0:00:57.66,0:00:58.63,N1_Narration,,0,0,0,,{\fad(83,0)}Both {\1c&H47C2FF&}alive{\1c&HFFFFFF&}.

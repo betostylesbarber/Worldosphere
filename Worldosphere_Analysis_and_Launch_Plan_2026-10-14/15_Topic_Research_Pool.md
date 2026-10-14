@@ -1,0 +1,133 @@
+# 15 — Researched topic opportunity pool (94 premises)
+
+**Research basis.** 84 premises come from the topic-demand research thread (appendix C, which includes its source list and access log). 10 are Worldosphere additions (T085–T094). Evidence labels:
+
+- **[R-Sxx]**: retrieved this session from search-result summaries. See the source list in `22_Asset_Rights_and_Sources/research_appendices/C_topic_demand.md` §E.
+- **[BK]**: background knowledge, not verified this session.
+- **[J]**: creative judgment only.
+- **[LEDGER]**: facts verified in the claim ledger (07).
+- **[LEDGER-BLOCK]**: facts still unverified. The topic is blocked until they are verified.
+
+**Separation required by the brief.** For each idea we keep apart:
+1. Evidence of audience interest (the evidence column).
+2. Evidence about execution (appendix C §A.4: real-incident retellings top Zack D. Films' list; second-person 'Could you survive' is an established format; serialized zombie animation built ErrorMotion's channel; TED-Ed's timed zombie puzzle reached about 24M plays).
+3. Factual support (ledger status).
+4. Our creative judgment (the scores and the note).
+
+**Limits.** Google Trends, YouTube autocomplete, Reddit and per-video view counts for zombie Shorts were **not accessible**. Comparisons with a creator's 'usual' results could only be made for Zack D. Films and The Infographics Show, using lifetime mean views per upload (a weak proxy; see appendix C §A.1). **No topic's view potential is known.** Scores rank ideas for production. They are not probabilities.
+
+## Scoring rubric (1–5 each; weights in brackets)
+| Code | Criterion | 1 = | 5 = |
+|---|---|---|---|
+| AR (×1.5) | Audience relevance | Niche curiosity | Most viewers can picture themselves there |
+| HC (×1.5) | Hook clarity | Needs explanation | Understood from frame 0 plus 1 line |
+| SS (×1.25) | Story strength | List of facts | Clear decision, escalation and turn |
+| VP (×1.0) | Visual potential | Talking heads | An iconic image or transformation |
+| OR (×1.0) | Originality | Copies a known work or the reference | Fresh angle on a familiar question |
+| PO (×1.25) | Payoff | Vague | Satisfying and quotable resolution |
+| EC (×0.75) | Evidence confidence | Judgment only, facts unverified | Retrieved demand evidence, facts verified |
+| CF (×1.0) | Channel fit | Off-promise | Exactly the promise (05) |
+| PF (×1.0) | Production feasibility | New heavy kit + crowds | Reuses kits; 1–2 characters |
+
+Weighted score = 100 × Σ(weight × score) / (5 × Σweights).
+
+## Pool (sorted by decision, then score)
+| ID | Premise | Pillar | Evidence of interest / factual support | Season/trend | AR | HC | SS | VP | OR | PO | EC | CF | PF | Weighted score /100 | Decision | Reason / note |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| T019 | Halloween: everyone is in zombie makeup — the breath test | P1 | [J] + calendar (Sat 31 Oct) + [R-S11][R-S43][R-S48] October zombie scheduling precedents | H | 5 | 5 | 5 | 5 | 5 | 5 | 3 | 5 | 3 | 93.2 | WS-001 | Selected Day 1 |
+| T063 | Sinking car: about one minute | P2 | [BK]; [LEDGER C-201–206] | E | 5 | 5 | 5 | 5 | 3 | 5 | 4 | 5 | 4 | 92.7 | WS-002 | Selected Day 2 |
+| T007 | Warehouse superstore: 'best place to survive?' — the crowd problem and the delivery van | P1 | [BK] common 'Costco in the apocalypse' debate | E | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 5 | 3 | 86.8 | WS-003 | Selected; debate magnet |
+| T051 | Earthquake: why the doorway is a trap | P2 | [BK] recurring myth corrections; [LEDGER C-401–404] | S/E | 5 | 5 | 4 | 4 | 3 | 4 | 4 | 5 | 5 | 87.8 | WS-004 | Selected |
+| T068 | The generator in the garage (CO during a blackout) | P2 | [BK] CDC post-storm warnings; [LEDGER C-501–504] | W | 5 | 5 | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 87.8 | WS-005 | Selected |
+| T013 | Airplane at 35,000 ft: row 31 was bitten | P1 | [J] | E (holiday travel) | 5 | 5 | 5 | 4 | 3 | 4 | 2 | 5 | 2 | 81.5 | WS-006 | Selected; strong confined-space premise |
+| T085 | Roof or basement? We played both endings (house outbreak) | P1 | [R-S38] hiding debate (up vs down) | E | 5 | 5 | 4 | 4 | 4 | 5 | 4 | 5 | 4 | 90.2 | WS-007 | Selected; Both Endings format test |
+| T052 | Tornado on the highway: why the overpass is a death trap | P2 | [BK]; [LEDGER C-801–804] | Spring/Nov | 4 | 5 | 4 | 5 | 3 | 4 | 4 | 5 | 3 | 82.9 | WS-008 | Selected |
+| T010 | Sailboat: 'they can't swim' — but they don't breathe (anchor chain) | P1 | [BK] boat strategy in popular survival guides | E | 4 | 5 | 4 | 4 | 5 | 5 | 3 | 5 | 3 | 85.9 | WS-009 | Selected; pays off WR-02 |
+| T086 | Grid down: what fails first in your home, hour by hour | P3 | [BK] Iberian blackout 2025; [LEDGER C-1001/1002/011] | S/W | 4 | 5 | 3 | 4 | 3 | 4 | 3 | 5 | 4 | 79.0 | WS-010 | Selected (unverified items cut unless verified) |
+| T003 | High-rise: floor 2 or floor 30? Stairwell-door logic | P1 | [R-S38] viewer hiding debate | E | 5 | 5 | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 87.8 | WS-011 | Selected |
+| T064 | House fire at 3 a.m.: close the door | P2 | [BK] UL campaign; [LEDGER C-1201–1204] | W | 5 | 5 | 4 | 4 | 3 | 4 | 4 | 5 | 4 | 85.9 | WS-012 | Selected |
+| T028 | Movie theater: the screams aren't from the film | P1 | [J] | H/E | 4 | 5 | 4 | 4 | 4 | 4 | 2 | 5 | 3 | 80.0 | WS-013 | Selected |
+| T039 | Seven days of warning: leave the city or lock down? (Both Endings) | P3 | [R-S29] 'TikTok-viral' advance-warning story; [R-S36] Cornell model | E | 4 | 5 | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 84.9 | WS-014 | Selected |
+| T025 | Antarctic station: the last plane brings it (2-part saga) | P1 | [J] | W (southern summer) | 4 | 5 | 5 | 5 | 4 | 5 | 2 | 5 | 2 | 84.9 | WS-015/016 | Selected as the saga test |
+| T065 | Rip current: don't swim back | P2 | [BK]; [LEDGER C-1701–1703] | Summer/E | 4 | 5 | 4 | 4 | 3 | 4 | 4 | 5 | 4 | 82.9 | WS-017 | Selected |
+| T087 | The flash before the bang: why you don't go to the window (Chelyabinsk 2013) | P2 | [BK]; [LEDGER-BLOCK C-1801/1802] | L (Leonids week) | 4 | 5 | 4 | 5 | 5 | 4 | 2 | 5 | 3 | 83.9 | WS-018 | Selected, conditional on verification |
+| T034 | Elevator between floors as it begins | P1 | [J]; real elevator facts [LEDGER C-1901/1902] | E | 4 | 5 | 4 | 3 | 4 | 4 | 3 | 5 | 5 | 83.4 | WS-019 | Selected; cheap |
+| T061 | Solar superstorm: the night the sky turned green | P3 | [BK] May 2024 G5; [LEDGER-BLOCK C-2001] | S | 4 | 5 | 4 | 5 | 4 | 4 | 2 | 5 | 3 | 82.0 | WS-020 | Selected, conditional on verification |
+| T070 | Falling through ice: turn back the way you came | P2 | [BK]; [LEDGER C-2101–2103] | W | 4 | 5 | 4 | 4 | 3 | 4 | 4 | 5 | 4 | 82.9 | WS-021 | Selected |
+| T014 | Subway car stalls in a tunnel, lights out | P1 | [J] | E | 4 | 5 | 4 | 4 | 3 | 4 | 2 | 5 | 3 | 78.0 | WS-022 | Selected |
+| T055 | Wildfire evacuation with one road out | P2 | [BK] 2025 LA fires; [LEDGER-BLOCK C-2301] | S | 4 | 5 | 4 | 5 | 3 | 4 | 2 | 5 | 3 | 80.0 | WS-023 | Selected, conditional on verification (reserve R01/R02) |
+| T042 | Hidden infected: one of five in the safe room was bitten (Mia's POV) | P1 | [R-S24] ErrorMotion hidden-infected hits | E | 4 | 5 | 5 | 3 | 4 | 5 | 4 | 5 | 5 | 89.8 | WS-024 | Selected |
+| T057 | Avalanche: the first 15 minutes | P2 | [BK]; [LEDGER-BLOCK C-2501] | W | 3 | 5 | 4 | 5 | 3 | 4 | 2 | 5 | 3 | 77.1 | WS-025 | Selected, conditional on verification |
+| T091 | Airport gate on the busiest travel day | P1 | [J] + calendar (day before Thanksgiving) | T | 4 | 5 | 4 | 4 | 4 | 4 | 2 | 5 | 3 | 80.0 | WS-026 | Selected |
+| T071 | Turkey-fryer fire on Thanksgiving | P2 | [BK] NFPA peak-day claim (verify); [LEDGER-BLOCK C-2701] | T | 4 | 5 | 3 | 4 | 3 | 4 | 2 | 4 | 4 | 75.6 | WS-027 | Selected, conditional on verification |
+| T072 | Black Friday crowd surge: stay on your feet | P2 | [BK]; [LEDGER-BLOCK C-2801] | T | 4 | 5 | 4 | 4 | 3 | 4 | 2 | 4 | 3 | 76.1 | WS-028 | Selected, conditional on verification + sensitivity review |
+| T056 | Blizzard: stranded overnight — walk or wait? (Both Endings) | P2 | [BK]; [LEDGER-BLOCK C-2901] | W | 4 | 5 | 4 | 4 | 4 | 4 | 2 | 5 | 4 | 82.0 | WS-029 | Selected, conditional on verification |
+| T088 | The last bus out before the pass closes (cast assembles; bridge to December) | P1 | [J] | W | 4 | 5 | 4 | 4 | 4 | 4 | 1 | 5 | 2 | 76.6 | WS-030 | Selected (bridge) |
+| T089 | Lightning on a hike: the picnic shelter won't save you | P2 | [BK]; [LEDGER C-R101–104] | Summer/E | 4 | 5 | 3 | 4 | 3 | 4 | 4 | 5 | 4 | 80.5 | R01 | Reserve (verified) |
+| T053 | Flash flood: six inches of water | P2 | [BK]; [LEDGER C-R201–204] | S/E | 4 | 5 | 4 | 4 | 3 | 4 | 4 | 5 | 4 | 82.9 | R02 | Reserve (verified) |
+| T031 | Prepper bunker: a knock on the hatch on day 12 | P1 | [R-S38] bunker choice in hiding debate; [R-S49] | E | 4 | 5 | 4 | 3 | 4 | 4 | 4 | 5 | 5 | 84.9 | R03 | Reserve; very cheap single set |
+| T015 | Gas station at 2 a.m.: fuel, snacks, one locked bathroom | P1 | [J] | E | 4 | 4 | 4 | 3 | 4 | 4 | 2 | 5 | 5 | 79.0 | R04 | Reserve; cheapest P1 (one set) |
+| T037 | Timed crossing puzzle: 4 survivors, 17 minutes (TED-Ed-style) | P1 | [R-S15/16] TED-Ed bridge riddle ~24M plays | E | 5 | 5 | 4 | 3 | 1 | 4 | 5 | 4 | 4 | 79.5 | R05 | Reserve ONLY as an original puzzle mechanic (not the bridge-and-torch riddle) |
+| T038 | Your first move: fortify, flee or find a group (three endings) | P3 | [R-S32/33] an existing Short asks exactly this | E | 5 | 5 | 3 | 3 | 3 | 4 | 4 | 5 | 4 | 81.5 | R06 | Reserve (three-ending variant of Both Endings) |
+| T021 | Wedding reception: the best man was bitten at the bachelor party | P1 | [J] | E | 4 | 5 | 4 | 4 | 4 | 4 | 2 | 4 | 3 | 78.0 | R07 | Reserve; dark comedy |
+| T090 | Cold water overboard: the gasp comes first | P2 | [LEDGER C-2101/2102] | E | 4 | 4 | 3 | 4 | 3 | 3 | 4 | 5 | 3 | 73.2 | R08 | Reserve (verified) |
+| T012 | Cruise ship: one sick passenger, four days from port | P1 | [J][BK] cruise outbreak news | E | 4 | 4 | 4 | 4 | 3 | 4 | 2 | 4 | 2 | 71.2 | R09 | Reserve (heavy kit) |
+| T058 | Hurricane: the calm in the eye | P2 | [BK] | Jun–Nov | 4 | 4 | 4 | 4 | 3 | 4 | 2 | 5 | 3 | 75.1 | R10 | Reserve (verify first) |
+| T054 | Tsunami: the ocean pulls back | P2 | [BK] 2025 warnings | S | 4 | 5 | 4 | 5 | 3 | 4 | 2 | 5 | 3 | 80.0 | DEF | Facts unverified; month 2 after verification |
+| T002 | City vs countryside: Hour 0 downtown, reach low-density land before bridges close | P1 | [R-S36][R-S37] Cornell model coverage | E | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 5 | 3 | 78.0 | DEF | Strong evidence; heavy map/crowd work. Month 2 candidate (overlaps WS-014) |
+| T017 | Thanksgiving dinner: grandpa 'isn't feeling well' | P1 | [J] + calendar | T | 4 | 5 | 4 | 3 | 4 | 4 | 2 | 4 | 4 | 78.0 | DEF | Strong but Thanksgiving slot goes to grease-fire Real Rule; keep for Thanksgiving 2027 or a 'Both Endings' |
+| T076 | Real historical disaster retold minute by minute | P2 | [R-S2/S3] Zack D. Films' top videos are real incidents | E | 5 | 5 | 4 | 4 | 2 | 4 | 4 | 3 | 3 | 78.0 | DEF | Promising (evidence) but needs a respectful historical format and verification; month 2 test |
+| T083 | Your friend hides a bite: tell the group? | P1 | [J][R-S24] | E | 4 | 5 | 4 | 3 | 3 | 4 | 2 | 4 | 5 | 78.0 | REJ | Folded into WS-024 |
+| T001 | Outbreak on a remote farm: livestock noise, generator, barn | P1 | [R] TikTok topic pages 'farmer in zombie apocalypse pt3' (appendix A/C); [R-S36] Cornell rural logic | E | 4 | 4 | 4 | 4 | 1 | 4 | 4 | 5 | 4 | 76.1 | REJ | Reference territory ('The Last Farm'); any farm story would read as a copy |
+| T062 | Nuclear alert: 15 minutes to get inside | P2 | [BK] 2018 false alert | S | 4 | 5 | 4 | 4 | 3 | 4 | 1 | 4 | 3 | 74.6 | DEF | High-stakes facts unverified; sensitive |
+| T082 | A stranger at the door on day 5: let them in? | P1 | [J] | E | 4 | 5 | 4 | 3 | 2 | 4 | 1 | 4 | 5 | 74.6 | REJ | Too close to the reference's Part 2 trust dilemma |
+| T069 | Bear encounter: black vs brown | P2 | [BK] 2024 'man vs bear' debate | E | 4 | 5 | 3 | 4 | 3 | 3 | 2 | 4 | 3 | 71.2 | DEF | Facts unverified |
+| T066 | Lost in the woods at dusk: stay put | P2 | [BK] Hug-a-Tree | Fall | 4 | 4 | 3 | 4 | 3 | 3 | 2 | 4 | 4 | 70.2 | DEF | Facts unverified; month 2 |
+| T023 | Fast-food kitchen: walk-in freezer panic room | P1 | [R-S30] Snapchat precedent | E | 4 | 4 | 3 | 3 | 3 | 3 | 3 | 4 | 4 | 69.8 | DEF | Freezer logic conflicts with WR-06 only below −20 °C; month 2 |
+| T074 | Plane ditching on water: brace, bags, vest outside | P2 | [BK] | E | 4 | 4 | 4 | 4 | 3 | 4 | 1 | 4 | 2 | 69.8 | DEF | Unverified; overlaps WS-006 cabin kit — month 2 |
+| T018 | Black Friday doorbuster: the crowd isn't shoppers | P1 | [J] + calendar | T | 4 | 5 | 3 | 4 | 3 | 3 | 2 | 4 | 2 | 69.3 | DEF | Black Friday slot used for crowd-surge Real Rule |
+| T093 | Black ice on the bridge: the skid decision | P2 | [BK] | W | 4 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 4 | 68.8 | DEF | Unverified driving guidance |
+| T004 | School lockdown turns into outbreak | P1 | [R-S30] Snapchat precedent | E | 4 | 4 | 4 | 4 | 2 | 3 | 3 | 3 | 3 | 68.3 | REJ | Sensitivity: real school-violence associations; not brand-safe |
+| T030 | Highway gridlock: abandon the car or wait? | P1 | [J]; [R-S36–S39] spread critique | E | 4 | 4 | 3 | 4 | 3 | 3 | 2 | 4 | 3 | 68.3 | DEF | Overlaps WS-029 'walk or wait' |
+| T059 | Heat wave + power outage on the top floor | P2 | [BK] | Summer | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 4 | 4 | 68.3 | DEF | Seasonal (June) |
+| T077 | Three myths that get people killed (doorway, overpass, 'a little water') | P2 | [BK] | E | 4 | 5 | 2 | 3 | 2 | 3 | 3 | 4 | 4 | 68.3 | DEF | Listicle; the individual episodes cover them |
+| T067 | Stuck in an elevator (real): don't pry the doors | P2 | [LEDGER C-1901/1902] | E | 3 | 4 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 67.8 | REJ | Merged into WS-019 outbreak version |
+| T041 | Would you survive? five questions to day 30 | P1 | [R-S11][R-S32][R-S42] recurring formula | E | 4 | 4 | 2 | 3 | 2 | 3 | 4 | 4 | 4 | 66.8 | DEF | Quiz format; test in month 2 |
+| T006 | Shopping mall stronghold: glass doors and food court | P1 | [BK] classic debate | E | 4 | 4 | 3 | 4 | 2 | 3 | 2 | 4 | 3 | 66.3 | REJ | Overlaps superstore (WS-003) with weaker angle; film-derivative |
+| T073 | City-killer asteroid with years of warning | P3 | [R-S23] What If award entry | S | 4 | 4 | 3 | 5 | 2 | 3 | 3 | 3 | 2 | 65.9 | DEF | Facts unverified; competitor-dense |
+| T011 | Small island safe until the ferry arrives | P1 | [BK] | E | 3 | 4 | 3 | 4 | 3 | 3 | 2 | 4 | 3 | 65.4 | DEF | Overlaps WS-009 water theme; month 2 |
+| T016 | Ski lodge snowed in: are they slower in the cold? | P1 | [J] | W | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | DEF | Cold rule handled by Station Zero saga |
+| T020 | Trick-or-treat route: houses with lights on are dangerous | P1 | [J] | H | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | REJ | Folded into WS-001 |
+| T046 | Outbreak on Leonid night | P1 | [J] | L | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | REJ | Would link a harmless meteor shower to danger |
+| T048 | Blizzard + zombies: do they freeze? | P1 | [J] | W | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | REJ | Covered by Station Zero (WR-06) |
+| T060 | Volcanic ash 30 km away: what actually kills | P2 | [BK] | S | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | DEF | Unverified; doom-bait risk |
+| T075 | Lost at sea in a life raft | P2 | [BK] | E | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 63.9 | DEF | Unverified |
+| T079 | 'Play dead' works for one bear, not the other | P2 | [BK] | E | 3 | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 4 | 63.9 | DEF | Unverified |
+| T080 | Zombie-movie rules that would get you killed | P1 | [J][R-S36–39] | H/E | 4 | 4 | 2 | 3 | 2 | 3 | 2 | 4 | 4 | 63.9 | DEF | Listicle; month 2 |
+| T024 | Submarine: surface or stay down 90 days? | P1 | [J] | E | 3 | 4 | 4 | 3 | 4 | 3 | 1 | 3 | 2 | 62.4 | REJ | Niche; expensive; little viewer relevance |
+| T035 | Quarantine checkpoint: scanner says you're infected | P1 | [J] | E | 3 | 4 | 4 | 3 | 2 | 3 | 1 | 4 | 3 | 62.4 | REJ | Derivative of a famous game/TV setting |
+| T049 | Day 1,000: what the world looks like after 3 years | P3 | [J] decay-genre [BK] | E | 4 | 4 | 2 | 5 | 3 | 3 | 1 | 3 | 2 | 62.4 | DEF | World-building; month 2 test |
+| T022 | Office tower Monday: badge doors lock | P1 | [J] | E | 3 | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 3 | 62.0 | REJ | Rests on unverified access-control claims (fail-safe vs fail-secure) |
+| T032 | Space station crew watches from orbit | P1 | [J] | S | 3 | 4 | 3 | 4 | 4 | 3 | 1 | 3 | 2 | 62.0 | REJ | Weak relevance; expensive |
+| T092 | Infected can't climb ladders: the grain silo | P1 | [J] | E | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 3 | 62.0 | REJ | Rural silo reads as reference territory |
+| T027 | Zoo outbreak: are animals infected? | P1 | [R-S51] film 'Zombies im Zoo' exists | E | 3 | 4 | 3 | 4 | 2 | 3 | 3 | 3 | 2 | 61.0 | REJ | Existing film; animal-infection rules would complicate WR set |
+| T033 | Remote lighthouse/cabin: one road in | P1 | [J] | E | 3 | 3 | 3 | 4 | 3 | 3 | 1 | 4 | 3 | 61.0 | DEF | Folded into December 'Long Winter' bridge |
+| T008 | Hardware store vs superstore poll | P1 | [BK] | E | 3 | 4 | 2 | 3 | 3 | 2 | 2 | 4 | 4 | 60.5 | REJ | Poll, not a story |
+| T026 | Theme park after closing | P1 | [J] | E | 3 | 4 | 3 | 4 | 2 | 3 | 1 | 4 | 2 | 60.0 | REJ | Film-derivative; heavy |
+| T029 | Stadium: 70,000 people, 12 exits | P1 | [J] | E | 3 | 4 | 3 | 4 | 3 | 3 | 1 | 4 | 1 | 60.0 | REJ | Crowd-heavy; overlaps WS-028 |
+| T044 | Fungal spores, no bites | P1 | [BK] post-2023 interest | S | 3 | 4 | 3 | 4 | 1 | 3 | 2 | 3 | 3 | 59.5 | REJ | Strong association with an existing franchise |
+| T036 | Gym: strongest people, weakest (glass) walls | P1 | [J] | Jan | 3 | 3 | 3 | 3 | 3 | 3 | 1 | 4 | 3 | 59.0 | DEF | Seasonal for January |
+| T078 | Winter myths: eat snow, alcohol warms you | P2 | [BK] | W | 3 | 4 | 2 | 3 | 3 | 2 | 1 | 4 | 4 | 59.0 | DEF | Unverified |
+| T005 | Waking alone in a hospital on day 9 | P1 | [J] | E | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 4 | 3 | 58.0 | REJ | Derivative of well-known film/TV openings |
+| T050 | Keep the barking dog or not? | P1 | [J] | E | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 3 | 4 | 58.0 | REJ | Reference territory (Rusty) |
+| T094 | Outbreak during a power outage at the hospital nursery | P1 | [J] | E | 3 | 4 | 3 | 3 | 3 | 3 | 1 | 2 | 3 | 58.0 | REJ | Infants in peril: brand-safety |
+| T009 | Prison: walls perfect, who's inside? | P1 | [BK] | E | 3 | 4 | 3 | 3 | 1 | 3 | 2 | 4 | 2 | 57.6 | REJ | Derivative of TV prison arc; heavy sets |
+| T043 | How an outbreak could plausibly start (science) | P3 | [R-S34/35] AsapSCIENCE coverage; [R-S40] hoax risk | E | 3 | 4 | 2 | 3 | 2 | 2 | 3 | 2 | 4 | 56.1 | REJ | Science-explainer drift + hoax risk |
+| T040 | You vs a 1,000-zombie horde | P1 | [R-S12] title exists | E | 4 | 4 | 2 | 4 | 1 | 2 | 3 | 2 | 2 | 55.1 | REJ | Combat/numbers spectacle; off-brand; derivative title |
+| T045 | Permafrost 'zombie virus' | P3 | [BK] news | S | 3 | 4 | 2 | 3 | 2 | 2 | 2 | 2 | 3 | 52.7 | REJ | Health-hoax risk |
+| T084 | Pick 3 items from a 12-item grid | P3 | [J] | E | 3 | 4 | 1 | 2 | 2 | 2 | 1 | 3 | 5 | 52.7 | REJ | Not a story |
+| T047 | The night clocks fall back: dark at 5 p.m. | P1 | [J] | D | 2 | 3 | 2 | 3 | 3 | 2 | 1 | 3 | 4 | 51.2 | REJ | Weak premise; used as atmosphere in WS-002 instead |
+| T081 | Movie quicksand vs real quicksand | P2 | [BK] | E | 2 | 3 | 2 | 3 | 2 | 2 | 1 | 2 | 4 | 47.3 | REJ | Low stakes; unverified |
+
+Totals: 94 premises · 29 selected (covering 30 calendar slots; T025 fills two saga slots) · 10 reserves · 55 rejected or deferred (29 rejected, 26 deferred to later months).
+Machine-readable copy: `data/topic_pool.csv`.

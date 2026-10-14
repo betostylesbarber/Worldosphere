@@ -1,6 +1,6 @@
 # Claim ledger (readable copy of `claim_ledger.csv`)
 
-Status key: SUPPORTED · QUALIFIED · FALSE · FICTION · DESIGN RULE · **UNVERIFIED — BLOCKING** (must be verified with URL + quote + access date, or cut, before script lock). Full source URLs are in `../22_Asset_Rights_and_Sources/research_appendices/D1_facts_natural.md` and `D2_facts_home_outdoor.md`.
+Status key: SUPPORTED · QUALIFIED · FALSE · FICTION · DESIGN RULE · **UNVERIFIED — BLOCKING** (must be verified with URL + quote + access date, or cut, before script lock). Full source URLs are in `../22_Asset_Rights_and_Sources/research_appendices/D1_facts_natural.md` and `D2_facts_home_outdoor.md`. Verified rows were confirmed from search-result extracts on 2026-10-14: confirm the live page wording before publication (QA F-03).
 
 | Claim ID | Claim | Class | Source (org, URL/ref) | Assumptions | Necessary qualification | Script wording | Visual implication | Verification status | Episodes |
 |---|---|---|---|---|---|---|---|---|---|
@@ -63,7 +63,15 @@ Status key: SUPPORTED · QUALIFIED · FALSE · FICTION · DESIGN RULE · **UNVER
 | C-2801 | Crowd crush risk rises sharply at high densities (≈5+ people per m²); guidance for individuals (stay upright, protect chest, move diagonally with gaps) | FACT | G. Keith Still crowd science; agency guidance (not retrieved) | — | Sensitive topic | — | No depiction of deaths | UNVERIFIED — BLOCKING | WS-028 |
 | C-2901 | Stranded in a winter storm: stay with the vehicle; keep the exhaust pipe clear of snow (CO); run the engine about 10 minutes per hour for heat; make the car visible | FACT | NWS winter safety; Ready.gov winter weather (not retrieved) | — | — | — | — | UNVERIFIED — BLOCKING | WS-029 |
 | C-1401 | A 2015 Cornell zombie-outbreak model found dense cities fall fastest and sparsely populated regions last longest | FACT (about a model) | Coverage of Alemi et al. (Cornell) model via news (research appendix C, R-S36) | It's a model of a fictional outbreak | — | "Even scientists who modelled a zombie outbreak said: get away from dense cities." | Map of spread | QUALIFIED (confirm the original paper) | WS-014 |
+| C-R101 | There is no safe place outdoors in a thunderstorm; if you can hear thunder you are likely within striking distance | FACT | NWS lightning safety overview (weather.gov/safety/lightning) | — | — | "If you can hear thunder, you're close enough to be struck." | Picnic shelter is NOT safe | SUPPORTED | R01 |
+| C-R102 | Safe shelter: a substantial building or a hard-topped metal vehicle with windows up; stay 30 minutes after the last thunder | FACT | NOAA JetStream lightning safety; NWS | — | — | "Get inside. Wait thirty minutes after the last thunder." | T1 timer resets on each rumble | SUPPORTED | R01 |
+| C-R103 | The lightning crouch does not provide meaningful protection; NWS stopped recommending it in 2008 | FACT | NWS lightning-crouch page; NOAA JetStream FAQ | — | Never show crouch as the hero's solution | "Crouching won't save you." | — | SUPPORTED | R01 |
+| C-R104 | Rubber tyres don't protect you; a hard-topped car's metal shell does | FACT | NWS lightning myths; NWS Melbourne | — | Hands off metal | "It's the metal roof, not the rubber tyres." | Current flows around the car body | SUPPORTED | R01 |
+| C-R201 | Never drive or walk into floodwater ('Turn Around Don't Drown') | FACT | NWS Turn Around Don't Drown | — | — | "Turn around. Don't drown." | Car reverses at the flooded dip | SUPPORTED | R02 |
+| C-R202 | Six inches of fast-moving water can knock over an adult | FACT | NWS Turn Around Don't Drown | — | — | "Six inches of fast water can knock you down." | Shin-deep current | SUPPORTED | R02 |
+| C-R203 | About 12 inches of rushing water can carry away most cars; 2 feet can carry away SUVs and trucks | FACT | NWS Turn Around Don't Drown; NWS Tulsa | — | 'Most cars' (not 'a small car') | "About a foot of rushing water can float most cars." | Water at bumper height lifts car | QUALIFIED | R02 |
+| C-R204 | More than half of flood drownings involve vehicles driven into flood water | FACT | NWS (citing CDC); NWS WRN social kit | — | — | "Most flood deaths happen in cars." | — | SUPPORTED | R02 |
 | C-P01 | Animated or clearly unrealistic content does not require YouTube's altered/synthetic disclosure | PLATFORM | YouTube Blog (Mar 2024) 'Disclosing AI-generated content' | — | Realistic synthetic people/events would | — | — | SUPPORTED | All |
 | C-P02 | Videos uploaded since 15 Oct 2024 that are square/vertical and ≤3 minutes are Shorts | PLATFORM | YouTube Help answer 15424877 | — | — | — | — | SUPPORTED | All |
 
-Counts: BLOCKING: 15, DESIGN: 1, FALSE: 1, FICTION: 2, QUALIFIED: 12, SUPPORTED: 27, UNVERIFIED: 3
+Counts: DESIGN: 1, FALSE: 1, FICTION: 2, QUALIFIED: 13, SUPPORTED: 34, UNVERIFIED: 3, UNVERIFIED-BLOCKING: 15
