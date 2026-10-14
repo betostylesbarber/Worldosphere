@@ -19,7 +19,7 @@ def line_dur(text):
     s = max(0, len(re.findall(r"(?<!Mr)(?<!Mrs)(?<!Dr)[.?!…](?=\s)", text)))
     return w / WPS + c * COMMA + s * STOP
 
-WEAK = {"a","an","the","to","of","his","her","their","its","and","or","on","in","at","with","for","from","by","into","your","my","our","is","was","be","than","that","as","you","can't","can"}
+WEAK = {"a","an","the","to","of","his","her","their","its","and","or","on","in","at","with","for","from","by","into","your","my","our","is","was","be","than","that","as","you","can't","can","this","these","those","whole","every","some"}
 def _weak_end(seg):
     return seg.split()[-1].strip(",.:;!?…").lower() in WEAK
 
@@ -30,7 +30,7 @@ def wrap_ok(text, maxc=24):
     for i in range(1, len(words)):
         a, b = " ".join(words[:i]), " ".join(words[i:])
         if len(a) <= maxc and len(b) <= maxc:
-            score = abs(len(b) - len(a)) * 0.5 + (0 if len(a) <= len(b) else 2) + (8 if _weak_end(a) else 0) - (6 if a.endswith((",", ":", ".", "—")) else 0)
+            score = abs(len(b) - len(a)) * 0.5 + (0 if len(a) <= len(b) else 2) + (8 if _weak_end(a) else 0) - (6 if a.endswith((",", ":", ".", "—")) else 0) + (5 if len(a.split()) == 1 and len(words) > 2 else 0) + (3 if b.split()[0].lower() in {"us","him","her","them","it","me"} else 0)
             if best is None or score < best[0]: best = (score, [a, b])
     return best[1] if best else None
 

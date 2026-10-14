@@ -1,4 +1,4 @@
-**Runtime (provisional): 64.7 s · spoken words: 121 · speaking time ≈ 45.6 s (159 wpm while speaking; 112 wpm overall) · reading model: 2.75 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
+**Runtime (provisional): 64.7 s · spoken words: 121 · speaking time ≈ 45.6 s (159 wpm while speaking; 112 wpm overall) · reading model: 2.85 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
 
 | Time | Speaker | Line |
 |---|---|---|

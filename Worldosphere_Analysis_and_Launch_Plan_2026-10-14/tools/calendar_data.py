@@ -16,7 +16,7 @@ dict(day=2,date="2026-11-01",id="WS-002",slug="About-One-Minute",pillar="P2 REAL
  title="Your Car Is Sinking. You Have About One Minute.",alts=["Why the Car Door Won't Open Underwater","The 60-Second Rule That Gets You Out of a Sinking Car"],
  hook="Frame 0 is underwater: the car is nose-down, Owen's face is lit by the dash, and a timer reads ≈1:00",
  payoff="Owen tries the door (pinned by water pressure), switches to the side window with his keyring punch and escapes before the waterline reaches the glass",
- verdict="ESCAPED — He went for the window, not the door. REAL RULE: Car in water: get out through a side window in the first minute.",dur="52–56 s",complexity="M",
+ verdict="ESCAPED — He went for the window, not the door. REAL RULE: Car in water: get out through a side window in the first minute.",dur="56–60 s",complexity="M",
  test="Countdown HUD opening in the middle of the event; Real Rule card",
  placement="It is a universal fear with immediately useful, verified facts (C-201–206). It shows the channel isn't only zombies, while keeping the decision format. 1 Nov is the first evening after US clocks fall back, which explains the early darkness.",
  kits="K2 car interior/road/water; K9 HUD",claims="C-201, C-202, C-203, C-204, C-205 (BLOCKING order check), C-206, C-207",reserve="R02 Six Inches of Water",

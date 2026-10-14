@@ -12,6 +12,11 @@ for sh in shots:
     for (ra, rb, style, text) in sh.get("txt", []):
         a = sh["start"] + ra; b = sh["start"] + rb if rb is not None else sh["end"]
         extras.append((a, b, style, text))
+T=getattr(importlib.import_module(mod),"TIMER",None)
+if T:
+    st={s["id"]:s for s in shots}; t0=st[T["start_shot"]]["start"]; t1=st[T["end_shot"]]["end"]; v=T["start_value"]; tt=t0
+    while tt < t1 - 0.01:
+        nxt=min(tt+1.0,t1); extras.append((tt,nxt,"T1_Timer",f"{T['prefix']}{int(v)//60}:{int(v)%60:02d}")); v-=1; tt=nxt
 write_captions(caps, f"{outdir}/{pre}_captions_PROVISIONAL.srt", f"{outdir}/{pre}_captions_PROVISIONAL.ass", head, extras)
 # shot list csv + md
 hdr=["Shot","Start","End","Dur","Camera & composition","Action / performance","Spoken (speaker: line @ start–end)","Graphics / on-screen text","Sound","Transition","Continuity / notes"]
