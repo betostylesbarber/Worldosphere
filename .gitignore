@@ -5,3 +5,5 @@ References_Supplied/evidence_*/
 **/evidence_REF*/
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc

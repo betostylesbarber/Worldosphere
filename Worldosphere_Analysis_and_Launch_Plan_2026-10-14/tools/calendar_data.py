@@ -26,7 +26,7 @@ dict(day=3,date="2026-11-02",id="WS-003",slug="The-Superstore-Myth",pillar="P1 O
  title="Everyone Says the Superstore Is the Best Place to Survive",alts=["Why the Superstore Is a Trap in a Zombie Outbreak","The Zombie Plan Everyone Has (And Why It Fails)"],
  hook="Cutaway of a giant store at dawn as hundreds of headlights converge on it: 'Everyone says the superstore is the best place to survive. Everyone else says it too.'",
  payoff="Tess drives away from the store with a family. From the ridge, the store's noise Sphere pulls in the whole town; her delivery van is full of supplies",
- verdict="ESCAPED — The best spot was the one nobody picked.",dur="62–66 s",complexity="H (pre-built before launch)",
+ verdict="ESCAPED — The best spot was the one nobody picked.",dur="58–62 s",complexity="H (pre-built before launch)",
  test="'Everyone says…' debate premise: comment volume and shares",
  placement="It's the most familiar zombie debate after 'where would you hide'. Using a different lead and setting from Days 1–2 shows the anthology cast. The daylight palette contrasts with Day 1's night.",
  kits="K3 store + loading dock + lot; K10 crowd; K9 HUD/map",claims="C-012, C-013 (Sphere scale), C-102/103 rules (WR-03, WR-07)",reserve="R03 Day 12: A Knock on the Hatch",

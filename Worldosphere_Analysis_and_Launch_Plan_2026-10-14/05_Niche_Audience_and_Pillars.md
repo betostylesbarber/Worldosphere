@@ -54,7 +54,7 @@ What a returning viewer gets, which is the subscriber benefit:
 | Pillar | Definition | Viewer job | Share of the 30-day plan | Tone |
 |---|---|---|---|---|
 | **P1 — OUTBREAK** | Zombie / infected scenarios in specific everyday places, under fixed Worldosphere outbreak rules (07) | Suspense + "what would I do" | 14 / 30 | Tense, clever, occasionally wry |
-| **P2 — REAL RULE** | Real disasters and emergencies (water, fire, quake, weather, ice, crowd) as a 60-second story. Every safety claim fact-checked | Suspense + useful knowledge + share-to-protect | 13 / 30 (7 of them conditional on fact verification, with verified reserves) | Grounded, urgent, never preachy |
+| **P2 — REAL RULE** | Real disasters and emergencies (water, fire, quake, weather, ice, crowd) as a 60-second story. Every safety claim fact-checked | Suspense + useful knowledge + share-to-protect | 13 / 30 (9 of them depend on a BLOCKING claim being verified first: WS-002, 005, 012, 018, 023, 025, 027, 028, 029; verified reserves R01, R02, R08 stand by) | Grounded, urgent, never preachy |
 | **P3 — WORLD SHIFT** | Grid-down and end-of-the-world hypotheticals (blackouts, solar storms) and "Both Endings" decision labs | Big-picture curiosity, debate | 3 / 30 (the experimental pillar) | Speculative but rule-bound |
 
 Cross-cutting device, used in all pillars: **the decision.** Every episode turns on one visible choice (the Fork) and ends on a stated outcome (the Verdict).

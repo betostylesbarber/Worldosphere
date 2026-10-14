@@ -59,7 +59,7 @@ Use this together with the episode-specific checklist in the brief or package (e
 | W-06 | Spelling, names, numbers and units are correct and consistent with the ledger and the cast sheet | Spell-check the SRT and description |
 | W-07 | No-text moments in the brief (drop, final image, the first 0.5 s of the Verdict) are respected | Timeline |
 | W-08 | Speaker chips (S1) appear on the first line of each non-narrator speaker in each scene | ASS file |
-| W-09 | The SRT file is exported for upload as a subtitle track, as well as burned-in captions (accessibility, translations) | File present in `06_Export/` |
+| W-09 | The SRT file is exported for upload as a subtitle track, as well as burned-in captions (accessibility, translations) | Files present in `07_Edit/` and `08_Export/` (12 §3.1) |
 
 ## A — Audio
 | ID | Check | How to verify |

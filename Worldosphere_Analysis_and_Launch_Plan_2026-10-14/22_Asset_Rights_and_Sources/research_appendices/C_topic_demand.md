@@ -406,7 +406,7 @@ These are **unverified expectations** based on general familiarity with the genr
 | S56 | https://thetvdb.com/series/board-af/episodes/11232560 | "Surviving the Zombie Apocalypse" (2016) |
 | S57 | https://proapi.planetadelibros.com/descargas/sala-prensa-libro/sinopsis-y-biografia/289331/como-sobrevivir-a-un-apocalipsis-zombi.pdf | Spanish-language zombie survival book |
 | S58 | https://craigdilouie.com/my-top-10-list-of-apocalyptic-short-films/ ; https://www.shortoftheweek.com/news/9-great-zombie-shorts/ | Curated apocalyptic and zombie short-film lists |
-| Sib-A | `research/A_reference_account.md` (sibling agent, same date) | TikTok discover topic pages on the farmer-zombie trope; Reddit blocked for WebSearch |
+| Sib-A | `A_reference_account.md` (sibling agent, same date) | TikTok discover topic pages on the farmer-zombie trope; Reddit blocked for WebSearch |
 
 ---
 

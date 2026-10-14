@@ -48,7 +48,7 @@
 
 17. **Central decision:** Fork "DRIVE AWAY" (left, chosen) / "GO INSIDE".
 18. **Payoff + Verdict:** the van's rear door rolls up on cases of food and water. **ESCAPED · "The best spot was the one nobody picked."**
-19. **Duration and words:** 58.0 s provisional (calendar 62–66 s target; the provisional model reads shorter. Allow up to 4 s of extra holds on the map and the cargo reveal in the edit) · 120 words.
+19. **Duration and words:** 58.0 s provisional (calendar 58–62 s, revised from 62–66 s to match the timed package; up to 4 s of extra holds on the map and the cargo reveal are allowed in the edit) · 120 words.
 20. **Assets:**
     - Tess rig; guests Marcus + 2 kids, store manager, radio voice.
     - K3 store cutaway + lot + dock; town map; ridge.

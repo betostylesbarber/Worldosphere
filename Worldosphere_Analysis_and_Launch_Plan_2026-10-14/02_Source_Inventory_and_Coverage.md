@@ -56,3 +56,9 @@ Reconciliation: 2 supplied files = 2 unique videos = 2 complete breakdowns (`03_
 6. Read every caption change from the caption band (261 events in total).
 7. Wrote the shot-by-shot timeline (80 shots) and the component analysis A–J.
 8. Ran online research in six parallel threads: account, platform rules, topic demand, two fact ledgers, tools and licensing. All were limited by blocked page access and an exhausted shared search budget. See the access logs in `22_Asset_Rights_and_Sources/research_appendices/`.
+9. Built the creative system: niche and pillars (05), the brand and animation bible (08), typography and captions (09), and the survival-logic framework with its claim ledger (07).
+10. Scored 94 premises (15), selected 30 and 10 reserves (16), and dated the calendar (17).
+11. Wrote the Day 1–3 production packages with the caption and timing engine (`tools/package_engine.py`) (19).
+12. Rendered the style frames and the Fork/breath motion proof, then inspected them frame by frame and fixed the defects found (11).
+13. Three parallel writers drafted the briefs for Days 4–30. Every brief was then checked by script (fields 1–29; title, Verdict, duration and reserve match the calendar; no lane-B captions during a Fork) and edited for consistency (change log CL-005 to CL-010 in 21 §8).
+14. Wrote the production manual (12), master QA checklist and templates (13), improvement audit (10), performance hypotheses (06), schedule and buffer plan (20), measurement plan (21), asset-rights record (22), limitations (23), the next-video checklist (24), the workbook and the index (00).

@@ -87,12 +87,12 @@ Licence details below are from prior knowledge **[PK]** and were not re-verified
 | Record | What it holds |
 |---|---|
 | `07_Survival_Logic_and_Facts/claim_ledger.csv` (+ `.md`) | **71 claims:** ID, class, source, assumptions, qualification, approved script wording, visual implication, status, episodes. Regenerate with `python3 -I tools/gen_ledger.py <root>` after editing `tools/ledger_data.py` |
-| `research_appendices/D1_facts_natural.md` | Natural-hazard facts with exact quotes, URLs and access dates (earthquakes, water, weather, ice, rip currents, etc.) |
-| `research_appendices/D2_facts_home_outdoor.md` | Home and outdoor facts (generators/CO, fire, water storage, elevators, etc.) |
-| `research_appendices/B_youtube_platform.md` | YouTube requirements with quotes, URLs, and official / non-official flags |
-| `research_appendices/C_topic_demand.md` | Topic-demand evidence, comparable creators [R-S#] and seasonal signals |
-| `research_appendices/A_reference_account.md` | The access log for the reference account (nothing retrievable) |
-| `research_appendices/F_tools_licensing.md` | Tools, prices as seen, and licences |
+| `22_Asset_Rights_and_Sources/research_appendices/D1_facts_natural.md` | Natural-hazard facts with exact quotes, URLs and access dates (earthquakes, water, weather, ice, rip currents, etc.) |
+| `22_Asset_Rights_and_Sources/research_appendices/D2_facts_home_outdoor.md` | Home and outdoor facts (generators/CO, fire, water storage, elevators, etc.) |
+| `22_Asset_Rights_and_Sources/research_appendices/B_youtube_platform.md` | YouTube requirements with quotes, URLs, and official / non-official flags |
+| `22_Asset_Rights_and_Sources/research_appendices/C_topic_demand.md` | Topic-demand evidence, comparable creators [R-S#] and seasonal signals |
+| `22_Asset_Rights_and_Sources/research_appendices/A_reference_account.md` | The access log for the reference account (nothing retrievable) |
+| `22_Asset_Rights_and_Sources/research_appendices/F_tools_licensing.md` | Tools, prices as seen, and licences |
 
 **Source standard for publication (QA F-01–F-05):**
 - every real-world claim on screen or in voice has a ledger row marked SUPPORTED or QUALIFIED, with publisher, title, URL, access date and the exact supporting words
