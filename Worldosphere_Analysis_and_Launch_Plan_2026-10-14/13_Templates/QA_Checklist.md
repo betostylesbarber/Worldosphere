@@ -65,7 +65,7 @@ Use this together with the episode-specific checklist in the brief or package (e
 | ID | Check | How to verify |
 |---|---|---|
 | A-01 ★ | Dialogue is intelligible on a phone speaker at medium volume, and music and effects never mask a word | Phone-speaker playback |
-| A-02 | Integrated loudness −14 LUFS ±1. True peak ≤ −1.0 dBTP. No clipping | `ffmpeg -i file.mp4 -af ebur128=peak=true -f null -` (see the manual, `12_Production_Manual.md` §5.14) |
+| A-02 | Integrated loudness −14 LUFS ±1. True peak ≤ −1.0 dBTP. No clipping | `ffmpeg -i file.mp4 -af ebur128=peak=true -f null -` (see the manual, `12_Production_Manual.md` §2) |
 | A-03 | The narrator is never filtered or ducked under effects. Character dialogue sits within 2 LU of narration | Meter the stems |
 | A-04 | The drop (music silence) lands exactly at the brief's moment and lasts the planned length | Timeline |
 | A-05 | Sound sources match their pictures (a door slam on the slam frame; the Sphere's sound starts when it is drawn) | Scrub sync points |

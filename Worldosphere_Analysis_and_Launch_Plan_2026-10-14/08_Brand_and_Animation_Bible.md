@@ -67,7 +67,7 @@ All human characters share one construction so rigs, poses and crowds are reusab
 - **Gaze tells the viewer where to look.** Before a cut to a reveal, the character looks toward it.
 - **Lip-sync:** 6-shape phoneme sets for spoken lines. Off-screen lines play over a *closed-mouth* listener (fixes REF01's attribution issue).
 - **Hands and objects:** contact points pinned (no sliding). The prop is parented to the hand for the whole hold.
-- **Feet:** planted frames locked. Walk and run cycles at 12 fps drawn on twos inside a 24 fps timeline (12 §Animation).
+- **Feet:** planted frames locked. Walk and run cycles at 12 fps drawn on twos inside a 24 fps timeline (12 §6).
 
 ### 4.4 Guest characters and crowds
 - A **guest rig** with swappable heads (6), hair (8), tops (8) and colourways builds crowds and one-off characters.
@@ -160,7 +160,7 @@ Physics, never monsters. Water, fire, wind, cold, pressure and crowds are drawn 
 | Story-tied endings (F08) | Resolution first; an optional forward hook after it |
 
 ## 9. Environments, props and motifs
-- **Modular kits** (12 §Assets):
+- **Modular kits** (12 §4):
   - K1 suburban street (day/night).
   - K2 vehicle interior + road + water.
   - K3 big-box store + loading dock.
