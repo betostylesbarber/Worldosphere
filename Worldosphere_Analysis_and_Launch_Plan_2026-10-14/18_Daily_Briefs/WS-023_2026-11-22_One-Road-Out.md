@@ -64,7 +64,7 @@
 
 **17. Central decision (the Fork):** FORK: PACK THE REST vs GO NOW. F1: "PACK THE REST" | "GO NOW". Chosen: right. If the ember element stays unverified, the left preview shows only the queue and the barrier (story consequences).
 
-**18. Actual final payoff and Verdict card text:** Owen leaves when told rather than when he's ready, and passes the checkpoint before the road closes (pending verified guidance). Final image: his hand on the photo. Verdict: **OUT — He left when told, not when ready. (REAL RULE pending verification)**. OUT in Safe Green; factor 7 words. V3 draft: "Wildfire: leave as soon as you're told to. Sooner if you feel unsafe." [PENDING VERIFICATION C-2301] (13 words) + "Sources in description".
+**18. Actual final payoff and Verdict card text:** Owen leaves when told rather than when he's ready, and passes the checkpoint before the road closes (pending verified guidance). Final image: his hand on the photo. Verdict: **ESCAPED — He left when told, not when ready. (REAL RULE pending verification)**. ESCAPED in Safe Green (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.); factor 7 words. V3 draft: "Wildfire: leave as soon as you're told to. Sooner if you feel unsafe." [PENDING VERIFICATION C-2301] (13 words) + "Sources in description".
 
 **19. Target duration and provisional word budget:** 56–60 s (target 58 s). Budget 140–155 words. The draft is about 120 words; the gap is planned silence.
 

@@ -69,7 +69,7 @@
 
 **17. Central decision (Fork):** FORK: KEEP FILMING vs PREPARE NOW. F1 chips "KEEP FILMING" | "PREPARE NOW" (chosen, Amber), placed at the Hour-0 rung, the one where a decision matters (R-E).
 
-**18. Final payoff and Verdict:** Payoff: Owen treats the aurora as a warning: water, fridge rules and checks on the neighbours before the outage spreads. Final image: Owen on the porch under the faint aurora. Verdict card: **READY — The lights were a warning, not a show.**
+**18. Final payoff and Verdict:** Payoff: Owen treats the aurora as a warning: water, fridge rules and checks on the neighbours before the outage spreads. Final image: Owen on the porch under the faint aurora. Verdict card: **SAFE — The lights were a warning, not a show.** (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.)
 
 **19. Target duration and word budget:** 60–64 s (cut at 62.0 s). Budget ≈150–165 words; the draft has about 145.
 
@@ -91,6 +91,6 @@
 
 **28. Why this calendar position:** A big-picture P3 in week 3. Conditional on verifying C-2001; swap to R01/R08 if verification fails.
 
-**29. Success measures and reserve:** Primary: 3-second retention and "stayed to watch" for the HP14 hook against the P3 median (WS-010, WS-014). Guardrail: zero corrections on storm history, no "fearmongering" comments, and average percentage viewed at or above the P3 median. Reserve: **R08 Cold Water Overboard** (named). Caution: R08 is a water episode using WS-021's claims the next day, which breaks 17's no-adjacent-water rule. Prefer R01 (17 allows R01/R08) unless R01 has already replaced WS-018.
+**29. Success measures and reserve:** Primary: 3-second retention and "stayed to watch" for the HP14 hook against the P3 median (WS-010, WS-014). Guardrail: zero corrections on storm history, no "fearmongering" comments, and average percentage viewed at or above the P3 median. Reserve: **R01 Lightning** (the calendar now names R01). The earlier draft named R08, but R08 is a water episode using WS-021's claims the next day, which breaks 17's no-adjacent-water rule. Prefer R01 (17 allows R01/R08) unless R01 has already replaced WS-018.
 
 *Ready-for-script:* **NOT READY**: C-2001 pending · C-1001/C-1002 SUPPORTED ✓ · Fork labels ≤3 words ✓ · Verdict factor 8 words ✓

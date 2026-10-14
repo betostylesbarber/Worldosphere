@@ -90,7 +90,7 @@ A visual overlay is provided: `safe_zone_overlay_1080x1920.png`. Put it on the t
 - Contrast (WCAG 2.x formula; tag at 88% over a white background, which is the worst case): white text **12.3:1**, amber tint #FFC247 **7.6:1**, threat tint #FF8A7A **5.4:1**, cold tint #7FE0F0 **8.1:1**, safe tint #9BE58A **8.2:1**; Ink on Paper card **14.7:1**. All exceed 4.5:1.
 - Smallest text on screen is 26 px (the Verdict source line). Body captions are 62 px, about 3.2% of frame height.
 - Also upload a **closed-caption file (SRT)** to YouTube for each video, generated from the same script (it helps viewers who rely on captions and translation). Burned-in captions remain the primary layer for muted viewing.
-- Muted test: a person who has not seen the script must be able to state the decision and the outcome from a muted viewing (QA S-02).
+- Muted test: a person who has not seen the script must be able to state the decision and the outcome from a muted viewing (QA S-01 and P-02).
 
 ## 10. Reusable files in this folder
 | File | Purpose |

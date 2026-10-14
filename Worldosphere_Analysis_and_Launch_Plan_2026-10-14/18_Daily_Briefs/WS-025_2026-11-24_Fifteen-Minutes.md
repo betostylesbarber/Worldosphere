@@ -64,7 +64,7 @@
 
 **17. Central decision (the Fork):** FORK: SKI DOWN FOR HELP vs SEARCH NOW. F1: "SKI FOR HELP" | "SEARCH NOW". Chosen: right. The left preview shows only time passing over an empty slope, with no body; what it implies depends on C-2501.
 
-**18. Actual final payoff and Verdict card text:** Tess searches immediately (beacon, probe, shovel) instead of going for help, and finds Jun in time (pending verified guidance). Final image: Jun's face uncovered, the probe still standing, T1 frozen at 11:40. Verdict: **FOUND — She searched instead of going for help. (REAL RULE pending verification)**. FOUND in Safe Green; factor 7 words. V3 draft: "Avalanche: your partners are the rescue team. Speed is everything." [PENDING VERIFICATION C-2501] (10 words, from D1 §13 drafts) + "Sources in description".
+**18. Actual final payoff and Verdict card text:** Tess searches immediately (beacon, probe, shovel) instead of going for help, and finds Jun in time (pending verified guidance). Final image: Jun's face uncovered, the probe still standing, T1 frozen at 11:40. Verdict: **SURVIVED — She searched instead of going for help. (REAL RULE pending verification)**. SURVIVED in Safe Green (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.); factor 7 words. V3 draft: "Avalanche: your partners are the rescue team. Speed is everything." [PENDING VERIFICATION C-2501] (10 words, from D1 §13 drafts) + "Sources in description".
 
 **19. Target duration and provisional word budget:** 56–60 s (target 58 s). Budget 140–155 words. The draft is about 120 words; the clock and the effort sounds carry the rest.
 

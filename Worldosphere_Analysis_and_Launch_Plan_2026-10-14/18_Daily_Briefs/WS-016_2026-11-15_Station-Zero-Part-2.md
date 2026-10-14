@@ -4,7 +4,7 @@
 
 **1. Video ID and publication date:** WS-016 · 2026-11-15 (12:00 ET)
 
-**2. Exact subject and original angle:** Station Zero, part 2: heat runs out in 30 hours and the only weapon is the cold. Part 1's barrier (the door) becomes the obstacle, and Owen turns WR-06 into a second wall by un-heating one wing. It opens with a one-line in-world recap.
+**2. Exact subject and original angle:** Station Zero, part 2: heat runs out in 30 hours and the only weapon is the cold. Part 1's barrier becomes the obstacle, and Owen turns WR-06 into a second wall by un-heating one wing. It opens with a one-line in-world recap.
 
 **3. Recommended title + two alternatives:** "Station Zero Part 2: The Only Weapon Was the Cold" · "How Do You Stop a Zombie in Antarctica? Open the Door." · "Station Zero: Let the Cold In"
 
@@ -14,31 +14,31 @@
 
 **6. Content pillar and recipe:** P1 OUTBREAK (SAGA) · R-F Two-part Saga (Part 2) · lead Owen.
 
-**7. Audience-interest evidence:** T025 is "[J]": judgment only. Execution evidence as in WS-015 (15, appendix C §A.4). No sequel-demand data exists; this episode creates it.
+**7. Audience-interest evidence:** T025 is "[J]": judgment only. Execution evidence as in WS-015. No sequel-demand data exists; this episode creates it.
 
 **8. Factual sources / fictional assumptions:**
 - **WR-06:** below about −20 °C they slow sharply; below about −30 °C they stiffen and stop within an hour; they **recover if warmed**, so the wing stays cold.
-- **WR-02:** frost, no breath. Owen's breath fogs and the Turned's doesn't (C-101, UNVERIFIED, low risk: visual only, never narrated).
+- **WR-02:** frost, no breath. Owen's breath fogs and the Turned's doesn't (C-101, UNVERIFIED, low risk: visual only).
 - **WR-04** (the outer door stayed shut because it's locked; the inner door opens into the bay) · **WR-05** · **WR-03** (in the dark, Owen steps out of sight) · WR-10 · WR-11 · WR-12.
-- **C-1501 UNVERIFIED, BLOCKING when a number is shown.** The hook's "OUTSIDE −41°C" is a number, so the readout is **[PENDING VERIFICATION C-1501]**. Cautious form: it's this fictional station's wall thermometer, never narrated as a fact about Antarctica. **If C-1501 isn't verified (URL + quote + access date) by script lock:** the gauge shows no outside figure, just a needle past the WR-06 "−30°C" stop line (a fiction threshold), and the spoken WR-06 line stays.
-- In-story only: the boiler has 30 hours of fuel left, and its valves are reached through the bay. No claims about real fuel systems or exposure times.
+- **C-1501 UNVERIFIED, BLOCKING when a number is shown.** The hook's "OUTSIDE −41°C" is **[PENDING VERIFICATION C-1501]**. Cautious form: it's this fictional station's wall thermometer, never narrated as a fact about Antarctica. **If C-1501 isn't verified (URL + quote + access date) by script lock:** the gauge shows no outside figure, only a needle past the WR-06 "−30°C" stop line (fiction), and the spoken WR-06 line stays.
+- In-story only: 30 hours of boiler fuel left, with the valves reached through the bay. No claims about real fuel systems or exposure times.
 
 **9. Three hook options:**
 - A. **HP02 Mid-event cold open + clock** (story clock). Spoken: the recap (11). Written hook: T1 "HEAT: 30 HOURS".
 - B. **HP08 Rule twist.** A frosted porthole with a still silhouette. Spoken: "Last night, a door held it back. Tonight, Owen had to open a different one." H1 "OPEN THE / DOOR?"
 - C. **HP07 Fork first.** The frame already split: corridor vs outer door. Spoken: "One infected, locked in the medical bay. The heat is behind it. Two ways in." H1 "TWO WAYS / IN".
 
-**10. Selected hook and why it wins:** A, the calendar hook: "Frame 0: Owen in a parka at the boiler-room hatch; T1 'HEAT: 30 HOURS'; story thermometer 'OUTSIDE −41°C'". It is the exact frame Part 1's forward line showed (continuity), and the recap orients cold viewers in one sentence. B is cryptic without Part 1; C spends the Fork too early.
+**10. Selected hook and why it wins:** A, the calendar hook: "Frame 0: Owen in a parka at the boiler-room hatch; T1 'HEAT: 30 HOURS'; story thermometer 'OUTSIDE −41°C'". It is the exact frame Part 1's forward line showed, and the recap orients cold viewers in one sentence. B is cryptic without Part 1; C spends the Fork too early.
 
 **11. Exact opening spoken line:** "Last night, the station sealed its first infected behind a door. Tonight, the heat is running out."
 
 **12. Exact first on-screen text:** T1 "HEAT: 30 HOURS" as the written hook (HP02 convention, like WS-002's "≈1:00"; no separate H1), placed at x 72, y 300 below G1 "SCENARIO 015 · PART 2". Diegetic: the thermometer "OUTSIDE −41°C" **[PENDING VERIFICATION C-1501]**.
 
-**13. First-frame composition:** Owen, hooded, at the boiler-room hatch (screen-left), his flashlight on the day-tank gauge. The thermometer is at screen-right, and frost feathers the small window. The corridor toward the bay recedes screen-right. Lane A is clear.
+**13. First-frame composition:** Owen, hooded, at the boiler-room hatch (screen-left), his flashlight on the day-tank gauge. The thermometer is at screen-right, frost feathers the window, and the corridor to the bay recedes screen-right. Lane A is clear.
 
 **14. First three seconds:** 0–0.5 s: T1 and G1; "Last" at 0.2 s · 0.5–1 s: the gauge needle dips · 1–2 s: Owen turns toward the corridor · 2–3 s: cut to the bay's frosted porthole as a shadow passes.
 
-**15. Beginning, middle and ending:** Recap: last night the station sealed its first infected behind a door, and tonight the heat is running out. The valves that refill the boiler are on the medical bay's back wall, past the Turned, which never sleeps or tires. The chief: "Twelve of us. Thirty hours." Owen remembers one more rule: below about minus thirty, they stiffen and stop. FORK: GO PAST IT NOW vs LET THE COLD IN. He shuts off the wing's heat, walks outside, unlocks the bay's outer door, hooks it open and steps out of sight. Cold floods in, and the Turned lurches two steps, then slows. An hour later it stands frozen mid-step, with no breath. Owen walks past it, close and slow, and opens the valves. Heat returns to the crew, but not to the wing, because warmth would wake it. **Ending:** the glowing station with one frosted wing. "Six months until the next plane. Twelve people. One frozen door." SURVIVED.
+**15. Beginning, middle and ending:** Recap: last night the station sealed its first infected behind a door, and tonight the heat is running out. The boiler's valves are on the medical bay's back wall, past a Turned that never sleeps or tires. The chief: "Twelve of us. Thirty hours." Owen remembers one more rule: below about minus thirty, they stiffen and stop. FORK: GO PAST IT NOW vs LET THE COLD IN. He shuts off the wing's heat, walks outside, unlocks the bay's outer door, hooks it open and steps out of sight. Cold floods in, and the Turned lurches, then slows. An hour later it stands frozen, with no breath. Owen walks past it, close and slow, and opens the valves. Heat returns to the crew, but not to the wing, because warmth would wake it. **Ending:** the glowing station with one frosted wing: "Six months until the next plane. Twelve people. One frozen door." SURVIVED.
 
 **16. Timed beat outline** (68.0 s · Fork at 35–37% · final image held 1.7 s · Verdict 3.4 s)
 
@@ -69,24 +69,24 @@
 
 **19. Target duration and word budget:** 66–70 s (cut at 68.0 s). Budget ≈165–180 words; the draft has about 135, because the frost hold and the pass are deliberately slow.
 
-**20. Characters, locations, props, assets:** OWEN; the CHIEF and crew (from WS-015). The Turned is the Part 1 passenger with a **NEW** frost overlay and stiff pose. Station kit from WS-015, plus **NEW** additions: the bay's outer stretcher door (both sides, with a wall hook), heating panel, valve manifold, wall thermometer (pending C-1501), and a night exterior (K6). K9: T1, L1, Cyan Sphere, plan cutaway, Fork, V1, C1. Floor plan: corridor → inner door (opens into the bay) → bay → back-wall valves, with the outer door on the side wall.
+**20. Characters, locations, props, assets:** OWEN; the CHIEF and crew (from WS-015). The Turned gets a **NEW** frost overlay and stiff pose. WS-015's station kit, plus **NEW**: the bay's outer stretcher door (both sides, wall hook), a heating panel, the valve manifold, a wall thermometer (pending C-1501), and a night exterior (K6). K9: T1, L1, Cyan Sphere, plan cutaway, Fork, V1, C1. Floor plan: corridor → inner door (opens into the bay) → bay → back-wall valves, with the outer door on the side wall.
 
-**21. Key visual technique:** Fork at 24.0 s. A **Cyan (cold) Sphere**, the saga's new image, rolls in from the open door (rim label "MED BAY", no distance tick). Frost creep works as a visual clock. The Verdict status SURVIVED gets a Safe Green underline. The final exterior rhymes with Part 1's frame 0.
+**21. Key visual technique:** Fork at 24.0 s. A **Cyan (cold) Sphere**, the saga's new image, rolls in from the open door (rim label "MED BAY", no tick). Frost creep acts as a visual clock. The Verdict status SURVIVED gets a Safe Green underline. The final exterior rhymes with Part 1's frame 0.
 
-**22. Typography and captions:** G1 0–2.0 s; T1 at x 72, y 300. N1 in lane A throughout; during the pass (41.4–49.6 s) frame both faces above y 1050 (W-05). D1 + S1 "CHIEF". L1: "FUEL VALVES", "−30°C: THEY STOP", "MED WING HEAT: OFF". F1 chips at y≈520. Emphasis: *heat* (threat), *past* (threat), *tires* (threat), *stop* (cold), *cold* (cold), *stopped* (cold), *valves* (amber), *wake* (threat), *frozen* (cold). Frame 0 holds T1, the diegetic readout and N1 (plus G1, as in WS-001). No text during the Fork, the drop (T1 roll only), the final-image hold, or the Verdict's first 0.5 s. To keep C1 below the factor, the V1 card rises to y 860–1260 and C1 sits at y 1320.
+**22. Typography and captions:** G1 0–2.0 s; T1 at x 72, y 300. N1 in lane A throughout; frame both faces during the pass (41.4–49.6 s) above y 1050 (W-05). D1 + S1 "CHIEF". L1: "FUEL VALVES", "−30°C: THEY STOP", "MED WING HEAT: OFF". F1 chips at y≈520. Emphasis: *heat* (threat), *past* (threat), *tires* (threat), *stop* (cold), *cold* (cold), *stopped* (cold), *valves* (amber), *wake* (threat), *frozen* (cold). No text during the Fork, the drop (T1 roll only), the final-image hold, or the Verdict's first 0.5 s. The V1 card rises to y 860–1260 so C1 sits below it at y 1320.
 
-**23. Voice, music, ambience, sound cues:** The narrator is low and slow, plain on the recap. Owen is silent (he's alone); the chief is brisk. Bed: a 70 BPM pulse with a glassy cold drone. Ambience: a sagging generator thrum, polar wind, ice ticks. Cues: 0.2 s low boiler hum · 13.0 s thump on the door · 24.0 s paper tear, 25.2 s tick · 26.0 s breaker clunk · 30.6 s key and lock · 31.4 s wind roar · 33.6 s frost crackle · 50.0 s valve squeal · 53.0 s radiator ticks · 64.8 s motif. **Drop:** 37.0–41.4 s, with music and wind cut; only breathing and a faint ice crackle remain.
+**23. Voice, music, ambience, sound cues:** The narrator is low and slow, plain on the recap. Owen is silent (he's alone); the chief is brisk. Bed: a 70 BPM pulse with a glassy drone. Ambience: a sagging generator, polar wind, ice ticks. Cues: 0.2 s boiler hum · 13.0 s thump · 24.0 s paper tear, 25.2 s tick · 26.0 s breaker clunk · 30.6 s key and lock · 31.4 s wind roar · 33.6 s frost crackle · 50.0 s valve squeal · 53.0 s radiators · 64.8 s motif. **Drop:** 37.0–41.4 s, with music and wind cut; only breathing and an ice crackle remain.
 
-**24. Original Worldosphere contribution:** The cold as a wall, set up by a world rule and paid off at a cost (the wing stays cold for good). Part 1's barrier becomes Part 2's obstacle, and the breath motif (WS-001) returns at the month's closest pass.
+**24. Original Worldosphere contribution:** The cold as a wall, set up by a world rule and paid off at a cost (the wing stays cold for good). Part 1's barrier becomes Part 2's obstacle, and WS-001's breath motif returns at the closest pass of the month.
 
-**25. CTA:** A C1 chip, "New scenario every day" (subscribe, after a strong payoff), with no spoken CTA. It counts toward the twice-weekly cap; drop it if Days 10–14 already used two. Pinned comment: "Part 1: how the first case got in." Add the related-video link if available.
+**25. CTA:** A C1 chip, "New scenario every day" (subscribe, after a strong payoff), with nothing spoken. It counts toward the twice-weekly cap; drop it if Days 10–14 used two. Pinned comment: "Part 1: how the first case got in." Add the related-video link if available.
 
-**26. Share / replay / subscribe:** Share: a retellable reversal (open the door to win). Replay: the frost creep, and breath vs no breath during the pass. Subscribe: a finished saga that never held its ending hostage.
+**26. Share / replay / subscribe:** Share: a retellable reversal (open the door to win). Replay: the frost creep, and breath vs no breath. Subscribe: a finished saga that never held its ending hostage.
 
-**27. Production dependencies and reusable assets:** WS-015's station kit; the new door, manifold and panel; the frost overlay; **C-1501 verification or the gauge fallback before script lock**. Reusable: the frost overlay and Cold Sphere (WS-025, WS-029, WS-030).
+**27. Production dependencies and reusable assets:** WS-015's kit; the new door, manifold and panel; the frost overlay; **C-1501 verification or the gauge fallback before script lock**. Reusable: the frost overlay and Cold Sphere (WS-025, WS-029, WS-030).
 
 **28. Why this calendar position:** This is the second half of the saga test. A one-line in-world recap keeps it standalone.
 
-**29. Success measures and reserve:** Primary: the **Part2/Part1 view ratio** and **Part-2 3-second retention** against the channel average (the cold-viewer test). Guardrail: near-zero "what happened before?" comments, and average percentage viewed at or above the P1 median. Reserve: **R03 Bunker Hatch**. If the saga is pulled, swap Part 1 to R05 as well.
+**29. Success measures and reserve:** Primary: the **Part2/Part1 view ratio** and **Part-2 3-second retention** against the channel average (the cold-viewer test). Guardrail: near-zero "what happened before?" comments, and average percentage viewed at or above the P1 median. Reserve: **R03 Bunker Hatch**. If the saga is pulled, Part 1 swaps to R05 as well.
 
 *Ready-for-script:* C-1501 readout **pending** (fallback defined) · WR-06 recovery respected ✓ · Fork labels ≤3 words ✓ · Verdict factor 7 words ✓

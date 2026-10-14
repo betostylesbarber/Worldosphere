@@ -213,7 +213,7 @@ Verification is mostly 20–40 minutes per claim with web access (find the agenc
 | C-1704 | UNVERIFIED — BLOCKING if shown | WS-017 | Mon 16 Nov | Fri 06 Nov | Cut the line (the episode works without it) |
 | C-1801 | UNVERIFIED — BLOCKING | WS-018 | Tue 17 Nov | Sat 07 Nov | Swap to R01 Lightning (verified) |
 | C-1802 | UNVERIFIED — BLOCKING | WS-018 | Tue 17 Nov | Sat 07 Nov | Swap to R01 Lightning (verified) |
-| C-2001 | UNVERIFIED — BLOCKING | WS-020 | Thu 19 Nov | Mon 09 Nov | Swap to R08 Cold Water Overboard |
+| C-2001 | UNVERIFIED — BLOCKING | WS-020 | Thu 19 Nov | Mon 09 Nov | Swap to R01 Lightning |
 | C-2104 | UNVERIFIED — BLOCKING if a number is shown | WS-021 | Fri 20 Nov | Tue 10 Nov | Cut the line (the episode works without it) |
 | C-2301 | UNVERIFIED — BLOCKING | WS-023 | Sun 22 Nov | Thu 12 Nov | Swap to R02 Six Inches of Water |
 | C-2501 | UNVERIFIED — BLOCKING | WS-025 | Tue 24 Nov | Sat 14 Nov | Swap to R08 Cold Water Overboard |

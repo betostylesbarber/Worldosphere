@@ -4,7 +4,7 @@
 
 **1. Video ID and publication date:** WS-021 · 2026-11-20 (12:00 ET)
 
-**2. Exact subject and original angle:** Falling through early ice: control the gasp, then turn back toward the ice that held you. The lesson is direction. The instinct is to keep going toward the goal, but Tess's own boot prints show which ice already carried her weight.
+**2. Exact subject and original angle:** Falling through early ice: control the gasp, then turn back toward the ice that held you. The lesson is direction: the instinct says keep going, but Tess's own boot prints show which ice already carried her weight.
 
 **3. Recommended title + two alternatives:** "Fell Through the Ice? Turn Back the Way You Came." · "The First Minute in Icy Water Isn't About the Cold" · "How to Get Out of Ice: The 1-10-1 Rule"
 
@@ -18,10 +18,10 @@
 
 **8. Factual sources / fictional assumptions:**
 - **C-2101** SUPPORTED: "First comes the gasp." · "Control your breathing."
-- **C-2102** QUALIFIED: "About a minute to breathe. About ten to get out." T1 shows "≈1:00", then "≈10:00", always with "≈" and never ticking seconds, because this is a rough guide that varies widely. The "~1 hour" part isn't used.
-- **C-2103** SUPPORTED: "Turn back the way you came. That ice held you." ("held you" refers to her own path; the ledger says "strongest ice") · "Arms on the ice." · "Kick. Slide." · "Roll. Don't stand up yet." The animation follows this exact order.
-- **C-2104** UNVERIFIED (BLOCKING if shown): no ice-thickness number and no "safe ice" cue anywhere.
-- Story narration, not instruction: "Then she got somewhere warm. Fast." There's no rewarming or medical advice (07 §4), and "Leave it." is character, not guidance. The description lists the DNR and NPS sources and "Not professional advice."
+- **C-2102** QUALIFIED: "About a minute to breathe. About ten to get out." T1 shows "≈1:00", then "≈10:00", always with "≈" and never ticking (a rough guide). The ~1 hour part isn't used.
+- **C-2103** SUPPORTED: "Turn back the way you came. It already held you." ("It" is her own path; the ledger says "strongest ice") · "Arms on the ice." · "Kick. Slide." · "Roll. Don't stand up yet." The animation follows this exact order.
+- **C-2104** UNVERIFIED (BLOCKING if shown): no thickness number and no "safe ice" cue.
+- Story narration, not instruction: "Then she got somewhere warm. Fast." No rewarming or medical advice (07 §4). "Leave it." is character, not guidance. The description lists the DNR/NPS sources and "Not professional advice."
 
 **9. Three hook options:**
 - A. **HP02 Mid-event cold open** (the T1 arrives with the gasp). Spoken: "The shortcut saved four minutes. Then the ice broke." H1 "WHICH WAY / OUT?"
@@ -34,11 +34,11 @@
 
 **12. Exact first on-screen text:** H1 "WHICH WAY / OUT?" (OUT in Amber) + G1 "SCENARIO 021".
 
-**13. First-frame composition:** Low angle across a snowy pond at dusk. Tess is mid-stride toward screen-left, heading for the far bank's porch light, as a crack star bursts under her boot and the parcel flies up. Her van waits on the near bank at screen-right, with her boot prints trailing back to it (so the escape runs screen-right). H1 sits over the grey sky; lane A over the snow.
+**13. First-frame composition:** Low angle across a snowy pond at dusk. Tess, mid-stride toward screen-left (the far bank's porch light), as a crack star bursts and the parcel flies up. Her van is on the near bank at screen-right, with her boot prints trailing back to it, so the escape runs screen-right. H1 is over the sky; lane A over snow.
 
 **14. First three seconds:** 0–0.5 s: crack; H1 and G1; "The" at 0.2 s · 0.5–1 s: the parcel leaves her hands · 1–2 s: the ice gives and she drops · 2–3 s: splash; the parcel skids onto the edge.
 
-**15. Beginning, middle and ending:** Tess cuts across a frozen pond to save four minutes on a delivery, and the ice breaks. First comes the gasp. She forces her breathing slow: about a minute to breathe, about ten to get out. The customer's porch light is right there, and every instinct says keep going, but that ice never held her. FORK: CLIMB OUT FORWARD vs TURN BACK THE WAY YOU CAME. She turns toward her own boot prints, gets her arms on the ice, kicks like swimming and slides out. Half out, the ice creaks; she freezes, then kicks once more. She rolls away without standing and crawls back along her tracks to the bank, then gets into her van with the heater on. **Ending:** the parcel is still bobbing in the hole. "Leave it." OUT.
+**15. Beginning, middle and ending:** Tess cuts across a frozen pond to save four minutes on a delivery, and the ice breaks. First comes the gasp. She forces her breathing slow: about a minute to breathe, about ten to get out. The porch light is right there, and every instinct says keep going, but that ice never held her. FORK: CLIMB OUT FORWARD vs TURN BACK THE WAY YOU CAME. She turns to her own boot prints, gets her arms on the ice, kicks and slides out, freezes as it creaks, then kicks once more. She rolls away without standing, crawls back along her tracks and gets into her van with the heater on. **Ending:** the parcel still bobs in the hole. "Leave it." OUT.
 
 **16. Timed beat outline** (54.0 s · Fork at 35.2–37.8% · final image held 2.8 s · Verdict + REAL RULE 50.0–54.0 s, with the CTA from 52.6 s)
 
@@ -51,7 +51,7 @@
 | 12.0–15.6 | Instinct | She faces the porch light and reaches forward | N: "The house was right there. Every instinct said: keep going." | Reasonable |
 | 15.6–19.0 | Doubt | Forearm on the forward edge; a crack spreads | N: "But that ice had never held her." | Why it fails |
 | 19.0–20.4 | **FORK** | Forward edge crumbles, she slips back / she turns to her boot prints | — | Choose |
-| 20.4–24.0 | Step 1 | Turns 180°; the boot-print trail lights Safe Green; L1 "THE WAY SHE CAME" | N: "Turn back the way you came. That ice held you." | C-2103 |
+| 20.4–24.0 | Step 1 | Turns 180°; the boot-print trail lights Safe Green; L1 "THE WAY SHE CAME" | N: "Turn back the way you came. It already held you." | C-2103 |
 | 24.0–26.2 | Step 2 | Arms spread flat on the ice | N: "Arms on the ice." | C-2103 |
 | 26.2–29.6 | Step 3 | Underwater cutaway: kicking; her body slides forward | N: "Kick. Slide." | C-2103 |
 | 29.6–33.0 | Hold + **drop** | Half out; the ice creaks; she freezes, then kicks once more | — | Stillness |
@@ -65,28 +65,28 @@
 
 **17. Central decision (Fork):** FORK: CLIMB OUT FORWARD vs TURN BACK THE WAY YOU CAME. F1 chips "CLIMB OUT FORWARD" | "TURN BACK" (chosen, Amber; shortened to ≤3 words). The unchosen preview shows the forward edge crumbling (C-2103's reason), with no thickness claim.
 
-**18. Final payoff and Verdict:** Payoff: Tess controls her breathing, turns toward the direction she came from, kicks and slides out, rolls away and gets to warmth. Final image: the hole with the parcel in it, and the lit trail back to the van. Verdict card: **OUT — Back toward the ice that held her. REAL RULE: Fell through ice? Turn back the way you came. Kick, slide, roll.** + "Sources in description".
+**18. Final payoff and Verdict:** Payoff: Tess controls her breathing, turns toward the direction she came from, kicks and slides out, rolls away and gets to warmth. Final image: the hole with the parcel in it, and the lit trail back to the van. Verdict card: **ESCAPED — Back toward the ice that held her. REAL RULE: Fell through ice? Turn back the way you came. Kick, slide, roll.** + "Sources in description". (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.)
 
 **19. Target duration and word budget:** 52–56 s (cut at 54.0 s). Budget ≈131–146 words; the draft has about 97, including the CTA, because the steps are shown.
 
-**20. Characters, locations, props, assets:** TESS (plus a **NEW** wet-costume variant). K6 pond and ice at dusk; the near bank with her van (K2 exterior and interior); a far bank with a porch light (K1 house silhouette). **NEW** ice-break effects (crack star, plate tilt). The underwater cutaway reuses WS-017's water plates, tinted dark and cold. Props: the parcel (floating), scanner, blanket. K9: T1 "≈1:00"/"≈10:00", L1, Cyan Sphere, a Safe Green trail highlight, Fork, V1–V3, C1.
+**20. Characters, locations, props, assets:** TESS (**NEW** wet-costume variant). K6 pond at dusk; her van on the near bank (K2); a far-bank porch light (K1 silhouette). **NEW** ice-break effects (crack star, plate tilt). An underwater cutaway reusing WS-017's plates, tinted cold. Props: parcel, scanner, blanket. K9: T1, L1, Cyan Sphere, trail highlight, Fork, V1–V3, C1.
 
 **21. Key visual technique:** Fork at 19.0 s. One **Cyan (cold) Sphere** blooms around the hole at the plunge (3.2–8.6 s, rim label "COLD WATER", no tick): the threat she senses. The decisive strength of the ice is shown by her own boot-print trail lit Safe Green, not by a dome, so no thickness is implied (C-2104). T1 shows the 1-10-1 guide in its "≈" form. The Verdict status is OUT (Safe Green underline), with the REAL RULE.
 
-**22. Typography and captions:** G1 0–2.0 s; H1 0–2.4 s; T1 at x 72, y 240 from 6.0 s (after G1). N1 in lane A throughout; at the hole (3.2–15.6 s, 24.0–35.6 s) frame her head and hands above y 1050 (W-05). The CTA uses the C1 chip at y 1320 (the same words as the spoken line); the V1 card eases up 120 px at 52.6 s so the chip never covers the factor or the sources line. D1 + S1 "TESS" (orange). L1: "TO CONTROL BREATHING", "TO GET OUT", "THE WAY SHE CAME", rim label "COLD WATER". F1 chips at y≈520. Emphasis: *gasp* (cold), *breathing* (cold), *minute* (amber), *going* (threat), *held* (safe), *Roll* (amber), *warm* (safe). No text during the plunge (2.6–3.2 s), the Fork, the drop, or the Verdict's first 0.5 s.
+**22. Typography and captions:** G1 0–2.0 s; H1 0–2.4 s; T1 at x 72, y 240 from 6.0 s. N1 in lane A throughout; at the hole (3.2–15.6 s, 24.0–35.6 s) frame her head and hands above y 1050 (W-05). The CTA uses the C1 chip at y 1320 with the spoken words; the V1 card eases up 120 px at 52.6 s, so the chip never covers the factor or sources. D1 + S1 "TESS". L1: "TO CONTROL BREATHING", "TO GET OUT", "THE WAY SHE CAME", "COLD WATER". F1 chips at y≈520. Emphasis: *gasp* (cold), *breathing* (cold), *minute* (amber), *going* (threat), *held* (safe), *Roll* (amber), *warm* (safe). No text during the plunge (2.6–3.2 s), the Fork, the drop, or the Verdict's first 0.5 s.
 
-**23. Voice, music, ambience, sound cues:** The narrator is steady and coach-like through the steps. Tess gasps, then breathes slowly and deliberately; "Leave it." is dry. Bed: a 76 BPM pulse. Ambience: winter wind, distant traffic, water slosh, underwater muffle. Cues: 0.0 s layered ice crack · 2.4 s splash and underwater whump · 3.4 s involuntary gasp · 6.2 s slow pursed-lip breaths · 19.0 s paper tear, 20.2 s tick · 26.0 s kicking churn · 33.2 s scrape of sliding on ice · 39.8 s van door and heater blast · 50.2 s motif. **Drop:** 29.6–33.0 s, with music and wind cut; only the ice creak and her controlled breaths remain.
+**23. Voice, music, ambience, sound cues:** The narrator is steady and coach-like; Tess gasps, then breathes slowly; "Leave it." is dry. Bed: a 76 BPM pulse. Ambience: wind, distant traffic, water slosh, underwater muffle. Cues: 0.0 s ice crack · 2.4 s splash and underwater whump · 3.4 s involuntary gasp · 6.2 s slow pursed-lip breaths · 19.0 s paper tear, 20.2 s tick · 26.2 s kicking churn · 33.2 s slide scrape · 39.8 s van door and heater · 50.2 s motif. **Drop:** 29.6–33.0 s, with music and wind cut; only the creak and her breaths remain.
 
-**24. Original Worldosphere contribution:** Direction as the whole lesson, made visible by her own footprints. The instinct is shown as reasonable (the porch light so close), Tess the delivery driver is on her own route, and the floating parcel gives a dry final beat without making a claim.
+**24. Original Worldosphere contribution:** Direction is the whole lesson, made visible by her own footprints. The instinct is shown as reasonable, and the floating parcel gives a dry final beat without making a claim.
 
-**25. CTA:** Spoken after the Verdict (≤1.5 s, the playbook's own P2 example for WS-021): "Tell someone before ice season." It's shown as a C1 chip with the same words, and the card eases up to make room.
+**25. CTA:** Spoken after the Verdict (≤1.5 s, the playbook's own WS-021 example): "Tell someone before ice season." It is shown as a C1 chip with the same words, and the card eases up to make room.
 
 **26. Share / replay / subscribe:** Share: protect someone before ice season, with a quotable REAL RULE. Replay: the boot-print trail is visible from frame 0, long before it matters. Subscribe: real rules you can trust, told as stories.
 
-**27. Production dependencies and reusable assets:** Ice-break effects, the wet costume, the underwater cutaway (from WS-017's plates) and **OUT** added to 09's V1 status list. Reusable: the pond kit for winter content (calendar) and the ice effects.
+**27. Production dependencies and reusable assets:** Ice-break effects, the wet costume, the underwater cutaway (WS-017 plates), and **OUT** added to 09's V1 status list. Reusable: the pond kit for winter content, and the ice effects.
 
 **28. Why this calendar position:** Seasonal (first ice). Verified facts (C-2101–2103). The pond kit is reused later in winter content.
 
-**29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median, set against WS-017 (no CTA) to read the spoken-CTA effect, with the small-sample caveat. Guardrail: zero factual-correction comments, and average percentage viewed at or above the P2 median. Reserve: **R08 Cold Water Overboard** (shares C-2101/2102). If R08 is already used by WS-017 or WS-020, use R01.
+**29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median, compared with WS-017 (which has no CTA) to read the spoken CTA's effect, a small-sample comparison. Guardrail: zero factual corrections, and average percentage viewed at or above the P2 median. Reserve: **R08 Cold Water Overboard** (shares C-2101/2102). If WS-017 or WS-020 already used R08, use R01.
 
 *Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-2104 not shown ✓ · Fork labels ≤3 words ✓ · Verdict factor 7 words + REAL RULE 12 words ✓

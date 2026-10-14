@@ -6,7 +6,7 @@
 
 **2. Exact subject and original angle:** Rip current: the instinct to swim straight back is the one that exhausts swimmers. The overhead Cyan Sphere makes the narrow channel visible, so "sideways" reads as geometry, not a slogan. Rip "warning signs" are deliberately not taught (C-1704 is unverified).
 
-**3. Recommended title + two alternatives:** "Caught in a Rip Current? Don't Swim Back to Shore." · "Why Strong Swimmers Drown in Rip Currents" · "The Rip Current Rule That Saves Lives". Note: Alt 1 implies a claim the ledger doesn't hold; don't use it unless a source is added.
+**3. Recommended title + two alternatives:** "Caught in a Rip Current? Don't Swim Back to Shore." · "What to Do If a Rip Current Pulls You Out" · "The Rip Current Rule That Saves Lives". Note: an earlier Alt 1 ("Why Strong Swimmers Drown…") was replaced because the ledger holds no source for it.
 
 **4. One-sentence viewer promise:** The three moves that get you out of a rip current, and why sideways works.
 

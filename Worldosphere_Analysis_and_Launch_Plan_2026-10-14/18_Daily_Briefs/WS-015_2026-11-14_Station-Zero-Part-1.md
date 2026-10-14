@@ -67,7 +67,7 @@
 
 **17. Central decision (Fork):** FORK: LET HIM IN vs HANGAR QUARANTINE. F1 chips "LET HIM IN" (chosen by the chief, Amber) | "HANGAR QUARANTINE" (Owen's hand on it). Reversal: Owen's counter-move, a room whose door can't be pulled from inside.
 
-**18. Final payoff and Verdict:** Payoff: Owen reads the fever and the bandage; the man turns in the medical bay, and Owen seals it in time (CONTAINED). New problem: the bay sits next to the heating plant. Final image: the porthole silhouette. Verdict card: **CONTAINED — Owen read the bandage, not the smile. (Forward line: 'The heat runs out in 30 hours.')** The card shows the status and factor only; the forward line is spoken after it.
+**18. Final payoff and Verdict:** Payoff: Owen reads the fever and the bandage; the man turns in the medical bay, and Owen seals it in time (CONTAINED). New problem: the bay sits next to the heating plant. Final image: the porthole silhouette. Verdict card: **SURVIVED — Owen read the bandage, not the smile. (Forward line: 'The heat runs out in 30 hours.')** (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.) The card shows the status and factor only; the forward line is spoken after it.
 
 **19. Target duration and word budget:** 66–70 s (cut at 68.0 s, including the 1.4 s forward line). Budget ≈165–180 words; the draft has about 150.
 
