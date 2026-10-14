@@ -1,5 +1,7 @@
 # D2 Claim Ledger: Home, Power, Fire, Outdoor and Survival Facts
 
+> **Update 2026-10-14 (later the same day):** many items marked UNVERIFIED or NOT VERIFIED below were later checked with official-domain searches. See `../../07_Survival_Logic_and_Facts/verification_results.csv` and `../../23_Limitations_and_Next_Actions.md` §2. This appendix is kept as the original research record.
+
 Access date for every row: **2026-10-14**
 
 ## Read this first: how this ledger was built and how far to trust it

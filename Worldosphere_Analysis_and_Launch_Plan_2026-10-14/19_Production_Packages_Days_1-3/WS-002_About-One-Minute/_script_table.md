@@ -1,4 +1,4 @@
-**Runtime (provisional): 59.6 s · spoken words: 118 · speaking time ≈ 43.9 s (161 wpm while speaking; 119 wpm overall) · reading model: 2.85 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
+**Runtime (provisional): 59.6 s · spoken words: 119 · speaking time ≈ 44.2 s (162 wpm while speaking; 120 wpm overall) · reading model: 2.85 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
 
 | Time | Speaker | Line |
 |---|---|---|
@@ -10,7 +10,7 @@
 | 21.62–27.18 | NARR | Water was pressing on the door. It wouldn't open until the car was nearly full. |
 | 27.58–28.81 | NARR | Door, or window? |
 | 29.53–34.27 | NARR | The way out is the window — while the car is still floating. |
-| 34.57–35.92 | NARR | Belt off. Window. |
+| 34.57–36.27 | NARR | Belt off. Window down. |
 | 37.82–41.16 | NARR | Then out — before the water reached the glass. |
 | 41.46–44.46 | — | *(no dialogue: Low wide from the water surface: Owen swims three strokes and grabs the grassy bank; behin…)* |
 | 44.46–47.06 | — | *(no dialogue: Underwater: the headlights glow and fade as the car settles nose-first into the dark; bubb…)* |

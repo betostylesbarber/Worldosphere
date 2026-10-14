@@ -1,5 +1,7 @@
 # B. YouTube platform requirements for original 2D-animated narrative Shorts (45–90 s)
 
+> **Update 2026-10-14 (later the same day):** many items marked UNVERIFIED or NOT VERIFIED below were later checked with official-domain searches. See `../../07_Survival_Logic_and_Facts/verification_results.csv` and `../../23_Limitations_and_Next_Actions.md` §2. This appendix is kept as the original research record.
+
 Access date for every row: **2026-10-14**.
 
 ## READ FIRST: how this evidence was collected (and its limits)

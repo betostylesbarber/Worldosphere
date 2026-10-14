@@ -35,7 +35,7 @@
 ## 3. Music and sound effects
 **Rules for Worldosphere:**
 1. **Prefer original audio**: the motif, pulse beds and Foley. Original audio carries no claims and stays consistent with the brand.
-2. **Shorts over 60 s:** a third-party source says that a Short over 1 minute with an active Content ID claim is blocked. This is **unverified** (B §9). Until it is checked on YouTube Help, use **no claimable third-party music** in any episode (all are 48–72 s).
+2. **Shorts over 60 s:** YouTube Help pages conflict (checked 2026-10-14). "Understand three-minute YouTube Shorts" says a Short over 1 minute with an active Content ID claim is blocked globally; a newer "Create YouTube Shorts" page says it is no longer automatically blocked. Either way, use **no claimable third-party music** in any episode (all are 48–72 s).
 3. Every non-original audio file gets an asset-register row with its source, licence, proof file and download date (QA A-07).
 4. Content ID can't read licences, so a licence doesn't prevent claims; it wins disputes. Keep the proof.
 
@@ -58,7 +58,7 @@
 | Licensed synthetic narrator | A paid plan that includes a commercial licence (e.g. the ElevenLabs Free tier has **no** commercial licence and requires attribution; paid plans include one, excluding Beta features, per F §4). **No cloning of any real person's voice.** Save the plan terms on the day of each generation |
 | Never | Imitating an identifiable creator's or celebrity's voice (08 §10). Voice-and-likeness laws vary; e.g. Tennessee's ELVIS Act is in force, and the federal NO FAKES Act was **not** law as of the research date (F §4) |
 
-**Monetization note:** whether AI narration affects YouTube monetization was **not verified** (B §6). The inauthentic-content policy targets mass-produced, repetitive videos. Worldosphere's protection is original scripts, staging and edits for every episode.
+**Monetization note (checked 2026-10-14, YouTube Help answers 1311392 and 2801973):** AI use isn't disqualifying, but mass-produced or repetitive content isn't monetizable, and a synthetic voice that could be mistaken for a real person must be disclosed. The inauthentic-content policy targets mass-produced, repetitive videos. Worldosphere's protection is original scripts, staging and edits for every episode.
 
 ## 5. Generative tools (optional helpers)
 Allowed only as described in 12 §7 (ideation, background drafts redrawn as vector). Before using any tool:

@@ -8,7 +8,7 @@
 
 ## 1. Metric definitions and denominators
 
-Platform definitions come from research appendix B §5. Most came through secondary sources, and the full Analytics glossary could not be fetched. **Confirm each definition in YouTube Studio before the first review**, and note any differences in the change log.
+Platform definitions come from research appendix B §5 and were confirmed on YouTube Help and the YouTube Blog on 2026-10-14 (23 §2 P3). **Still check each label in your own Studio before the first review**, and note any differences in the change log.
 
 | Metric | Definition used in this plan | Where to find it | Cautions |
 |---|---|---|---|
@@ -128,6 +128,7 @@ Pre-launch entries from this planning session:
 | CL-010 | 2026-10-14 | Fallback launch order re-flowed so seasonal episodes keep their dates | "Same order, 9 days later" would have mis-dated the Thanksgiving and Black Friday episodes | 17, 20 §2.4 |
 | CL-011 | 2026-10-14 | WS-003 target duration revised from 62–66 s to 58–62 s; Verdict statuses normalised to the fixed set (CONTAINED/READY/OUT/FOUND mapped to SURVIVED/SAFE/ESCAPED) | The timed package reads 58.0 s; one status vocabulary keeps the Verdict ritual consistent | calendar, WS-003/015/020/021/023/025 briefs |
 | CL-012 | 2026-10-14 | C-1205 re-worded to the evidence and re-classed QUALIFIED; C-1206 re-classed QUALIFIED; a verification-results pipeline and worksheet added | The USFA escape-planning excerpt already in appendix D2 §3c ("if the door is hot, keep it closed and use your second way out") meets the same evidence standard as other SUPPORTED rows; the "back of the hand" detail had no evidence and was removed | ledger, WS-012 brief, calendar, 07 Verification_Worksheet |
+| CL-013 | 2026-10-14 | All 15 BLOCKING claims verified (9 SUPPORTED, 6 QUALIFIED) and platform facts P1–P7 checked on official pages; WS-002 shows the power window instead of a punch tool; WS-020 drops the transformer-hum claim and says "for hours"; WS-025 title drops "Only Rescue"; WS-028 says "toward where the crowd thins" instead of "diagonally"; six REAL RULE lines finalised; upload audio bitrate 384 kbps | Official and primary sources found once the search budget reset (verification_results.csv; 23 §2). Laminated side glass defeats punch tools (AAA/NHTSA ESV); the hum, "only rescue" and "diagonal" wordings had no source | ledger, calendar, 12 briefs, WS-002 package, 12, 20, 22, 23, 00, 01 |
 
 ## 9. Templates
 - Per-video review: `13_Templates/Performance_Review_Template.md`.

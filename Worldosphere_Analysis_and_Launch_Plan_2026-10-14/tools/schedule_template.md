@@ -17,8 +17,8 @@
 | Style frames + Fork/breath motion proof | Done (prototype renders, 11) | Production-quality rebuild in the chosen tool |
 | Character rigs, kits, HUD templates in the production tool | **None** | Rigs for 4 leads + guest + Turned; kits K1–K4, K9, K10 |
 | Narrator voice | **Not chosen, not recorded** | A decision (own voice, contracted actor or licensed synthetic) + test recording |
-| Music and SFX library | **None**. Licensing for Shorts over 60 s is unverified (B §9) | Motif, 3 beds, core SFX; rights logged (22) |
-| Real-world claims | 15 rows UNVERIFIED — BLOCKING in the ledger (procedure: `07_Survival_Logic_and_Facts/Verification_Worksheet.md`) | Days 1–5 claims verified by Sat 17 Oct (§6) |
+| Music and SFX library | **None**. YouTube Help pages conflict on claimed music in Shorts over 60 s, so no claimable music (22 §3) | Motif, 3 beds, core SFX; rights logged (22) |
+| Real-world claims | **Verified 2026-10-14:** no BLOCKING rows remain (46 SUPPORTED, 20 QUALIFIED; one in-story detail) | Reopen cited pages at QA F-03 before each script lock |
 | YouTube channel | Not inspected (no access). YPP status unknown | Channel exists, branding set, nothing published |
 | Production capacity | **Unknown, never measured** | Pilot hours from Days 1–3 (§5) |
 
@@ -62,7 +62,7 @@ Lowering the QA bar is not one of the options.
 
 | Dates | Animator | Producer | Exit criterion |
 |---|---|---|---|
-| **Thu 15 – Sat 17 Oct** · Style lock + verification sprint | Model sheets for KAI, MIA, TESS, OWEN, the guest and the Turned (turnarounds, mouths, hands, brows); palette tokens in the tool | **Claim sprint:** C-101, C-205, C-207, C-505, C-506 (Days 1–5). Then the platform checks in 23 §2 (music/Content ID rule over 60 s, Audio Library terms). Voice decision + test read | Sheets approved; Days 1–5 claims verified or reserve swaps logged; voice chosen |
+| **Thu 15 – Sat 17 Oct** · Style lock + source-wording check | Model sheets for KAI, MIA, TESS, OWEN, the guest and the Turned (turnarounds, mouths, hands, brows); palette tokens in the tool | **Live-wording check (QA F-03)** of the Days 1–5 sources (claims already verified 2026-10-14). Safe-zone look in the Shorts editor (23 §2 P6). Voice decision + test read | Sheets approved; Days 1–5 source wording confirmed; voice chosen |
 | **Sun 18 – Thu 22 Oct** · Library build | Rigs (Duik/RubberHose or Moho/Blender), walk/run/shamble cycles, FX-BREATH; Fork/Sphere/Verdict/T1 templates | Kits K1–K4 and K10 backgrounds (vector) with floor plans; the audio library (motif, 3 beds, Fork/Verdict SFX); **script lock Days 1–5** (Oct 18–20, re-timing the Day 1–3 packages after the claim sprint); animatics; **VO batch 1 (Days 1–5) Wed 21 – Fri 23 Oct** | Library v1 tagged; scripts and VO for Days 1–5 approved |
 | **Fri 23 – Wed 28 Oct** · Produce Days 1–5 | Animation in this order: WS-001 (H), WS-002, WS-003 (H), WS-004, WS-005. Critical shots first | Edit, mix, caption re-timing and QA as each episode lands; claim checks for Days 6–10 (by Wed 21 Oct to T-10); scripts Days 6–7 (Oct 22–23); **K8 cabin kit** (Day 6) | **Gate (Wed 28 Oct):** Days 1–5 exported and QA-passed (including the playback section); Days 6–10 scripts locked; pilot hours logged |
 | **Thu 29 – Fri 30 Oct** | WS-006 animation | WS-007 animatic; VO batch 2 (Days 6–10); upload packages Days 1–5 ready for the owner | Bank = 5; Days 6–7 in progress |
@@ -130,7 +130,9 @@ For Scenario B, apply the same offsets to the fallback dates in §2.4.
 
 ## 6. Claim-verification deadlines
 
-Only three reserves are verified P2 substitutes (R01, R02, R08). If several P2 claims fail in the same week:
+**Status 2026-10-14:** every BLOCKING claim was checked against official or primary sources (`07_Survival_Logic_and_Facts/verification_results.csv`, CL-013). What remains is the **live-page wording check** (QA F-03): reopen each cited URL by the episode's T-10 date in §3, because the research saw search excerpts. The table below lists any claim still not fully verified.
+
+If a live page contradicts a claim, only three reserves are verified P2 substitutes (R01, R02, R08). If several P2 claims fail in the same week:
 - use P1 reserves (R03, R04, R07, R09) and accept a temporary pillar imbalance
 - note it in the change log.
 

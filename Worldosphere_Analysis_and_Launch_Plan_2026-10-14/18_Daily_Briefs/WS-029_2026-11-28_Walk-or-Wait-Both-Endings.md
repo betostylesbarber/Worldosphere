@@ -1,6 +1,6 @@
 # WS-029 — Walk or Wait (Both Endings) — Saturday 28 Nov 2026
 
-*Pre-script brief. Not produced or published. Spine: `tools/calendar_data.py`, day 29. **CONDITIONAL on C-2901 (UNVERIFIED — BLOCKING).***
+*Pre-script brief. Not produced or published. Spine: `tools/calendar_data.py`, day 29. C-2901 SUPPORTED (checked 2026-10-14).*
 
 **1. Video ID and publication date:** WS-029 · 2026-11-28 (12:00 ET)
 
@@ -17,8 +17,8 @@
 **7. Audience-interest evidence:** T056: [BK] background knowledge only, plus [LEDGER-BLOCK C-2901]. Weighted 82.0, EC 2. No [R-S] signal was retrieved. T030 (gridlock: abandon or wait) was deferred as an overlap. The Both Endings format is a channel test (after WS-007 and WS-014).
 
 **8. Factual sources / fictional assumptions:**
-- **C-2901 is UNVERIFIED — BLOCKING** (NWS; Ready.gov; not retrieved; no ledger wording). Marked lines: stay with the car, clear the tailpipe, run the engine in short bursts, make the car visible, and the walk ending's implication. Wording follows D1 §11's drafts ("stay with your car…"; "keep snow cleared from the tailpipe, and crack a window when the engine runs").
-- The "10 minutes per hour" figure is held: no number until verified.
+- **C-2901 is SUPPORTED** (`07_Survival_Logic_and_Facts/verification_results.csv`; NWS: "Run the motor about 10 minutes each hour for heat, but keep the window cracked and the exhaust pipe clear to prevent carbon monoxide poisoning"; "If you leave your vehicle, you will become disoriented quickly in wind-driven snow and cold"). Marked lines: stay with the car, clear the tailpipe, run the engine in short bursts, make the car visible, and the walk ending's implication. Wording follows D1 §11's drafts ("stay with your car…"; "keep snow cleared from the tailpipe, and crack a window when the engine runs").
+- The "10 minutes per hour" figure is verified (NWS) but kept off screen; "short bursts" is enough.
 - **C-503 SUPPORTED:** "You can't see it. You can't smell it."
 - No hypothermia or frostbite signs are drawn; frostbite appears only as Kai's wrapped hands.
 - Mia is never harmed.
@@ -27,8 +27,8 @@
 
 **9. Three hook options:**
 - A. **HP07 Fork first.** Frame 0 already split. Spoken: "Snowed in, three miles from town. Walk, or wait? We played both." F1: "WALK" | "WAIT".
-- B. **HP04 Wrong instinct.** Spoken: "Town is three miles away. Every instinct says: start walking." [PENDING VERIFICATION C-2901] H1: "START / WALKING?"
-- C. **HP05 Invisible threat.** A violet Sphere rises from a buried tailpipe into a warm car. Spoken: "The warmest car on the road can be the most dangerous." [PENDING VERIFICATION C-2901] (CO facts: C-503, supported) H1: "THE WARM / CAR".
+- B. **HP04 Wrong instinct.** Spoken: "Town is three miles away. Every instinct says: start walking." [supported C-2901, checked 2026-10-14] H1: "START / WALKING?"
+- C. **HP05 Invisible threat.** A violet Sphere rises from a buried tailpipe into a warm car. Spoken: "The warmest car on the road can be the most dangerous." [supported C-2901, checked 2026-10-14] (CO facts: C-503, supported) H1: "THE WARM / CAR".
 
 **10. Selected hook and why it wins:** A. Calendar: "Frame 0: a half-buried car on a rural road at night, with the Fork already split: WALK vs WAIT". The split lets viewers pick a side before any context, which is the Both Endings test. Both options are real choices people make, and the line makes no claim. C would spend Ending B's twist.
 
@@ -48,24 +48,24 @@
 |---|---|---|---|---|
 | 0.0–4.0 | Fork + setup | Frame 0 | N: "Snowed in, three miles from town. Walk, or wait? We played both." | Hook |
 | 4.0–9.0 | A: Walk | Left panel full; coat and gloves to Mia | N: "Walk. Kai gives Mia his coat and gloves. Three miles: an hour, maybe two." | Ending A |
-| 9.0–14.5 | A: Whiteout | Fog planes fill; poles vanish | N: "Then the snow closes in, and the edge of the road disappears." [PENDING VERIFICATION C-2901] | Escalation |
+| 9.0–14.5 | A: Whiteout | Fog planes fill; poles vanish | N: "Then the snow closes in, and the edge of the road disappears." [supported C-2901, checked 2026-10-14] | Escalation |
 | 14.5–19.0 | A: Mini-turn | Kai looks back: white, no hazard lights | N: "Kai looks back. The car is gone too." | Mini-turn |
 | 19.0–25.5 | A: Night | Fence; sky greys (T1 "6:40 AM") | N: "They wait out the night against a fence, Mia inside Kai's coat." | Consequence |
-| 25.5–31.0 | A: Found | Plough cab: Kai's hands in a blanket; Mia unharmed; LOST chip | N: "At dawn, a plough found them. Mia was fine. Kai's hands were frostbitten." [PENDING VERIFICATION C-2901] | Status A |
+| 25.5–31.0 | A: Found | Plough cab: Kai's hands in a blanket; Mia unharmed; LOST chip | N: "At dawn, a plough found them. Mia was fine. Kai's hands were frostbitten." [supported C-2901, checked 2026-10-14] | Status A |
 | 31.0–31.6 | **REWIND** | Fork slides back; tape whoosh | — | R-C transition |
 | 31.6–33.6 | B: Wait | Right panel full; Kai's hand leaves the door handle | KAI: "We stay with the car." | Ending B |
-| 33.6–38.0 | B: Visible | Scarf tied to the antenna, flapping in the hazard light | N: "He ties Mia's scarf to the antenna, so the car can be seen." [PENDING VERIFICATION C-2901] | Step |
-| 38.0–43.0 | B: Heat | Heater glow, window cracked; T1 rolls; L1 "ENGINE: SHORT BURSTS"; snow at the bumper (plant) | N: "He runs the engine in short bursts for heat, with a window cracked." [PENDING VERIFICATION C-2901] | Step |
-| 43.0–49.0 | B: Mini-turn | T1 "2:10 AM"; violet Sphere rises into the cabin | N: "At 2 a.m., snow covers the tailpipe. Carbon monoxide. You can't see it. You can't smell it." [PENDING VERIFICATION C-2901] (last two sentences: C-503, supported) | Hidden trap |
-| 49.0–53.5 | B: Fix | Engine off; scraper digs the pipe clear; Sphere disperses | N: "Engine off. He digs the tailpipe clear before he runs it again." [PENDING VERIFICATION C-2901] | Correct action |
+| 33.6–38.0 | B: Visible | Scarf tied to the antenna, flapping in the hazard light | N: "He ties Mia's scarf to the antenna, so the car can be seen." [supported C-2901, checked 2026-10-14] | Step |
+| 38.0–43.0 | B: Heat | Heater glow, window cracked; T1 rolls; L1 "ENGINE: SHORT BURSTS"; snow at the bumper (plant) | N: "He runs the engine in short bursts for heat, with a window cracked." [supported C-2901, checked 2026-10-14] | Step |
+| 43.0–49.0 | B: Mini-turn | T1 "2:10 AM"; violet Sphere rises into the cabin | N: "At 2 a.m., snow covers the tailpipe. Carbon monoxide. You can't see it. You can't smell it." [supported C-2901, checked 2026-10-14] (last two sentences: C-503, supported) | Hidden trap |
+| 49.0–53.5 | B: Fix | Engine off; scraper digs the pipe clear; Sphere disperses | N: "Engine off. He digs the tailpipe clear before he runs it again." [supported C-2901, checked 2026-10-14] | Correct action |
 | 53.5–56.5 | **DROP** | Inside: blanket, two faces, the scarf flicking outside | — | Stillness |
 | 56.5–61.0 | B: Found | Plough lights; scarf spotted; SURVIVED chip | N: "At 6 a.m., the plough driver saw the scarf first." | Status B |
 | 61.0–64.0 | Comparison | Side by side: wrapped hands vs scarf in plough light | N: "Same storm. Same car. One choice." | Compare |
-| 64.0–68.0 | Verdict | Two-status V1 + V2 + V3 [PENDING VERIFICATION C-2901]; motif | N: "Stay with the car." | Rule |
+| 64.0–68.0 | Verdict | Two-status V1 + V2 + V3 [supported C-2901, checked 2026-10-14]; motif | N: "Stay with the car." | Rule |
 
 **17. Central decision (the Fork):** WALK vs WAIT (calendar: "the Fork already split: WALK vs WAIT"). F1: "WALK" | "WAIT". The Fork is used twice, as R-C allows: on frame 0 and at the rewind.
 
-**18. Actual final payoff and Verdict card text:** Walk: whiteout, they lose the road and are found at dawn with frostbite (LOST). Wait: exhaust pipe cleared, engine run in short bursts, car made visible, plough finds them (SURVIVED), per verified guidance. (Frostbite: Kai only.) Verdict: **WALK: LOST · WAIT: SURVIVED — Stay with the car. (REAL RULE pending verification)**. LOST underlined in red, SURVIVED in green. V3 draft: "Stranded in snow: stay with your car. Keep the tailpipe clear." [PENDING VERIFICATION C-2901] (11 words).
+**18. Actual final payoff and Verdict card text:** Walk: whiteout, they lose the road and are found at dawn with frostbite (LOST). Wait: exhaust pipe cleared, engine run in short bursts, car made visible, plough finds them (SURVIVED), per verified guidance. (Frostbite: Kai only.) Verdict: **WALK: LOST · WAIT: SURVIVED — Stay with the car. REAL RULE: Stranded in snow? Stay with the car. Keep the tailpipe clear.**. LOST underlined in red, SURVIVED in green. V3 draft: "Stranded in snow: stay with your car. Keep the tailpipe clear." [supported C-2901, checked 2026-10-14] (11 words).
 
 **19. Target duration and provisional word budget:** 66–70 s (target 68 s). Budget 165–180 words. The draft is about 150 words.
 

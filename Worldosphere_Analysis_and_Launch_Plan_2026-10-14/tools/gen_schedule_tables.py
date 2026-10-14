@@ -15,7 +15,7 @@ for c in C:
     d = P(c["date"]); t = lambda n: f(d - dt.timedelta(days=n))
     if c["day"] in pre:
         last = "**Wed 28 Oct (gate)**" if c["day"] <= 5 else t(3)
-        claims = "Sat 17 Oct (sprint)" if c["day"] <= 5 else "Wed 21 Oct"
+        claims = "Verified 14 Oct; wording check Sat 17 Oct" if c["day"] <= 5 else "Verified 14 Oct; wording check Wed 21 Oct"
         out.append(f"| {c['day']} | {f(d)} | {c['id']} | {c['complexity'].split()[0]} | pre-launch (§2.2) | {claims} | {pre[c['day']]} | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | {last} |")
     else:
         out.append(f"| {c['day']} | {f(d)} | {c['id']} | {c['complexity'].split()[0]} | {t(14)} | {t(10)} | {t(8)} | {t(7)} | {t(6)} | {t(4)} | {t(3)} | {t(3)} |")

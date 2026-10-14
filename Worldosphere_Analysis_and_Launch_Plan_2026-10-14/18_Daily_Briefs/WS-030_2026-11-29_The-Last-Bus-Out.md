@@ -18,7 +18,7 @@
 
 **8. Factual sources / fictional assumptions:** Fiction scenario (WR-12).
 - **WR-02 / C-102:** no breath fog is the tell.
-- **C-101 is UNVERIFIED (low risk):** "On a cold night, you can see living people breathe." The dependent lines and visuals are marked. WS-001's verification should close it; confirm before lock.
+- **C-101 is SUPPORTED** (`07_Survival_Logic_and_Facts/verification_results.csv`; NWS: "As you exhale, the warm, moist air is cooled to the point where the water vapor CONDENSES into a cloud."): "On a cold night, you can see living people breathe."
 - **WR-08:** dense city first, phones jammed (hence the crank radio), power still on (the cabin lights).
 - **WR-03 / WR-07:** noise draws the Turned, who follow each other.
 - **WR-04 / C-103:** they can't work the folding doors.
@@ -30,8 +30,8 @@ The midnight gate is a story fact. No cold-slowing (WR-06) is relied on.
 
 **9. Three hook options:**
 - A. **HP02 Mid-event + story clock.** Spoken: "The pass closes at midnight. One last bus." H1: "LAST BUS / OUT"; T1 from 2.5 s.
-- B. **HP08 Rule twist.** Spoken: "They don't breathe. On a night this cold, that's how Mia knew." [PENDING VERIFICATION C-101] H1: "WATCH THEIR / BREATH".
-- C. **HP14 Spectacle misdirection.** Spoken: "Everyone was watching the departure board. Mia was watching their breath." [PENDING VERIFICATION C-101] H1: "WATCH THE / QUEUE".
+- B. **HP08 Rule twist.** Spoken: "They don't breathe. On a night this cold, that's how Mia knew." [supported C-101, checked 2026-10-14] H1: "WATCH THEIR / BREATH".
+- C. **HP14 Spectacle misdirection.** Spoken: "Everyone was watching the departure board. Mia was watching their breath." [supported C-101, checked 2026-10-14] H1: "WATCH THE / QUEUE".
 
 **10. Selected hook and why it wins:** A. Calendar: "Frame 0: a snowy bus depot at night; a bus sign 'MOUNTAIN PASS — LAST DEPARTURE'; four figures converging from different directions". Cold viewers need no prior episodes, while regulars recognise all four silhouettes, and the clock sets the stakes. B and C spend the breath reveal in the first second.
 
@@ -52,8 +52,8 @@ The midnight gate is a story fact. No cold-slowing (WR-06) is relied on.
 | 0.0–3.0 | Cold open | Frame 0 | N: "The pass closes at midnight. One last bus." | Hook |
 | 3.0–7.0 | Situation | Radio; scanner; grounded-flight tags | N: "Day 1. The city is falling. Four strangers need this bus." | Who's who |
 | 7.0–10.0 | Clock | Owen taps the posted timetable; L1 "GATE CLOSES 12:00" | OWEN: "Gate drops at midnight. Not a minute after." | Day 9 nod |
-| 10.0–14.0 | Plant | Puffs along the queue; one man, no puff, bandaged cuff | N: "In the cold, everyone's breath hangs in the air. Almost everyone's." [PENDING VERIFICATION C-101] | Plant |
-| 14.0–19.0 | Mia | Mia tugs Kai's sleeve | MIA: "That man isn't breathing." N: "On a cold night, you can see living people breathe." [PENDING VERIFICATION C-101] | Mia's skill |
+| 10.0–14.0 | Plant | Puffs along the queue; one man, no puff, bandaged cuff | N: "In the cold, everyone's breath hangs in the air. Almost everyone's." [supported C-101, checked 2026-10-14] | Plant |
+| 14.0–19.0 | Mia | Mia tugs Kai's sleeve | MIA: "That man isn't breathing." N: "On a cold night, you can see living people breathe." [supported C-101, checked 2026-10-14] | Mia's skill |
 | 19.0–21.0 | Kai | Push-in on the man; Kai pulls the group back | KAI: "Back. Everyone back." | Kai's skill |
 | 21.0–24.0 | Complication | Lurch at the driver; he escapes into the depot | N: "It lunges at the driver. The driver runs." | Escalation |
 | 24.0–28.0 | Mechanism | Amber Sphere into the streets; figures turn; T1 "11:21 PM" | N: "The noise carries. In the dark, they start turning this way." | WR-03, 07 |
@@ -65,7 +65,7 @@ The midnight gate is a story fact. No cold-slowing (WR-06) is relied on.
 | 49.5–53.0 | Countdown | Gate warning lights ahead; T1 "11:57 PM" | N: "11:57. The gate lights are already flashing." | Stakes |
 | 53.0–57.0 | Payoff | Bus passes under; the arm drops behind; T1 "11:58 PM" | N: "They crossed at 11:58. The arm dropped behind them." | Payoff |
 | 57.0–60.0 | **DROP** | Inside the bus: Mia asleep on Kai; Owen and Tess exchange a nod | — | Stillness |
-| 60.0–64.5 | Arrival | Cabin lights on; four step out, breath rising [PENDING VERIFICATION C-101] | N: "Thirty days. Four strangers. One long winter coming." | Closure |
+| 60.0–64.5 | Arrival | Cabin lights on; four step out, breath rising [supported C-101, checked 2026-10-14] | N: "Thirty days. Four strangers. One long winter coming." | Closure |
 | 64.5–65.5 | Final image | Four breath clouds under the porch light (rhymes with the depot queue) | — | Hold |
 | 65.5–68.5 | Verdict | V1/V2 + motif | N: "Four strangers, one plan." | Verdict |
 | 68.5–70.0 | Forward line | Card holds; C1 chip | N: "December: The Long Winter." | Bridge |

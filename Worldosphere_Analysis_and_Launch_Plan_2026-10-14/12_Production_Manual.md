@@ -62,7 +62,7 @@
 | Frame rate | **24 fps** project and export. Characters on twos; camera, Sphere and HUD on ones | Hand-made cadence; YouTube asks for upload at the native frame rate (B §2) |
 | Duration | 48–72 s per the calendar (all ≤ 3:00) | Story needs (recipes); not a ranking rule |
 | Master export (archive) | ProRes 422 HQ or DNxHR HQ .mov, plus a 48 kHz/24-bit WAV mix | Re-encode later without generation loss |
-| **Upload export** | MP4; **H.264 High Profile**, yuv420p, closed GOP, 2 B-frames, VBR **12–16 Mbps** (above the 8 Mbps reference for 1080p at 24–30 fps); **AAC-LC 48 kHz stereo, 320 kbps**; `faststart` | Matches YouTube's recommended upload encoding as seen in search excerpts (B §2; audio bitrate unverified) |
+| **Upload export** | MP4; **H.264 High Profile**, yuv420p, closed GOP, 2 B-frames, VBR **12–16 Mbps** (above the 8 Mbps reference for 1080p at 24–30 fps); **AAC-LC 48 kHz stereo, 384 kbps**; `faststart` | Matches YouTube's recommended upload encoding (answer 1722171: stereo 384 kbps, BT.709 for SDR; checked 2026-10-14) |
 | Loudness | **−14 LUFS integrated ±1, true peak ≤ −1.0 dBTP**, measured on the final mix | Common convention; **no official YouTube target was found** (B §3). The reference measured −14.1 LUFS / −1.0 dBTP |
 | Captions | Burned-in (brand ASS styles) **plus** an SRT uploaded as a subtitle track | Readability muted plus accessibility |
 | Colour | Rec.709, sRGB-matched UI, no HDR | Flat-colour animation; avoids conversion surprises |
@@ -74,7 +74,7 @@
 ffmpeg -i WS-0NN_master_v03.mov -vf "ass=WS-0NN_captions_v03.ass" \
   -c:v libx264 -profile:v high -pix_fmt yuv420p -r 24 -g 48 -bf 2 \
   -b:v 14M -maxrate 16M -bufsize 28M \
-  -c:a aac -b:a 320k -ar 48000 -movflags +faststart WS-0NN_upload_v03.mp4
+  -c:a aac -b:a 384k -ar 48000 -movflags +faststart WS-0NN_upload_v03.mp4
 
 # Loudness and true-peak check (read the Summary block)
 ffmpeg -hide_banner -i WS-0NN_upload_v03.mp4 -af ebur128=peak=true -f null - 2>&1 | tail -12
@@ -466,7 +466,7 @@ The reference creator's tools and methods are **UNKNOWN**. The "reference observ
 | **Captions** | Burned-in captions | Burned-in **plus** an SRT subtitle track | Design choice |
 | **Standalone satisfaction** | Reference ends on cliffhangers + "follow" CTAs (F08) | **Resolution first** (the Verdict); an optional forward line after it. No "follow to find out" | 08 §8.3 |
 | **Subscriber / returning reasons** | Serial story | A recurring benefit: a new decidable scenario daily, a fair rule, a Verdict; a recognisable cast | 14 Part 3 |
-| **Audio licensing** | The reference's music is unidentified; Instagram licences do **not** carry over | Use only original or YouTube-cleared audio. **Unverified risk:** Shorts over 1 minute with a Content ID claim may be blocked; until verified, use no claimable music in episodes over 60 s | B §9 (unverified); 22 §3 |
+| **Audio licensing** | The reference's music is unidentified; Instagram licences do **not** carry over | Use only original or YouTube-cleared audio. YouTube Help pages conflict on whether Shorts over 1 minute with a Content ID claim are blocked (23 §2 P1), so use no claimable music in any episode | YouTube Help, checked 2026-10-14; 22 §3 |
 | **Clean original exports** | Downloaded references were 720×1280 re-encodes | Upload from our own 1080×1920 master; never upload a re-download or a watermarked file | §2 |
 | **Length** | 61 s and 87 s references | Shorts allow up to 3 minutes (uploads on or after 15 Oct 2024); the plan uses 48–72 s for story reasons | B §1 |
 | **Made for kids** | — | Set **Not made for kids** (violence and horror themes; the creator is legally responsible). Mia (8) is a sibling character in a teen/adult story; avoid child-directed elements (nursery songs, kid branding) | B §8 |
@@ -475,12 +475,7 @@ The reference creator's tools and methods are **UNKNOWN**. The "reference observ
 | **Metrics** | Instagram metrics don't predict YouTube results | From 24 Aug 2026, public views count from the first frame; engaged views keep the old definition. Compare like with like (21 §2) | B §5 |
 | **Monetization policy** | — | Inauthentic (mass-produced/repetitive) content is not monetizable; keep episodes meaningfully different | B §6 |
 
-**Requirements still to verify on official pages before launch** (appendix B could not fetch them; see 23):
-- the music and Content ID rule for Shorts over 60 s
-- the Audio Library terms for Shorts
-- the analytics metric definitions
-- Shorts features: related video link, playlists, scheduling, remix settings
-- the AI-voice monetization stance.
+**Platform requirements checked on official pages (2026-10-14):** the Content ID rule (the pages conflict, so the conservative rule stays), the Audio Library terms, the analytics definitions, related video and scheduling, the AI-voice stance and the encoding settings. Results and effects are in 23 §2. Still worth a local look: the safe zones in the Shorts editor on your phone (P6).
 
 ---
 

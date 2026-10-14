@@ -19,7 +19,7 @@
 **8. Factual sources / fictional assumptions:**
 - **WR-01:** fever within about 10 min of the bite; the turn comes 30–90 min after. Story clock: landing 18:30, bay 18:40, turn 19:20. He was bitten "at the fuel stop, right before takeoff", which stays under 90 min; the flight's length is never stated.
 - **WR-02** (the chest goes still) · **WR-04** (the door opens into the bay, so from inside it must be pulled; they push, can't pull and can't work a lock) · WR-09 · **WR-11** (SAGA) · WR-12.
-- **C-1501** UNVERIFIED (BLOCKING if a number is shown). Part 1 shows **no temperature figure**, so nothing is pending.
+- **C-1501** SUPPORTED (checked 2026-10-14). Part 1 still shows no temperature figure.
 - In-story only: "No flights for six months" is a radio line about this fictional station. Outdoor breath fog (C-101, low risk) is visual only. No real station, agency, flag or aircraft livery appears.
 
 **9. Three hook options:**

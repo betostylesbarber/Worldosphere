@@ -21,7 +21,7 @@
 - **C-1002** SUPPORTED: "One gallon per person, per day." The counter "≥6 GAL" is derived (2 people × 3 days; "≥" carries the qualifier).
 - **C-1001** SUPPORTED: fridge about 4 h, half-full freezer about a day, full about two days, doors shut (qualifiers spoken).
 - **C-502** SUPPORTED: "At least twenty feet from the house." C-501 appears only as a visual wisp.
-- **C-1003** UNVERIFIED — BLOCKING: **cut** (no phones, towers or pumps).
+- **C-1003** QUALIFIED (checked 2026-10-14: Ready.gov, gas pumps need electricity; FCC 2003 review, cell-site batteries ran hours, not days). Optional; no hour figures. The current draft still leaves phones, towers and pumps out.
 - **Derived:** "eat the fridge food first" (from C-1001) and "before the pipes run dry" (C-011 source row); the fact-checker confirms both. Lanterns, not candles; no cord guidance. Hypothetical stated on screen.
 
 **9. Three hook options:**

@@ -1,12 +1,12 @@
 # WS-025 — Fifteen Minutes — Tuesday 24 Nov 2026
 
-*Pre-script brief. Not produced or published. Spine: `tools/calendar_data.py`, day 25. **CONDITIONAL on C-2501 (UNVERIFIED — BLOCKING).***
+*Pre-script brief. Not produced or published. Spine: `tools/calendar_data.py`, day 25. C-2501 QUALIFIED (checked 2026-10-14).*
 
 **1. Video ID and publication date:** WS-025 · 2026-11-24 (12:00 ET)
 
 **2. Exact subject and original angle:** An avalanche buries Tess's friend Jun in a backcountry bowl, and Tess is the only person there. The angle: the rescue team is whoever is standing on the slope. A count-up clock makes every action visibly cost time.
 
-**3. Recommended title + two alternatives:** "Avalanche: Why Your Friends Are Your Only Rescue" (48 characters) · "Buried in an Avalanche: The 15-Minute Window" · "Beacon, Probe, Shovel: The Avalanche Rescue Race". "Only Rescue" and "15-Minute" are [PENDING VERIFICATION C-2501]. Don't use Alt 1 until "15" is verified; D1 §13 asks whether the Canadian and Swiss curves differ.
+**3. Recommended title + two alternatives:** "Avalanche: Why Your Friends Are the Rescue Team" (47 characters; "Only Rescue" was dropped as an overclaim) · "Buried in an Avalanche: The 15-Minute Window" · "Beacon, Probe, Shovel: The Avalanche Rescue Race". "Only Rescue" and "15-Minute" are [qualified C-2501, checked 2026-10-14]. Don't use Alt 1 until "15" is verified; D1 §13 asks whether the Canadian and Swiss curves differ.
 
 **4. One-sentence viewer promise:** Watch an avalanche rescue against a running clock, and see why the person on the slope matters more than help far below.
 
@@ -17,19 +17,19 @@
 **7. Audience-interest evidence:** T057: [BK] background knowledge only, plus [LEDGER-BLOCK C-2501]. Weighted 77.1, EC 2. "Ski-season start" is calendar judgment. No [R-S] signal was retrieved.
 
 **8. Factual sources / fictional assumptions:**
-- **C-2501 is UNVERIFIED — BLOCKING** (Brugger/Haegeli survival curve; avalanche.org; not retrieved; no ledger script wording). Every real-world line is marked and uses only D1 §13's pending drafts:
+- **C-2501 is QUALIFIED** (`07_Survival_Logic_and_Facts/verification_results.csv`): survival is above 90% in the first 15–20 minutes of burial, then falls steeply (Swiss data; curves vary by region, Canadian data favour extrication within about 10 minutes); companion rescue makes survival up to four times likelier than organized rescue. Say "survival drops fast after the first few minutes"; no exact cliff on screen. The lines below are confirmed:
   - "For a buried victim, survival drops quickly after the first few minutes. Speed is everything."
   - "…Your partners are the rescue team."
-- Also pending: the send/search beacon modes, the probe-then-dig order, and calling for help *after* the search.
-- No "15/18 minutes" is spoken or shown until verified.
+- Procedure detail (send/search beacon modes, probe then dig, and calling for help once the search is under way) follows companion-rescue guidance (avalanche.org Companion Rescue page, checked 2026-10-14); confirm the exact wording on that page at QA F-03.
+- No "15/18 minutes" is spoken or shown (curves vary by region; C-2501 qualification).
 - **07 §4:** no medical instruction. Tess uncovering Jun's face is shown, not narrated as a step.
 - **Story facts:** two skiers, both wearing beacons; story times 00:20 → 11:40 (check them against the verified curve). Original gear UI, no brands. Jun has no breath-fog cue, which avoids C-101.
 - **Script lock:** verify or swap (field 29).
 
 **9. Three hook options:**
 - A. **HP02 Mid-event + clock.** Spoken: "Jun is under the snow. The clock starts now." H1: "WHERE IS / JUN?"; T1 counting up from 00:00.
-- B. **HP04 Wrong instinct.** Spoken: "Most people would ski down for help. Jun can't wait that long." [PENDING VERIFICATION C-2501] H1: "SKI FOR / HELP?"
-- C. **HP03 "Everyone says…"** Spoken: "Everyone says: get the ski patrol. Out here, the patrol is you." [PENDING VERIFICATION C-2501] H1: "YOU ARE / THE PATROL".
+- B. **HP04 Wrong instinct.** Spoken: "Most people would ski down for help. Jun can't wait that long." [qualified C-2501, checked 2026-10-14] H1: "SKI FOR / HELP?"
+- C. **HP03 "Everyone says…"** Spoken: "Everyone says: get the ski patrol. Out here, the patrol is you." [qualified C-2501, checked 2026-10-14] H1: "YOU ARE / THE PATROL".
 
 **10. Selected hook and why it wins:** A. Calendar: "Frame 0: slope fractures, Tess's friend Jun swept away; a T1 clock starts counting UP from 00:00". It is the format test (count-up against Day 2's countdown). "Where is Jun?" is a micro-question the video answers. The line makes **no factual claim**.
 
@@ -41,7 +41,7 @@
 
 **14. First three seconds:** 0–0.5 s: H1 + T1; crack; first word at 0.2 s · 0.5–1 s: the slab moves; Jun's arms go up · 1–2 s: the snow swallows him; Tess's eyes follow · 2–3 s: the debris settles into silence; T1 00:03.
 
-**15. Beginning, middle and ending:** The slope breaks and Jun is buried. The clock counts up. Tess's instinct is to ski down to the patrol hut far below. But a buried person can't wait [PENDING VERIFICATION C-2501]. **Fork: SKI DOWN FOR HELP vs SEARCH NOW.** She switches her beacon to search, follows the signal across the debris, probes until she strikes, leaves the probe in and digs [PENDING VERIFICATION C-2501]. **Ending:** at 11:40 she uncovers Jun's face. He coughs and blinks, and she calls for help. FOUND.
+**15. Beginning, middle and ending:** The slope breaks and Jun is buried. The clock counts up. Tess's instinct is to ski down to the patrol hut far below. But a buried person can't wait [qualified C-2501, checked 2026-10-14]. **Fork: SKI DOWN FOR HELP vs SEARCH NOW.** She switches her beacon to search, follows the signal across the debris, probes until she strikes, leaves the probe in and digs [qualified C-2501, checked 2026-10-14]. **Ending:** at 11:40 she uncovers Jun's face. He coughs and blinks, and she calls for help. FOUND.
 
 **16. Timed beat outline** (58.0 s · about 30 shots · T1 always on · Fork at 36–39%)
 
@@ -50,21 +50,21 @@
 | 0.0–3.2 | Cold open | Frame 0 | N: "Jun is under the snow. The clock starts now." | Hook |
 | 3.2–7.5 | Situation | Debris field; tracks enter the slide, none leave; T1 00:08 | N: "Tess and Jun were skiing a backcountry bowl, far from the lifts." | Place |
 | 7.5–12.0 | Instinct | Tess turns downhill; tiny hut below; L1 "PATROL HUT" | N: "Every instinct says: ski down and get help." | Reasonable instinct |
-| 12.0–19.0 | Mechanism | Tess looks back at the debris; T1 00:20 | N: "But Jun is buried. For a buried person, survival drops quickly after the first few minutes." [PENDING VERIFICATION C-2501] | Why |
+| 12.0–19.0 | Mechanism | Tess looks back at the debris; T1 00:20 | N: "But Jun is buried. For a buried person, survival drops quickly after the first few minutes." [qualified C-2501, checked 2026-10-14] | Why |
 | 19.0–21.0 | Resolve | Tess grips her beacon | TESS: "Not leaving you, Jun." | Character |
 | 21.0–22.4 | **FORK** | Left SKI FOR HELP: Tess shrinking downhill, T1 spinning, an empty silent slope. Right SEARCH NOW: thumb on the beacon dial | — | Choose |
-| 22.4–27.0 | Step 1 | Beacon UI SEND → SEARCH; arrow + number | N: "Tess switches her beacon from send to search." [PENDING VERIFICATION C-2501] | Action |
-| 27.0–32.5 | Follow | Side-stepping down; the number falls; amber pulse rings; T1 rolls 01:30 → 03:10 | N: "She follows the signal across the debris. Every step costs seconds." [PENDING VERIFICATION C-2501] | Time cost |
-| 32.5–38.0 | Step 2 | Probe assembled; probing; strike at T1 07:50 | N: "The numbers drop. She probes. Again. Again. There." [PENDING VERIFICATION C-2501] | Micro-payoff |
-| 38.0–45.0 | Step 3 | Probe left standing; digging; T1 rolls 08:00 → 11:20 | N: "She leaves the probe in and digs." [PENDING VERIFICATION C-2501] TESS: "Come on, Jun. Come on." | Action |
+| 22.4–27.0 | Step 1 | Beacon UI SEND → SEARCH; arrow + number | N: "Tess switches her beacon from send to search." [qualified C-2501, checked 2026-10-14] | Action |
+| 27.0–32.5 | Follow | Side-stepping down; the number falls; amber pulse rings; T1 rolls 01:30 → 03:10 | N: "She follows the signal across the debris. Every step costs seconds." [qualified C-2501, checked 2026-10-14] | Time cost |
+| 32.5–38.0 | Step 2 | Probe assembled; probing; strike at T1 07:50 | N: "The numbers drop. She probes. Again. Again. There." [qualified C-2501, checked 2026-10-14] | Micro-payoff |
+| 38.0–45.0 | Step 3 | Probe left standing; digging; T1 rolls 08:00 → 11:20 | N: "She leaves the probe in and digs." [qualified C-2501, checked 2026-10-14] TESS: "Come on, Jun. Come on." | Action |
 | 45.0–48.5 | **DROP** | Shovel stops; a goggle strap appears; T1 freezes 11:40 | — | Stillness |
-| 48.5–54.0 | Payoff | Jun's face; cough, blink; Tess presses SOS on her radio | N: "Eleven minutes, forty seconds. Jun is breathing. Then she calls for help." [PENDING VERIFICATION C-2501] (call order) | Decisive image |
-| 54.0–56.5 | Verdict | V1 + V2 + V3 [PENDING VERIFICATION C-2501]; motif | N: "She searched instead of going for help." | Rule |
+| 48.5–54.0 | Payoff | Jun's face; cough, blink; Tess presses SOS on her radio | N: "Eleven minutes, forty seconds. Jun is breathing. Then she calls for help." [qualified C-2501, checked 2026-10-14] (call order) | Decisive image |
+| 54.0–56.5 | Verdict | V1 + V2 + V3 [qualified C-2501, checked 2026-10-14]; motif | N: "She searched instead of going for help." | Rule |
 | 56.5–58.0 | CTA | Card holds | N: "Tell your ski partner." | Share |
 
 **17. Central decision (the Fork):** FORK: SKI DOWN FOR HELP vs SEARCH NOW. F1: "SKI FOR HELP" | "SEARCH NOW". Chosen: right. The left preview shows only time passing over an empty slope, with no body; what it implies depends on C-2501.
 
-**18. Actual final payoff and Verdict card text:** Tess searches immediately (beacon, probe, shovel) instead of going for help, and finds Jun in time (pending verified guidance). Final image: Jun's face uncovered, the probe still standing, T1 frozen at 11:40. Verdict: **SURVIVED — She searched instead of going for help. (REAL RULE pending verification)**. SURVIVED in Safe Green (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.); factor 7 words. V3 draft: "Avalanche: your partners are the rescue team. Speed is everything." [PENDING VERIFICATION C-2501] (10 words, from D1 §13 drafts) + "Sources in description".
+**18. Actual final payoff and Verdict card text:** Tess searches immediately (beacon, probe, shovel) instead of going for help, and finds Jun in time (per verified guidance). Final image: Jun's face uncovered, the probe still standing, T1 frozen at 11:40. Verdict: **SURVIVED — She searched instead of going for help. REAL RULE: Avalanche: your partners are the rescue team. Speed is everything.**. SURVIVED in Safe Green (Status normalised to the fixed Verdict set in 08 §8.3: SURVIVED · ESCAPED · SAFE · TRAPPED · LOST · UNKNOWN.); factor 7 words. V3 draft: "Avalanche: your partners are the rescue team. Speed is everything." [qualified C-2501, checked 2026-10-14] (10 words, from D1 §13 drafts) + "Sources in description".
 
 **19. Target duration and provisional word budget:** 56–60 s (target 58 s). Budget 140–155 words. The draft is about 120 words; the clock and the effort sounds carry the rest.
 

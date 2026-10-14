@@ -8,7 +8,7 @@
 
 **3. Recommended title + two alternatives:** "If You See a Flash in the Sky, Don't Go to the Window" · "What Chelyabinsk Taught Us About Meteors and Windows" · "The Meteor Was Harmless. The Window Wasn't."
 
-**4. One-sentence viewer promise:** Why, if the sky ever flashes, the safer move is away from the windows (pending verification).
+**4. One-sentence viewer promise:** Why, if the sky ever flashes, the safer move is away from the windows.
 
 **5. Intended audience motivation:** Curiosity ("I didn't know that") and protecting others.
 
@@ -17,9 +17,9 @@
 **7. Audience-interest evidence:** T087 has "[BK]; [LEDGER-BLOCK C-1801/1802]". The calendar adds "Leonid meteor-shower week brings meteor curiosity [BK]". That's background knowledge only; there's no retrieved signal.
 
 **8. Factual sources / fictional assumptions:**
-**BLOCKING: C-1801 and C-1802 are both UNVERIFIED (BLOCKING).** No script lock until each is verified with a URL, an exact quote and an access date (NASA/ESA for C-1801; IMO/AMS/NASA for C-1802); otherwise the slot swaps to R01. Every dependent line will then be matched to the source wording.
-- **C-1802** (shower meteors are harmless; the 2026 Leonid peak): "Meteor showers are harmless dust." **[PENDING VERIFICATION C-1802]**, plus the L1 "HARMLESS DUST". The Leonids are **not named on screen**; the peak date goes in the description only after verification. The shower and the flash look nothing alike (night streaks vs a daytime fireball), and "This is something rarer." **[PENDING VERIFICATION C-1801/C-1802]** separates them.
-- **C-1801** (Chelyabinsk, 15 Feb 2013; shock wave after the flash; most injuries from glass): "Tess remembered Chelyabinsk, 2013. Flash first. Shock wave later." **[PENDING VERIFICATION C-1801]** · "Most people hurt there were hit by window glass." **[PENDING VERIFICATION C-1801]** · "She put a solid wall between her and the glass." **[PENDING VERIFICATION C-1801]** · "The light didn't hurt anyone. The glass could have." **[PENDING VERIFICATION C-1801]** · REAL RULE **[PENDING VERIFICATION C-1801]**. Cautious form: no injury count, no delay length and no timer on screen.
+**Fact status (checked 2026-10-14): C-1801 and C-1802 are SUPPORTED** (`07_Survival_Logic_and_Facts/verification_results.csv`). ESA: the shock wave "reached the ground damaging thousands of buildings, breaking windows and injuring roughly 1500 people from flying shards of glass"; NASA: it arrived about two minutes after the flash; ESA planetary-defence guidance supports "move away from windows and glass". NASA gives the 2026 Leonid peak night as 16–17 Nov; the AMS says shower meteors pose no meaningful danger. Say "most people hurt" (counts differ by source) and keep the Leonid date off screen ("this week").
+- **C-1802** (shower meteors are harmless; the 2026 Leonid peak): "Meteor showers are harmless dust." [supported C-1802, checked 2026-10-14], plus the L1 "HARMLESS DUST". The Leonids are **not named on screen**; the peak date (16–17 Nov, NASA) may go in the description. The shower and the flash look nothing alike (night streaks vs a daytime fireball), and "This is something rarer." [supported C-1801/C-1802, checked 2026-10-14] separates them.
+- **C-1801** (Chelyabinsk, 15 Feb 2013; shock wave after the flash; most injuries from glass): "Tess remembered Chelyabinsk, 2013. Flash first. Shock wave later." [supported C-1801, checked 2026-10-14] · "Most people hurt there were hit by window glass." [supported C-1801, checked 2026-10-14] · "She put a solid wall between her and the glass." [supported C-1801, checked 2026-10-14] · "The light didn't hurt anyone. The glass could have." [supported C-1801, checked 2026-10-14] · REAL RULE [supported C-1801, checked 2026-10-14]. Cautious form: no injury count, no delay length and no timer on screen.
 - Framing: a fictional city and cast, modelled on the event rather than depicting it. No real footage, identifiable victims or deaths (07 §4). The description carries sources and "Not professional advice; follow local official guidance."
 
 **9. Three hook options:**
@@ -44,26 +44,26 @@
 | Time (s) | Beat | Visual | Line | Purpose |
 |---|---|---|---|---|
 | 0.0–3.2 | Cold open | Frame 0 | N: "When the sky flashes, everyone goes to the window." | HP13 |
-| 3.2–7.0 | Disclaimer | Night insert: tiny streaks; L1 "HARMLESS DUST" | N: "Meteor showers are harmless dust. This is something rarer." [PENDING VERIFICATION C-1802] | Required statement |
+| 3.2–7.0 | Disclaimer | Night insert: tiny streaks; L1 "HARMLESS DUST" | N: "Meteor showers are harmless dust. This is something rarer." [supported C-1802, checked 2026-10-14] | Required statement |
 | 7.0–10.8 | Instinct | Coworkers filming a bright streak and its smoke trail | N: "The brightest thing they've ever seen. Of course they look." | Reasonable instinct |
-| 10.8–14.2 | History | Inset map pin "CHELYABINSK · 2013"; flash icon → wave icon | N: "Tess remembered Chelyabinsk, 2013. Flash first. Shock wave later." [PENDING VERIFICATION C-1801] | Proof |
-| 14.2–17.8 | Why | Inset: a window icon breaking into paper shards (no people) | N: "Most people hurt there were hit by window glass." [PENDING VERIFICATION C-1801] | Mechanism |
+| 10.8–14.2 | History | Inset map pin "CHELYABINSK · 2013"; flash icon → wave icon | N: "Tess remembered Chelyabinsk, 2013. Flash first. Shock wave later." [supported C-1801, checked 2026-10-14] | Proof |
+| 14.2–17.8 | Why | Inset: a window icon breaking into paper shards (no people) | N: "Most people hurt there were hit by window glass." [supported C-1801, checked 2026-10-14] | Mechanism |
 | 17.8–19.0 | Gaze | Tess's eyes move from the windows to the wall | — | Set up choice |
 | 19.0–20.4 | **FORK** | Cyan pressure dome, panes bowing (freeze, desaturate) / Tess behind the stair-core wall | — | Choose |
 | 20.4–22.8 | Act | Tess shouts across the floor | Tess: "Away from the windows! Now!" | Action |
-| 22.8–26.4 | Rule | Interior corridor; L1 "INTERIOR WALL" | N: "She put a solid wall between her and the glass." [PENDING VERIFICATION C-1801] | Action |
+| 22.8–26.4 | Rule | Interior corridor; L1 "INTERIOR WALL" | N: "She put a solid wall between her and the glass." [supported C-1801, checked 2026-10-14] | Action |
 | 26.4–29.6 | Follow | Everyone follows; one phone propped on the sill | N: "One by one, the whole floor followed her." | No one left |
 | 29.6–33.0 | Hold + **drop** | Empty window bay; dust motes; the phone | — | Stillness |
 | 33.0–35.4 | Impact | Cyan dome sweeps in; windows burst inward as paper shards; ≤6-frame shake | — | Payoff |
-| 35.4–39.4 | Outcome | Behind the wall: dusty, unhurt; car alarms | N: "The light didn't hurt anyone. The glass could have." [PENDING VERIFICATION C-1801] | Lesson |
+| 35.4–39.4 | Outcome | Behind the wall: dusty, unhurt; car alarms | N: "The light didn't hurt anyone. The glass could have." [supported C-1801, checked 2026-10-14] | Lesson |
 | 39.4–42.6 | Consequence | Glass across the carpet where they stood | N: "Where they'd been standing, glass covered the floor." | Felt |
 | 42.6–46.6 | Humour | Cracked phone, still recording; scanner beeps | Tess: "Still need a signature." | One dry beat |
 | 46.6–50.0 | Final image | Tess at the empty frame; a fading trail in the sky | — | Lands |
-| 50.0–54.0 | Verdict | V1 + V2 + V3 (after verification) + sources line; motif | — | Closure |
+| 50.0–54.0 | Verdict | V1 + V2 + V3 + sources line; motif | — | Closure |
 
 **17. Central decision (Fork):** FORK: GO TO THE WINDOW vs AWAY FROM GLASS. F1 chips "TO THE WINDOW" (shortened to ≤3 words) | "AWAY FROM GLASS" (chosen, Amber). The unchosen preview stops before the glass breaks and shows no person hurt.
 
-**18. Final payoff and Verdict:** Payoff: Tess moves away from the glass to an interior wall; the delayed shock wave blows the windows in; she's unhurt. Final image: Tess at the empty window frame. Verdict card: **SAFE — Away from the glass, not toward it. REAL RULE (pending verification): A bright flash in the sky? Stay away from windows.** "(pending verification)" is a production flag and never appears on screen. Once verified, V3 reads "REAL RULE: A bright flash in the sky? Stay away from windows." + "Sources in description".
+**18. Final payoff and Verdict:** Payoff: Tess moves away from the glass to an interior wall; the delayed shock wave blows the windows in; she's unhurt. Final image: Tess at the empty window frame. Verdict card: **SAFE — Away from the glass, not toward it. REAL RULE: A bright flash in the sky? Stay away from windows.** V3 reads "REAL RULE: A bright flash in the sky? Stay away from windows." + "Sources in description" (supported by ESA planetary-defence guidance: move away from windows and glass).
 
 **19. Target duration and word budget:** 52–56 s (cut at 54.0 s). Budget ≈131–146 words; the draft has about 90, because the delay, the impact and the aftermath are wordless.
 
@@ -71,20 +71,20 @@
 
 **21. Key visual technique:** Fork at 19.0 s. A **Cyan (pressure) Sphere** in the unchosen preview and at the impact, with no tick (no distance is verified). The silent empty bay makes "later" visible without a clock. The Verdict status SAFE carries a REAL RULE that appears only after verification.
 
-**22. Typography and captions:** G1 0–2.0 s; H1 0–2.4 s. N1 in lane A throughout; frame the crouched group (35.4–39.4 s) above y 1050 (W-05). D1 + S1 "TESS". L1: "HARMLESS DUST", "CHELYABINSK · 2013" [PENDING VERIFICATION C-1801], "INTERIOR WALL". F1 chips at y≈520. Emphasis: *harmless* (safe), *first* (amber), *glass* (threat), *wall* (safe), *followed* (safe), *glass* (threat). No text during the gaze beat, the Fork, the drop, the impact, the final image, or the Verdict's first 0.5 s.
+**22. Typography and captions:** G1 0–2.0 s; H1 0–2.4 s. N1 in lane A throughout; frame the crouched group (35.4–39.4 s) above y 1050 (W-05). D1 + S1 "TESS". L1: "HARMLESS DUST", "CHELYABINSK · 2013" [supported C-1801, checked 2026-10-14], "INTERIOR WALL". F1 chips at y≈520. Emphasis: *harmless* (safe), *first* (amber), *glass* (threat), *wall* (safe), *followed* (safe), *glass* (threat). No text during the gaze beat, the Fork, the drop, the impact, the final image, or the Verdict's first 0.5 s.
 
 **23. Voice, music, ambience, sound cues:** The narrator is factual and calm, never sensational. Tess is loud on her one shout. Bed: a 78 BPM pulse. Ambience: office HVAC and chatter; afterwards, car alarms and settling paper. Cues: 0.0 s a rising bright whoosh · 3.2 s soft night air · 19.0 s paper tear, 20.2 s tick · 20.6 s shout · 26.6 s chair scrape · 33.0 s deep shock-wave thud and glass burst (the brand boom stays on the Verdict) · 35.6 s car alarms · 50.2 s motif. **Drop:** 29.6–33.0 s, with music and HVAC cut; only the propped phone's faint beep remains before the thud.
 
 **24. Original Worldosphere contribution:** The lesson is told through the delay: an empty window bay holds still while the danger is on its way, and a propped phone keeps recording. The disclaimer is built into the story.
 
-**25. CTA:** No spoken CTA. Pinned comment, only after verification: the sources (NASA/ESA) and "Meteor showers are harmless."
+**25. CTA:** No spoken CTA. Pinned comment: the sources (NASA/ESA/AMS) and "Meteor showers are harmless."
 
 **26. Share / replay / subscribe:** Share: a surprising fact with a protect-others action. Replay: the propped phone, and the empty bay before the shock wave. Subscribe: real events turned into sourced rules.
 
-**27. Production dependencies and reusable assets:** **C-1801 and C-1802 verified by script lock (blocking)**; fireball plate, shatter effects, inset card, night plate. Reusable: the office set and shatter effects.
+**27. Production dependencies and reusable assets:** C-1801 and C-1802 verified (live-wording check at QA F-03); fireball plate, shatter effects, inset card, night plate. Reusable: the office set and shatter effects.
 
 **28. Why this calendar position:** Leonid meteor-shower week brings meteor curiosity [BK]. The script must state that shower meteors are harmless dust (C-1802). Conditional on verifying C-1801.
 
 **29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median, and 3-second retention for the HP13 hook. Guardrail: zero corrections on Chelyabinsk facts, and zero comments suggesting meteor showers are dangerous. Reserve: **R01 Lightning (verified)**, swapped in at script lock if C-1801 or C-1802 is unverified (C-R101–R104 SUPPORTED; Tess stays the lead).
 
-*Ready-for-script:* **NOT READY**: C-1801 and C-1802 are pending · WR not used · Fork labels ≤3 words ✓ · Verdict factor 7 words + REAL RULE 10 words ✓
+*Ready-for-script:* C-1801 and C-1802 supported ✓ (live-wording check at QA F-03) · WR not used · Fork labels ≤3 words ✓ · Verdict factor 7 words + REAL RULE 10 words ✓

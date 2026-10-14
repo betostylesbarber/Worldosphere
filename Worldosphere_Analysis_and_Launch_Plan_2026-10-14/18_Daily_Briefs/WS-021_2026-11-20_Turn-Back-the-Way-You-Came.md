@@ -20,7 +20,7 @@
 - **C-2101** SUPPORTED: "First comes the gasp." · "Control your breathing."
 - **C-2102** QUALIFIED: "About a minute to breathe. About ten to get out." T1 shows "≈1:00", then "≈10:00", always with "≈" and never ticking (a rough guide). The ~1 hour part isn't used.
 - **C-2103** SUPPORTED: "Turn back the way you came. It already held you." ("It" is her own path; the ledger says "strongest ice") · "Arms on the ice." · "Kick. Slide." · "Roll. Don't stand up yet." The animation follows this exact order.
-- **C-2104** UNVERIFIED (BLOCKING if shown): no thickness number and no "safe ice" cue.
+- **C-2104** SUPPORTED (Minnesota DNR: at least 4 inches of new clear ice for walking). The draft still shows no thickness number and no "safe ice" cue; a number is optional.
 - Story narration, not instruction: "Then she got somewhere warm. Fast." No rewarming or medical advice (07 §4). "Leave it." is character, not guidance. The description lists the DNR/NPS sources and "Not professional advice."
 
 **9. Three hook options:**
@@ -89,4 +89,4 @@
 
 **29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median, compared with WS-017 (which has no CTA) to read the spoken CTA's effect, a small-sample comparison. Guardrail: zero factual corrections, and average percentage viewed at or above the P2 median. Reserve: **R08 Cold Water Overboard** (shares C-2101/2102). If WS-017 or WS-020 already used R08, use R01.
 
-*Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-2104 not shown ✓ · Fork labels ≤3 words ✓ · Verdict factor 7 words + REAL RULE 12 words ✓
+*Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-2104 supported (number optional) ✓ · Fork labels ≤3 words ✓ · Verdict factor 7 words + REAL RULE 12 words ✓

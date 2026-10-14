@@ -80,13 +80,13 @@
 | 3 Evidence standards | Done | Labels used across all documents |
 | 4 Niche, promise, pillars | Done | 05 |
 | 5 Timestamped breakdowns | Done | 80 shots, every second covered, A–J components (03) |
-| 6 Survival logic, world rules, claim ledger | Done | 07; 71 claims (34 SUPPORTED, 15 QUALIFIED, 1 FALSE, 2 FICTION, 1 DESIGN, 3 UNVERIFIED, 15 UNVERIFIED — BLOCKING); `Verification_Worksheet.md` closes the open ones |
+| 6 Survival logic, world rules, claim ledger | Done | 07; 71 claims (46 SUPPORTED, 20 QUALIFIED, 1 FALSE, 2 FICTION, 1 DESIGN, 1 UNVERIFIED in-story detail with no real-world claim); **no BLOCKING claims** after the 2026-10-14 verification (`verification_results.csv`, CL-013) |
 | 7 Production workflow reconstruction | Done | 12 §6 (labelled as reconstruction) |
 | 8 Improvement audit | Done | 10 |
 | 9 Creative directions + chosen system | Done | 08 §1, §8 |
 | 10 Typography and captions | Done | 09 (+ rendered specimens) |
 | 11 Visual standard, style frames, motion proof | Done (prototype level) | 08 §12; 11 (inspected; silent motion proof, so no sound review claimed) |
-| 12 YouTube Shorts translation | Done; some platform facts unverified | 12 §8; to verify: 23 §2 |
+| 12 YouTube Shorts translation | Done | 12 §8; platform facts checked on YouTube Help 2026-10-14 (23 §2; the Content ID rule for Shorts over 60 s is contradictory across Help pages, so the conservative rule stays) |
 | 13 Performance hypotheses | Done; no metrics accessible | 06 |
 | 14 Topic pool and selection | Done | 94 premises; 29 premises → 30 days (one saga premise covers 2 days) + 10 reserves + 55 rejected/deferred with reasons (15, 16) |
 | 15 30-day calendar | Done | 17; posting time stated as an assumption |
@@ -111,7 +111,7 @@
 | The guide explains how to make the videos, not just how they look | **Yes** | 12 §5 (17 stages), 13 templates, 19 packages, 24 checklist |
 | A distinct identity and original typography | **Yes** | 08, 09, 11 (rendered and inspected) |
 | Visual improvements preserve clarity and feasibility | **Yes** | 10 (cost and validation per item); 12 §6 simplifications; 20 §9 |
-| Facts and fictional assumptions distinguished | **Yes** | 07 §1 (five statement classes); ledger classes; WR sheet; "Fiction scenario" labelling |
+| Facts and fictional assumptions distinguished | **Yes**; every real-world claim checked against official or primary sources on 2026-10-14, with no BLOCKING rows left | 07 §1 (five statement classes); ledger classes and `verification_results.csv`; WR sheet; "Fiction scenario" labelling |
 | 30 complete daily entries in a reasoned order | **Yes** | 17 (dates and weekdays verified by script: Sat 31 Oct – Sun 29 Nov 2026, consecutive) |
 | Topic choices have genuine research behind them | **Partly**: labelled honestly. Retrieved evidence [R-S#] where it exists; [BK]/[J] where it doesn't; demand data was largely inaccessible | 15, 16, appendix C |
 | Every daily brief contains a real story and payoff | **Yes** | 18 field 15 (beginning, middle, ending) and field 18 (payoff + Verdict) in all 30 |
@@ -122,8 +122,8 @@
 | Nothing published, scheduled, purchased or overwritten | **Yes** | No upload or scheduling actions were taken; no purchases; work saved in this dated subfolder of a previously empty repository |
 
 **Open items that keep the plan honest, not incomplete:**
-- 15 BLOCKING claims, each with a deadline, a fallback (20 §6) and a step-by-step procedure (`07_Survival_Logic_and_Facts/Verification_Worksheet.md`)
-- platform facts to confirm (23 §2)
+- reopen each cited source page before script lock to confirm the live wording (QA F-03; every claim was verified from search excerpts on 2026-10-14)
+- a quick safe-zone look on your phone (23 §2 P6)
 - capacity to measure (20 §5)
 - the Desktop folder and the reference catalog to check manually (23 L1–L2)
 - the public-repository decision (23 L5).

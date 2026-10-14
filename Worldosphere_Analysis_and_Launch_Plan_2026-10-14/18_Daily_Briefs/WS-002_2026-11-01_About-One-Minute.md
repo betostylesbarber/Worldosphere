@@ -1,6 +1,6 @@
 # WS-002 — About One Minute — Sunday 1 Nov 2026
 
-> Full production package: `../19_Production_Packages_Days_1-3/WS-002_About-One-Minute/`. **BLOCKING:** C-205 (seatbelt/window order) must be verified before script lock.
+> Full production package: `../19_Production_Packages_Days_1-3/WS-002_About-One-Minute/`. Facts re-checked 2026-10-14: C-205 QUALIFIED (published SWOC order), C-207 SUPPORTED (laminated glass defeats punch tools, so Owen uses the power window).
 
 1. **Video ID and date:** WS-002 · 2026-11-01, 12:00 US Eastern (17:00 UTC; US daylight saving time ended at 02:00).
 2. **Subject and angle:** a car goes into water. The common instinct, the door, fails because water pressure pins it shut. The way out is a side window during the brief floating phase, roughly the first minute.
@@ -17,9 +17,9 @@
    - C-202 (pressure pins doors): SUPPORTED.
    - C-203 (window during floating phase): SUPPORTED.
    - C-204 ("about one minute"): QUALIFIED.
-   - **C-205 (step order): UNVERIFIED — BLOCKING.**
-   - C-206 (tool within reach, side window): QUALIFIED.
-   - C-207 (laminated glass): description caveat only.
+   - C-205 (step order): QUALIFIED. The published SWOC protocol puts seatbelts first; a 2024 news report of a reversal has no primary source.
+   - C-206 (side window, not windshield): QUALIFIED. No tool is shown.
+   - C-207 (laminated side glass defeats punch tools; open the power window early): SUPPORTED.
 9. **Three hook options:**
    - **A (HP02 mid-event + clock):** waterline-split frame with a ≈1:00 timer. "When a car goes into water, you get about one minute." H1 "ABOUT ONE MINUTE".
    - **B (HP04 wrong instinct):** "Your car is sinking. Your first instinct is the door. That's the mistake." H1 "NOT THE DOOR".
@@ -35,7 +35,7 @@
     - 2–3 s: "you get about one minute" (provisional).
 15. **Story:**
     - **Beginning:** the first night after the clocks change; dark earlier, rain, a curve; the car slides into a pond and floats nose-down.
-    - **Middle:** narration gives the test result (15 s to a minute before water reaches the windows). Owen shoves the door; cyan pressure arrows hold it shut. Fork: DOOR vs WINDOW. He grabs the window punch on his keyring: belt off, window (order per C-205), and climbs out before the waterline reaches the glass.
+    - **Middle:** narration gives the test result (15 s to a minute before water reaches the windows). Owen shoves the door; cyan pressure arrows hold it shut. Fork: DOOR vs WINDOW. He hits the power-window switch while the electrics still work: belt off, window down (order per C-205), and climbs out before the waterline reaches the glass.
     - **Ending:** he reaches the bank; the headlights fade under the water (drop). "Most people try the door. The ones who make it out use the window." Verdict ESCAPED + REAL RULE. Share line.
 16. **Beat outline:** (package shot list, 15 shots)
 
@@ -54,9 +54,9 @@
 
 17. **Central decision:** Fork "DOOR" / "WINDOW". The decision is shown by Owen's eyes moving to the window. The chosen panel is right.
 18. **Payoff + Verdict:** Owen on the bank, the car gone. **ESCAPED · "He went for the window, not the door."** REAL RULE: "Car in water: get out through a side window in the first minute." Sources in the description.
-19. **Duration and words:** 59.6 s provisional (calendar 56–60 s) · 118 words.
+19. **Duration and words:** 59.6 s provisional (calendar 56–60 s) · 119 words.
 20. **Assets:**
-    - Owen rig + wet variant; grey sedan (cutaway-capable); punch tool.
+    - Owen rig + wet variant; grey sedan (cutaway-capable) with power windows; window-switch insert.
     - K2 rain road, curve, pond; waterline-split comp setup.
     - Cyan Sphere + pressure arrows; T1 timer; Fork; Verdict.
 21. **Technique:**
@@ -65,12 +65,12 @@
     - A real-time T1 countdown from the splash (hidden in the flashback).
     - Fork; Verdict + REAL RULE.
 22. **Typography:**
-    - N1 lane A (it sits on the darker underwater half); D1/S1 for Owen (Moss); H1, T1, L1 ("12 SECONDS EARLIER", "WATERLINE", "WATER PRESSURE", "WINDOW PUNCH"), F1, V1–V3, C1 optional.
+    - N1 lane A (it sits on the darker underwater half); D1/S1 for Owen (Moss); H1, T1, L1 ("12 SECONDS EARLIER", "WATERLINE", "WATER PRESSURE", "WINDOW SWITCH"), F1, V1–V3, C1 optional.
     - 6 emphasised words, ≥5.7 s apart.
     - No-text moments: the swim, the sinking car, the first 0.5 s of the Verdict.
 23. **Sound:**
     - Split audio (muffled below, rain above).
-    - Splash 9.9 (loudest), door thumps, Fork whoosh 27.5, belt click and punch snap about 35.
+    - Splash 9.9 (loudest), door thumps, Fork whoosh 27.5, belt click and window-motor whine about 35.
     - **Drop** 44.5–47.1 (bubbles only).
     - Motif 52.9.
     - The narrator is never filtered.
@@ -82,10 +82,10 @@
     - **Subscribe:** "this channel teaches me real rules inside stories".
 27. **Dependencies:**
     - The Owen rig, the K2 kit and the waterline-split setup (reused in WS-017, WS-021 and R08).
-    - **C-205 verification before script lock** (target: by 21 Oct).
+    - C-205: recheck the U. Manitoba page at QA F-03 (Version B ready).
 28. **Why this position:** Day 2 shows variety (a real emergency) while keeping the decision format. It uses fully verified facts. It falls on the first evening after clocks change (early darkness motivates the story).
 29. **Measures and reserve:**
     - **Primary:** shares per 1,000 engaged views (P2 hypothesis).
     - **Secondary:** "Stayed to watch" %.
     - **Guardrail:** comment-correction rate on safety facts (target: near zero; any valid correction triggers a pinned correction and a ledger update).
-    - **Reserve:** R02 Six Inches of Water (verified), if C-205 can't be resolved in time.
+    - **Reserve:** R02 Six Inches of Water (verified), if a live-page check contradicts C-205 or C-207.

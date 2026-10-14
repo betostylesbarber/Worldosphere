@@ -13,27 +13,27 @@ Everything here is something this session **could not** do or verify. Each item 
 | L5 | **The GitHub repository `betostylesbarber/Worldosphere` is public** | Anyone can read the plans. Licensed audio, raw VO, contracts or reference media must never be committed there | Decide whether to make the repository private (GitHub > Settings > General > Danger Zone > Change visibility). Keep production media in a private store | Owner | Now |
 | L6 | **No production capacity was measured** | Hour estimates are unproven (12 §9) | Run the pilot (20 §5) and decide at the Oct 28 gate | Owner + team | Oct 28 |
 
-## 2. Platform requirements to verify on official YouTube pages before launch
+## 2. Platform requirements: checked on official YouTube and Google pages (2026-10-14)
 
-The step-by-step procedure and where to record each result: `07_Survival_Logic_and_Facts/Verification_Worksheet.md` §C.
+Checked with official-domain web searches (support.google.com, blog.youtube) once the search budget reset. As with every source in this package, the wording came from search excerpts: reopen the page before relying on a detail.
 
-| # | Item | Why it matters | Where (from appendix B) |
+| # | Item | Result (official source) | Effect on the plan |
 |---|---|---|---|
-| P1 | Whether a Short over 1 minute with an active Content ID claim is blocked | Decides whether any third-party music is safe in 61–72 s episodes | YouTube Help, rights-holder / Shorts music pages (B §9) |
-| P2 | YouTube Audio Library terms for Shorts (including any length limits) and CC BY attribution format | Free music option | support.google.com/youtube/answer/3376882 |
-| P3 | Analytics metric definitions after the 24 Aug 2026 view-count change (which denominator AVD and APV use; the "Stayed to watch" label) | The measurement plan's denominators (21 §1) | YouTube Analytics Help glossary; Studio |
-| P4 | Shorts features: related-video link, playlists, pinned comments, scheduling, remix permissions | Saga linking (T-12), the CTA plan, posting logistics | YouTube Help (B §11) |
-| P5 | The YPP stance on AI narration (only if a synthetic voice is chosen) | Monetization eligibility | YPP monetization policies (B §6) |
-| P6 | Organic Shorts safe zones on current iPhone and Android apps | Caption and hook placement (09 §2) | A private test upload of the safe-zone overlay (09 §2 device check); **private only, never public** |
-| P7 | The upload encoding page (audio bitrate, colour space) | Export settings (12 §2) | support.google.com/youtube/answer/1722171 |
+| P1 | Shorts over 1 minute with an active Content ID claim | **Official pages conflict.** "Understand three-minute YouTube Shorts" (answer 15424877) says such Shorts are "blocked globally"; a newer "Create YouTube Shorts" page says they are "no longer automatically blocked and may remain playable" | Keep the conservative rule either way: **no claimable third-party music** (22 §3) |
+| P2 | Audio Library terms for Shorts | **Confirmed** (answers 3376882, 13486873): Audio Library tracks aren't claimed through Content ID; YPP members can monetize them; Creative Commons tracks need the artist credit in the description; royalty-free Audio Library music in Shorts won't receive a Content ID claim. Creator Music can't be used in Shorts and is phasing out paid licences from Aug 2026 | The Audio Library is a safe free option |
+| P3 | Analytics definitions | **Confirmed**: engaged views = "How many times viewers stayed to watch past the initial seconds, not including any loops"; "Viewed (vs swiped away)" is the percentage of feed impressions viewed rather than swiped (the Reach page labels it "Stayed to watch"); the YouTube Blog says CTR, average view duration and retention calculations are unchanged by the 24 Aug 2026 view-count change | 21 §1 holds |
+| P4 | Shorts features | **Confirmed** (answers 14075157, 13748639, 1270709, 9080341): a related video can be added in Studio with advanced feature access (public or unlisted, from your channel); links in Shorts descriptions and comments are not clickable; Studio scheduling works for Shorts; Shorts can't be Premieres. Playlists and remix settings were not checked (low impact) | Saga Part 2 links to Part 1 via "related video"; description sources are plain text |
+| P5 | YPP stance on AI narration | **Confirmed** (answers 1311392, 2801973, 14328491): AI use isn't disqualifying; mass-produced or repetitive content (generic templates, AI scripts over repetitive imagery) isn't monetizable; a synthetic voice that could be mistaken for a real person must be disclosed | 22 §4 stands |
+| P6 | Organic Shorts safe zones | **Official guidance found**: the Shorts editor shows visual guides marking non-safe areas (answer 16215842); Google Ads Shorts guidance: keep text out of the top 10%, bottom 25% and right 10% | 09 §2 zones are consistent. A quick look in the Shorts editor, or a **private** upload viewed on your phone, is still a recommended local check (it needs your device) |
+| P7 | Upload encoding | **Confirmed** (answer 1722171): stereo audio 384 kbps; AAC-LC or Opus at 48 kHz; BT.709 for SDR; upload at the recorded frame rate | 12 §2 audio bitrate raised from 320 to 384 kbps |
 
 ## 3. Content and fact limitations
 
 | # | Limitation | Next action | Due |
 |---|---|---|---|
-| C1 | **15 claims are UNVERIFIED — BLOCKING** (ledger; 20 §6 lists each with a deadline and a reserve). C-1205 and C-1206 were re-classed QUALIFIED from the USFA excerpt in appendix D2 §3c (CL-012) | Follow `07_Survival_Logic_and_Facts/Verification_Worksheet.md`: record each result in `verification_results.csv` and regenerate (the ledger, 20 and the workbook update automatically) | Days 1–5 claims by Sat 17 Oct; the rest at T-10 |
-| C2 | Even SUPPORTED claims were checked through search excerpts only | Re-open each cited page before the episode's script lock (QA F-03) | T-10 |
-| C3 | Ten briefs carry [PENDING VERIFICATION] markers on specific lines: WS-012, WS-016, WS-018, WS-020, WS-023, WS-025, WS-027, WS-028, WS-029, WS-030. WS-005 depends on BLOCKING row C-506 (field 8) | Treat the marked lines as placeholders; swap to the named reserve if not verified | T-10 per episode |
+| C1 | **Closed 2026-10-14: no claim is UNVERIFIED — BLOCKING.** All 15 were checked against official or primary sources (NWS/NOAA, CDC/CPSC, NASA/ESA, USAP/BAS, MN DNR, NFPA/USFA, CAL FIRE, Ready.gov, peer-reviewed papers): 9 SUPPORTED, 6 QUALIFIED (`07_Survival_Logic_and_Facts/verification_results.csv`; CL-013). Four scripts changed because of the evidence: WS-002 (power window, not a punch tool), WS-020 (no transformer-hum claim; "for hours"), WS-025 (no "Only Rescue"), WS-028 (no "move diagonally"). Only C-1101 stays an in-story detail with no real-world claim | Process for future claims stays the same (`Verification_Worksheet.md`) | — |
+| C2 | All claims, including the newly verified ones, were checked through search excerpts | Re-open each cited page before the episode's script lock (QA F-03); the URLs are in the ledger | T-10 |
+| C3 | **Closed 2026-10-14:** every [PENDING VERIFICATION] marker in the briefs was resolved and replaced by the claim's checked status | — | — |
 | C4 | WS-028 (crowd surge) needs a **sensitivity review** beyond fact-checking (real crowd tragedies) | A second reader checks tone, framing and the absence of real-event imagery; or swap to R02 | T-10 (Tue 17 Nov) |
 | C5 | Days 4–30 have briefs, not full packages (by design: only Days 1–3 were to be fully developed) | Produce a package per episode using the Day 1–3 packages as examples and the pipeline in `tools/` (12 §5) | T-8 per episode |
 | C6 | The Day 1–3 caption timings are **provisional** (modelled at 2.85 words/s) | Re-time to the recorded VO (QA W-01) | At edit |
@@ -49,8 +49,7 @@ The step-by-step procedure and where to record each result: `07_Survival_Logic_a
 ## 5. Next actions, in order (the first two weeks)
 1. **Now:** decide the repository visibility (L5). Read `01_Executive_Overview.md` and `20_Production_Schedule_and_Buffer.md` §2, and decide the staffing scenario (A, B or C).
 2. **Oct 15–17:**
-   - the claim sprint for Days 1–5 (C1)
-   - platform checks P1–P3
+   - open the cited pages for the Days 1–5 claims and confirm the wording (QA F-03; the URLs are in the ledger)
    - Desktop folder and reference catalog checks (L1, L2)
    - channel baseline (L4)
    - voice decision (22 §4).
@@ -58,6 +57,6 @@ The step-by-step procedure and where to record each result: `07_Survival_Logic_a
    - the library build (12 §4)
    - script lock for Days 1–5 (re-time the Day 1–3 packages)
    - VO batch 1
-   - the device safe-zone test (P6, private upload).
+   - the device safe-zone check (P6: the Shorts editor guides or a private upload).
 4. **Oct 23–28:** produce Days 1–5 with full QA, including the playback section, and log the pilot hours.
 5. **Wed Oct 28:** the go/no-go gate (20 §2.3). The owner decides whether and when to publish. Nothing has been published or scheduled.

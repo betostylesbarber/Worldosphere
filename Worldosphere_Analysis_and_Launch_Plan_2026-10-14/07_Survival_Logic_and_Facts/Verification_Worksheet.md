@@ -2,6 +2,18 @@
 
 **Why this exists.** The cloud session could not open web pages: WebFetch failed DNS for every host, and the egress policy refused government and YouTube Help sites with 403. Its search budget also ran out. So **15 claims are UNVERIFIED — BLOCKING**, 3 are low-risk UNVERIFIED, and 7 platform facts are unconfirmed. In a normal browser, each item takes about 10–30 minutes. This worksheet gives the exact procedure. The results flow into the ledger, the schedule and the workbook automatically.
 
+## Results of the 2026-10-14 check (completed in the cloud session once the search budget reset)
+- **Section A (15 BLOCKING claims): all closed.** 9 SUPPORTED and 6 QUALIFIED, from official or primary sources (NWS/NOAA, CDC/CPSC, NASA/ESA/AMS, USAP/BAS, Minnesota DNR, NFPA/USFA, CAL FIRE, Ready.gov, FCC, peer-reviewed papers). Every row, with its URL, excerpt and qualification, is in `verification_results.csv`. The ledger is regenerated from it.
+- **Section B:** C-101 SUPPORTED (NWS) and C-207 SUPPORTED (AAA tests reported in an NHTSA ESV paper). C-1101 stays an in-story detail with no real-world claim.
+- **Section C:** P1 checked, and the YouTube Help pages contradict each other, so the conservative "no claimable music" rule stays. P2, P3, P4 (related video, scheduling), P5 and P7 are confirmed. P6 has official guidance (the editor's safe-area guides; the ads zones); a look on your own phone is still recommended. Details: 23 §2.
+- **Script changes the evidence forced:**
+  - WS-002: power window, not a punch tool
+  - WS-020: no transformer-hum claim; the 1989 blackout lasted "for hours"
+  - WS-025: no "Only Rescue" title
+  - WS-028: "toward where the crowd thins", not "diagonally"
+  - WS-027: the NFPA caution on oil turkey fryers goes in the description.
+- **What remains:** reopen each cited page before the episode's script lock (QA F-03), because the check used search excerpts. The procedure below stays the process for any new claim.
+
 ## How to record a result (one row per claim)
 1. Open the source page and find the sentence that supports or contradicts the claim. Copy it **exactly**.
 2. Add a row to `07_Survival_Logic_and_Facts/verification_results.csv` with these columns:

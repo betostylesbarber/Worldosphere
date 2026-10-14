@@ -87,7 +87,7 @@ This page answers the brief's final question in one place: **what Worldosphere s
   - a two-part saga as a test (Station Zero, 14–15 Nov)
   - Thanksgiving-week placements (airport, grease fire, crowd surge)
   - an ensemble finale (29 Nov).
-- **15 claims are still UNVERIFIED — BLOCKING** (all in P2/P3 episodes except the saga's optional temperature readout). Each has a verification deadline and a verified or simpler fallback (20 §6). The Days 1–5 claims must be verified by **Sat 17 Oct**.
+- **All safety claims are checked (2026-10-14).** The 15 that were blocking were verified against official or primary sources (NWS/NOAA, CDC/CPSC, NASA/ESA, NFPA/USFA, CAL FIRE, Ready.gov, peer-reviewed papers). Four scripts changed because of the evidence: WS-002 now shows the power window (laminated side glass defeats punch tools), WS-020 drops an unsourced transformer-hum claim, WS-025 drops "Only Rescue", and WS-028 drops "move diagonally". Before each script lock, reopen the cited pages to confirm the wording (QA F-03). The Days 1–5 claims must be verified by **Sat 17 Oct**.
 
 ## 6. How to improve using real results
 The measurement plan (21) defines:
@@ -99,8 +99,8 @@ The measurement plan (21) defines:
 Organic comparisons are treated as observational, not experiments. **No view counts are promised or predicted anywhere in this package.**
 
 ## 7. Top risks and the first actions
-1. **Claim verification** (15 BLOCKING): follow `07_Survival_Logic_and_Facts/Verification_Worksheet.md`. Run the sprint from 15 to 17 Oct for Days 1–5, then work to T-10.
+1. **Source wording:** all claims are verified; reopen the cited pages for the Days 1–5 episodes by 17 Oct and for the rest by T-10 (QA F-03).
 2. **Capacity:** decide staffing now and measure the pilot hours.
-3. **Platform facts** came only from search excerpts. Verify the music and Content ID rule for Shorts over 60 s, Audio Library terms, metric definitions and the safe zones on a device (private upload only; 23 §2).
+3. **Platform facts** were checked on YouTube Help on 2026-10-14 (23 §2). The Content ID rule for Shorts over 60 s is contradictory across Help pages, so the plan uses no claimable music. Still do a quick safe-zone look in the Shorts editor or a private upload on your phone.
 4. **The repository `betostylesbarber/Worldosphere` is public.** Decide whether to make it private, and keep licensed media and voice files out of it.
 5. **Check the Desktop folder** and the reference catalog manually (about 30 minutes; 23 L1–L2).

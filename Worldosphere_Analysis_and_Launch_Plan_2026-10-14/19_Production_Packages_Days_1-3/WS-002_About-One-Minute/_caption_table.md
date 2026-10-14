@@ -16,8 +16,8 @@
 | 14 | 27.50 | 28.91 | 1.42 | NARR | A | Door, or window? | — | yes |
 | 15 | 29.45 | 31.98 | 2.53 | NARR | A | The way out / is the window — | window (amber) | yes |
 | 16 | 32.00 | 34.37 | 2.37 | NARR | A | while the car / is still floating. | — | yes |
-| 17 | 34.49 | 35.37 | 0.88 | NARR | A | Belt off. | — | yes |
-| 18 | 35.39 | 36.02 | 0.63 | NARR | A | Window. | — | yes |
+| 17 | 34.49 | 35.32 | 0.83 | NARR | A | Belt off. | — | yes |
+| 18 | 35.34 | 36.37 | 1.03 | NARR | A | Window down. | — | yes |
 | 19 | 37.74 | 38.83 | 1.09 | NARR | A | Then out — | out (amber) | yes |
 | 20 | 38.85 | 41.26 | 2.41 | NARR | A | before the water / reached the glass. | — | yes |
 | 21 | 47.18 | 49.02 | 1.84 | NARR | A | Most people / try the door. | — | yes |

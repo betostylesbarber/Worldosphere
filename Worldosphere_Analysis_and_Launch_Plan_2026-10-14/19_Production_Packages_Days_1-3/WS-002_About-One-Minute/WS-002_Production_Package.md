@@ -2,7 +2,7 @@
 
 **Publish:** Sunday 1 Nov 2026, 12:00 US Eastern (17:00 UTC; US daylight saving time ended at 02:00 that morning) · **Pillar:** P2 REAL RULE · **Recipe:** R-D Countdown (with R-B Real Rule structure) · **Lead:** Owen (64)
 **Status:** pre-production package. **Not a rendered video.** Timings are **PROVISIONAL** (computed at about 171 wpm); re-sync after recording the voice-over.
-**BLOCKING item before script lock:** **C-205**, the order of "seatbelt" and "window" in the current expert guidance. Both versions are prepared (§3, §9).
+**Fact status (re-checked 2026-10-14):** C-205 (belt/window order) is QUALIFIED: the published SWOC protocol puts seatbelts first, which is the order shown. A 2024 news report of a reversal has no primary source; Version B stays ready (§3, §9). **Revision:** laminated side glass defeats window-punch tools (C-207), so Owen now lowers the power window while the electrics still work. There is no punch tool.
 
 Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + hook + per-second timer + Fork + Verdict placeholders) · `WS-002_captions_PROVISIONAL.srt` · `WS-002_sound_cues.csv`.
 
@@ -23,22 +23,22 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | C-202 Water pressure pins the doors | Shots 05–06 | SUPPORTED |
 | C-203 Escape through a side window during the floating phase | Shots 07–10, REAL RULE | SUPPORTED |
 | C-204 "About one minute" | Hook line, REAL RULE | QUALIFIED (confirm live wording) |
-| **C-205 Order of belt vs window** | Shot 09 | **UNVERIFIED — BLOCKING** |
+| C-205 Order of belt vs window | Shot 09 | QUALIFIED (published SWOC order: seatbelts, then windows) |
 | C-206 Keep a window tool within reach; side window, not windshield | Shots 08–09; spoken CTA context | QUALIFIED |
-| C-207 Laminated side glass may resist punches | Description caveat only | UNVERIFIED |
+| C-207 Laminated side glass defeats punch tools; open the power window early | Shots 08–09 (power window shown) + description | SUPPORTED |
 
 **Continuity:**
 - Rain throughout.
 - Night, the first evening after the clock change (the story says "dark an hour earlier", which is true by definition).
 - Owen wears the brown canvas coat and the beanie (the beanie comes off underwater and floats; it is not recovered).
-- The punch tool is on his keyring in the ignition.
+- His sedan has power windows. The electrics still work for the first moments after the splash (dash lights glowing).
 - The car is an older grey sedan.
 - The waterline rises steadily (per-shot keyframes on the waterline layer, never dropping).
 - The timer counts down in real screen time from the splash (shot 03) and is hidden in the flashback (shot 02).
 - Story geography: the car enters the pond about 5 m from the bank, and Owen exits toward the bank on screen-left.
 
 ## 3. Final script (timed reading estimate)
-**Runtime (provisional): 59.6 s · spoken words: 118 · speaking time ≈ 43.9 s (161 wpm while speaking; 119 wpm overall) · reading model: 2.85 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
+**Runtime (provisional): 59.6 s · spoken words: 119 · speaking time ≈ 44.2 s (162 wpm while speaking; 120 wpm overall) · reading model: 2.85 words/s + 0.18 s per comma/colon + 0.30 s per internal stop.**
 
 | Time | Speaker | Line |
 |---|---|---|
@@ -50,7 +50,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 21.62–27.18 | NARR | Water was pressing on the door. It wouldn't open until the car was nearly full. |
 | 27.58–28.81 | NARR | Door, or window? |
 | 29.53–34.27 | NARR | The way out is the window — while the car is still floating. |
-| 34.57–35.92 | NARR | Belt off. Window. |
+| 34.57–36.27 | NARR | Belt off. Window down. |
 | 37.82–41.16 | NARR | Then out — before the water reached the glass. |
 | 41.46–44.46 | — | *(no dialogue: Low wide from the water surface: Owen swims three strokes and grabs the grassy bank; behin…)* |
 | 44.46–47.06 | — | *(no dialogue: Underwater: the headlights glow and fade as the car settles nose-first into the dark; bubb…)* |
@@ -94,7 +94,25 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 52.87–56.47 | — | *(no dialogue: The Verdict card slides up over the held bank image.…)* |
 | 56.52–59.33 | NARR | Send this to someone who drives at night. |
 
-**Version B for C-205** (use if current guidance puts the window first): shot 09 line becomes **"Window. Belt off."** Swap the animation beats: punch first (with the belt still on, which keeps him braced), then the belt release. Captions: "Window." / "Belt off." Same timing.
+| Time | Speaker | Line |
+|---|---|---|
+| 00.10–04.14 | NARR | When a car goes into water, you get about one minute. |
+| 04.54–09.63 | NARR | The first night after the clocks went back, it got dark an hour earlier. |
+| 09.93–12.92 | NARR | The car hit the water — and floated. |
+| 13.32–18.76 | NARR | In tests, cars floated about fifteen seconds to a minute before water reached the windows. |
+| 19.16–21.22 | OWEN | The door. Get the door. |
+| 21.62–27.18 | NARR | Water was pressing on the door. It wouldn't open until the car was nearly full. |
+| 27.58–28.81 | NARR | Door, or window? |
+| 29.53–34.27 | NARR | The way out is the window — while the car is still floating. |
+| 34.57–35.92 | NARR | Belt off. Window. |
+| 37.82–41.16 | NARR | Then out — before the water reached the glass. |
+| 41.46–44.46 | — | *(no dialogue: Low wide from the water surface: Owen swims three strokes and grabs the grassy bank; behin…)* |
+| 44.46–47.06 | — | *(no dialogue: Underwater: the headlights glow and fade as the car settles nose-first into the dark; bubb…)* |
+| 47.26–52.47 | NARR | Most people try the door. The ones who make it out use the window. |
+| 52.87–56.47 | — | *(no dialogue: The Verdict card slides up over the held bank image.…)* |
+| 56.52–59.33 | NARR | Send this to someone who drives at night. |
+
+**Version B for C-205** (use only if the U. Manitoba page now puts the window first): shot 09 line becomes **"Window down. Belt off."** Swap the animation beats: the window switch first (belt still on, which keeps him braced), then the belt release. Captions: "Window down." / "Belt off." Same timing.
 
 ## 4. Scene-by-scene storyboard
 | Scene | Shots | Key frame | Caption lane | Job |
@@ -103,7 +121,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | S2 — How it happened | 02–03 | Desaturated rainy curve → the car slides into the pond, splash | A | Plausible cause (dark, rain, curve); time resets to the splash |
 | S3 — The physics | 04–06 | Cyan Sphere over the submerged body → Owen shoves the door → pressure arrows | A | The fact and the failed instinct |
 | S4 — The choice | 07F | Fork: DOOR / WINDOW | A | The decision |
-| S5 — The escape | 08–11 | Keyring punch → belt + window (order per C-205) → out through the window → to the bank | A | The correct action, step by step |
+| S5 — The escape | 08–11 | Window switch → belt off + window down (SWOC order, C-205) → out through the window → to the bank | A | The correct action, step by step |
 | S6 — The car goes | 12 | Underwater headlights fading (**drop**) | none | Consequence avoided |
 | S7 — Lesson and Verdict | 13–15 | Owen on the bank → Verdict card with REAL RULE → share line | A | Takeaway + share-to-protect |
 
@@ -117,12 +135,12 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 05 | 19.06 | 21.52 | 2.45 | Interior, medium close from the passenger seat: Owen's shoulder to the driver's door, hand on the handle. | Owen shoves; the door gives nothing. | OWEN: "The door. Get the door." @19.16–21.22 | S1 chip 'OWEN' (Moss) | Muffled thump; strain grunt | Hard cut | Seatbelt still on in this shot (visible strap). |
 | 06 | 21.52 | 27.48 | 5.96 | Exterior underwater close on the driver's door: cyan pressure arrows (Sphere detail) pushing inward on the whole door panel. | The handle moves; the door doesn't. | NARR: "Water was pressing on the door. It wouldn't open until the car was nearly full." @21.62–27.18 | Cyan arrows (L1 'WATER PRESSURE') | Deep underwater groan; arrows have a soft 'press' whoosh | Freeze into the FORK | Claim C-202. |
 | 07F | 27.48 | 29.48 | 2.00 | THE FORK. Left panel: the door with arrows, water rising behind the glass. Right panel: the side window with an exit path drawn as a dotted amber line out to the surface. At ~1.4 s the right panel wipes to full frame; the left desaturates and slides off left. | Freeze; Owen's eyes move to the window (the choice is his look). | NARR: "Door, or window?" @27.58–28.81 | F1 'DOOR' / 'WINDOW' (WINDOW becomes Amber chip) | Paper-tear whoosh; tick on the choice | Fork transition | Captions stay in lane A (tag above the crack layer); chips in the hook lane. |
-| 08 | 29.48 | 34.52 | 5.04 | Interior close: Owen's keyring dangling from the ignition; a small spring-loaded window punch on the ring (amber highlight 6 frames). | Owen grabs the keyring. | NARR: "The way out is the window — while the car is still floating." @29.53–34.27 | L1 'WINDOW PUNCH' with leader line | Keys jingle (underwater-muffled) | Hard cut | Claim C-203; tool shown per C-206 (qualified). |
-| 09 | 34.52 | 37.72 | 3.20 | Two-beat close sequence inside one shot: (a) hand presses the belt buckle, strap retracts; (b) the punch pressed into the lower corner of the side window; the tempered glass crazes and drops away. | Belt release (4 frames), reach (6 frames), press (3 frames), glass burst (8 frames). | NARR: "Belt off. Window." @34.57–35.92 | — | Belt click; punch 'snap'; glass crumble; rush of cold air and rain | Hard cut | **C-205 BLOCKING:** the order of 'belt' and 'window' must match current Giesbrecht/U. Manitoba guidance at script lock. Version A (shown): 'Belt off. Window.' Version B: 'Window. Belt off.' Re-order animation beats to match. |
+| 08 | 29.48 | 34.52 | 5.04 | Interior close: the driver's door panel; Owen's finger finds the power-window switch while the dash lights still glow (amber highlight 6 frames on the switch). | Owen's eyes go from the door handle to the window switch. | NARR: "The way out is the window — while the car is still floating." @29.53–34.27 | L1 'WINDOW SWITCH' with leader line | Dash chime still sounding (underwater-muffled) | Hard cut | Claims C-203, C-207: many newer cars have laminated side glass that window-punch tools can't break (AAA tests via NHTSA ESV paper), so the episode shows opening the power window while the electrics still work. No punch tool on screen. |
+| 09 | 34.52 | 37.72 | 3.20 | Two-beat close sequence inside one shot: (a) hand presses the belt buckle, strap retracts; (b) finger holds the window switch and the glass slides down; rain and cold air blow in. | Belt release (4 frames), reach (6 frames), switch press (3 frames), glass lowers over 18 frames. | NARR: "Belt off. Window down." @34.57–36.27 | — | Belt click; window-motor whine; rush of cold air and rain | Hard cut | C-205 QUALIFIED: the published SWOC protocol (Giesbrecht & McDonald 2010) puts seatbelts before windows. A 2024 news report says the researcher now opens the window first; no primary source confirms it. Recheck the U. Manitoba page at QA F-03; Version B ('Window down. Belt off.') stays ready. |
 | 10 | 37.72 | 41.46 | 3.74 | WATERLINE SPLIT, wider: Owen pulls himself through the window and up into the rain; the water line is a hand's width below the window frame. | Head and shoulders out first, then a kick free; he pushes off the car body toward the bank. | NARR: "Then out — before the water reached the glass." @37.82–41.16 | T1 counting (≈0:32 at the moment he clears the window) | Splashing, breath gasps, rain | Hard cut | Owen exits before the waterline reaches the glass (C-201/203). |
 | 11 | 41.46 | 44.46 | 3.00 | Low wide from the water surface: Owen swims three strokes and grabs the grassy bank; behind him the car tilts and slips under. | Exhausted, clumsy swimming; grabs grass. | — (no line) | — | Splashes; the car's last gurgle | Hard cut | Short swim: the car is a few metres from the bank. |
 | 12 | 44.46 | 47.06 | 2.60 | Underwater: the headlights glow and fade as the car settles nose-first into the dark; bubbles rise through the frame. | — | — (no line) | — | **PLANNED DROP:** music and pulse cut; only deep bubbles and muffled rain | Hard cut | No caption (the image carries it). |
-| 13 | 47.06 | 52.87 | 5.81 | On the bank, medium: Owen soaked, on his knees in the rain, breathing hard, looking back at the dark water. | Owen's breathing slows; he wipes his face; looks at the punch tool still in his hand. | NARR: "Most people try the door. The ones who make it out use the window." @47.26–52.47 | — | Rain, heavy breathing; pulse returns low | Hard cut | Hold ≥1 s after the line before the Verdict. |
+| 13 | 47.06 | 52.87 | 5.81 | On the bank, medium: Owen soaked, on his knees in the rain, breathing hard, looking back at the dark water. | Owen's breathing slows; he wipes his face; looks back at the dark water where the car went down. | NARR: "Most people try the door. The ones who make it out use the window." @47.26–52.47 | — | Rain, heavy breathing; pulse returns low | Hard cut | Hold ≥1 s after the line before the Verdict. |
 | 14V | 52.87 | 56.47 | 3.60 | The Verdict card slides up over the held bank image. | — | — (no line) | V1 'ESCAPED' (Safe Green bar) · V2 'He went for the window, not the door.' · V3 REAL RULE 'Car in water: get out through a side window in the first minute.' + 'Sources in description' | Worldosphere motif; rain fades | — | REAL RULE wording from C-203/C-204; 14 words. |
 | 15 | 56.47 | 59.58 | 3.11 | Verdict card holds; C1 chip appears below it in the low safe band. | — | NARR: "Send this to someone who drives at night." @56.52–59.33 | C1 chip optional (same words) | Motif tail | End | Share-to-protect CTA (playbook Part 3); ≤1.5–2 s. |
 
@@ -130,7 +148,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 - **Owen:**
   - Older body mechanics: heavier anticipation, slower recovery.
   - Panic shows in his *breathing*, not flailing.
-  - Key poses: (1) grip-wheel shock · (2) shoulder-to-door shove · (3) eyes to window (the choice) · (4) reach for keyring · (5) belt press · (6) punch press · (7) head and shoulders out · (8) grabbing grass · (9) kneeling on the bank, catching breath · (10) looking at the tool in his hand.
+  - Key poses: (1) grip-wheel shock · (2) shoulder-to-door shove · (3) eyes to window (the choice) · (4) finger to the window switch · (5) belt press · (6) holding the switch as the glass lowers · (7) head and shoulders out · (8) grabbing grass · (9) kneeling on the bank, catching breath · (10) looking back at the water.
   - Reactions 4–6 frames after each stimulus.
   - Lip-sync for "The door. Get the door." (6-shape set).
 - **No other characters.** An empty, realistic setting keeps the focus on the rule.
@@ -143,7 +161,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | VEH-SEDAN | Grey sedan, cutaway-capable | NEW (kit K2) | Exterior + interior layers; driver door with handle anim; side window with a crazing-glass effect; belt with retract; dash light (cool white) |
 | ENV-K2-POND-NIGHT | Rain road, curve, pond, bank | NEW (kit K2) | Night; rain layers (FG streaks, MG drops, surface ripples); pond surface line; grassy bank |
 | ENV-WATERLINE-SPLIT | Waterline split compositing setup | NEW (reusable) | Above: normal grade + rain. Below: cyan-teal grade (#1F3A44 → #4FC3D9 at 20%), 6 px blur on far layers, caustic flicker at 6%, particulate |
-| PRP-PUNCH | Spring-loaded window punch on keyring | NEW | Small, amber highlight on first appearance |
+| PRP-SWITCH | Driver-door power-window switch (close-up insert) | NEW | Amber highlight on first appearance; dash lights still on |
 | HUD-SPHERE-CYAN | Water/pressure Sphere + arrows | NEW (K9) | Cyan dome over the submerged body; arrows on the door panel with a 0.5 s pulse |
 | HUD-T1 | Timer pill | Reuse (K9) | "≈" prefix; real-time countdown from shot 03 |
 | HUD-FORK / HUD-VERDICT | — | Reuse (K9) | — |
@@ -176,8 +194,8 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 14 | 27.50 | 28.91 | 1.42 | NARR | A | Door, or window? | — | yes |
 | 15 | 29.45 | 31.98 | 2.53 | NARR | A | The way out / is the window — | window (amber) | yes |
 | 16 | 32.00 | 34.37 | 2.37 | NARR | A | while the car / is still floating. | — | yes |
-| 17 | 34.49 | 35.37 | 0.88 | NARR | A | Belt off. | — | yes |
-| 18 | 35.39 | 36.02 | 0.63 | NARR | A | Window. | — | yes |
+| 17 | 34.49 | 35.32 | 0.83 | NARR | A | Belt off. | — | yes |
+| 18 | 35.34 | 36.37 | 1.03 | NARR | A | Window down. | — | yes |
 | 19 | 37.74 | 38.83 | 1.09 | NARR | A | Then out — | out (amber) | yes |
 | 20 | 38.85 | 41.26 | 2.41 | NARR | A | before the water / reached the glass. | — | yes |
 | 21 | 47.18 | 49.02 | 1.84 | NARR | A | Most people / try the door. | — | yes |
@@ -188,7 +206,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 
 - **No-text moments:** shot 11 (the swim), shot 12 (the drop), the first 0.5 s of the Verdict.
 - **Timer:** the `.ass` file contains per-second T1 events from the splash (≈1:00) to Owen's exit (≈0:32). T1 is hidden in the flashback.
-- **Version B (C-205):** swap captions 17/18 to "Window." / "Belt off."
+- **Version B (C-205):** swap captions 17/18 to "Window down." / "Belt off."
 
 ## 10. Music direction and sound-cue timeline
 **Music:** a sparse low pulse at 80 BPM (felt piano + soft sub) entering at the splash; no melodic hook; drops out completely for the sinking car; the Verdict motif to close. Original or properly licensed (22).
@@ -204,8 +222,8 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 | 21.5 | Deep underwater groan; pressure "press" whooshes on the arrows | — |
 | **27.48** | **Fork paper-tear whoosh**; tick at about 28.9 | Branded |
 | 29.5 | Keys jingle (muffled) | — |
-| 34.6 | Belt click (or punch first in Version B) | Crisp, close |
-| 35.4 | Punch snap + glass crumble + rush of rain/air | — |
+| 34.6 | Belt click (or window motor first in Version B) | Crisp, close |
+| 35.4 | Window-motor whine + rush of rain/air as the glass lowers | — |
 | 37.7 | Splashing, gasps, rain | — |
 | 41.5 | Swim splashes; the car's gurgle | — |
 | **44.46–47.06** | **PLANNED DROP:** music off; deep bubbles + muffled rain only | Key moment |
@@ -218,7 +236,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 ## 11. Voice direction
 - **Narrator:** steady, low, unhurried even in danger. Authority comes from calm.
 - "about one minute": a light stress on *about* (honesty).
-- "Belt off. Window." (or Version B): two crisp, separated beats.
+- "Belt off. Window down." (or Version B): two crisp, separated beats.
 - "Most people try the door. The ones who make it out use the window.": slower, final.
 - **Owen:** breathless, practical, not screaming: "The door. Get the door."
 
@@ -243,7 +261,7 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 - **Description (short):**
   "If your car goes into water, the door usually won't open. Water pressure pins it shut. The way out is a side window, in the first minute or so.
   Sources (accessed 14 Oct 2026): Giesbrecht & McDonald (2010), Aviat Space Environ Med, PubMed 20681239; University of Manitoba, Prof. G. Giesbrecht; McDonald & Giesbrecht (2013) review.
-  Note: some newer vehicles use laminated side glass that may resist punch tools. Check your vehicle's manual. Animated scenario; not a substitute for official safety training. Follow local guidance.
+  Note: many newer vehicles have laminated side glass that window-breaking tools may not break, so open the power window as early as possible while it still works. Check your vehicle's manual. Animated scenario; not a substitute for official safety training. Follow local guidance.
   #Shorts #carsafety #survival"
 - **Cover frame:** frame 0 (the waterline split with Owen's lit face, the ≈1:00 timer and the H1 "ABOUT ONE MINUTE").
 
@@ -253,7 +271,8 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
   - C-202 (doors pinned)
   - C-203 (window during the floating phase)
   - C-204 ("about one minute")
-- **Blocking:** C-205 (step order). **Do not lock the script until the current order is confirmed** from the University of Manitoba / Giesbrecht materials or another authoritative source.
+- **C-205 (step order):** QUALIFIED. The published SWOC protocol (Giesbrecht & McDonald 2010, PubMed 20681239) gives seatbelts before windows. Recheck the U. Manitoba page at QA F-03 for any revision; Version B is ready.
+- **C-207 (laminated glass):** SUPPORTED. AAA testing reported in an NHTSA ESV paper found none of six window-breaking tools breached laminated side glass; vehicle-submersion researchers advise opening power windows quickly.
 - **Avoided claims:**
   - No specific vehicle sink times beyond the qualified range.
   - No claim that power windows keep working.
@@ -273,11 +292,11 @@ Files: `WS-002_shot_list.csv` · `WS-002_captions_PROVISIONAL.ass` (captions + h
 **Animator instructions:** see §8. The waterline split is a two-precomp setup (above / below) with a shared waterline matte keyed per shot.
 
 ## 18. Quality checklist (episode-specific; plus master QA)
-- [ ] **C-205 resolved**, and the script, animation and captions match the verified order.
+- [ ] C-205 order rechecked on the U. Manitoba page; script, animation and captions match it (Version A by default).
 - [ ] The door never opens. The pressure arrows read clearly at phone size.
 - [ ] Owen exits before the waterline reaches the window frame (no exit through flooded glass).
 - [ ] The timer counts in real time from the splash and is hidden in the flashback.
-- [ ] No claim about laminated glass on screen. The description caveat is present.
+- [ ] No punch tool on screen; the power window is shown opening while the dash is still lit. The laminated-glass note is in the description.
 - [ ] Narration is never low-pass filtered. Captions in lane A sit on the dark underwater half.
 - [ ] REAL RULE wording matches the ledger exactly.
 - [ ] Muted test: a viewer can state "window, not door, early".

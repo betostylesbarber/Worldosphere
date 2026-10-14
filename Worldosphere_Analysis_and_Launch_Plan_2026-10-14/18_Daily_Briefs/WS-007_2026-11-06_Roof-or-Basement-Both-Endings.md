@@ -19,7 +19,7 @@
 **8. Factual sources / fictional assumptions:**
 - **WR-04 / C-103:** no ladders; they can push doors but not pull them or work latches.
 - **WR-03:** a cough carries across a yard (Sphere yard-sized, no number). **WR-07:** others follow.
-- **WR-02:** breath fog shows who is alive (C-101 UNVERIFIED, low risk, visual only). **WR-05, WR-10:** no combat; Kai can't out-push many.
+- **WR-02:** breath fog shows who is alive (C-101 SUPPORTED, visual only). **WR-05, WR-10:** no combat; Kai can't out-push many.
 - **Story only:** the thumb-latch door opens inward from the hallway; the helicopter is not a claim about real rescue. Mia is never harmed (cut before contact). No real-world facts; "Fiction scenario".
 
 **9. Three hook options:**

@@ -21,8 +21,8 @@
 - **C-502** SUPPORTED: "At least twenty feet from the house." "Exhaust pointing away" comes from the same source row (CPSC/FEMA, D2 §1b-2).
 - **C-503** SUPPORTED: "You can't see it. You can't smell it."
 - **C-504** SUPPORTED: "Headache. Dizzy. Sleepy. That's not the flu."
-- **C-505** UNVERIFIED — BLOCKING if used: no CO alarm is shown or said.
-- **C-506 (UNVERIFIED — BLOCKING):** "Fresh air first" and "calls for help" are 07 §4 first-response wording. They are now ledger row C-506; verify the CDC/CPSC wording before script lock, or swap to the reserve.
+- **C-505** SUPPORTED (CPSC: alarms on every level and outside sleeping areas, with battery backup). Optional; the current draft shows no CO alarm.
+- **C-506 SUPPORTED** (`07_Survival_Logic_and_Facts/verification_results.csv`; CPSC: "If you suspect CO poisoning, get outside to fresh air immediately, and then call 911"): "Fresh air first. Then call for help."
 - **Staging:** Owen never re-enters (he pulls the wheeled generator from the driveway). Breath fog is visual only (C-101, low risk). Description: CPSC/CDC/FEMA + "Not professional advice".
 
 **9. Three hook options:**

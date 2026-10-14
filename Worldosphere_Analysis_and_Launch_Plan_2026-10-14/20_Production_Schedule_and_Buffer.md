@@ -17,8 +17,8 @@
 | Style frames + Fork/breath motion proof | Done (prototype renders, 11) | Production-quality rebuild in the chosen tool |
 | Character rigs, kits, HUD templates in the production tool | **None** | Rigs for 4 leads + guest + Turned; kits K1–K4, K9, K10 |
 | Narrator voice | **Not chosen, not recorded** | A decision (own voice, contracted actor or licensed synthetic) + test recording |
-| Music and SFX library | **None**. Licensing for Shorts over 60 s is unverified (B §9) | Motif, 3 beds, core SFX; rights logged (22) |
-| Real-world claims | 15 rows UNVERIFIED — BLOCKING in the ledger (procedure: `07_Survival_Logic_and_Facts/Verification_Worksheet.md`) | Days 1–5 claims verified by Sat 17 Oct (§6) |
+| Music and SFX library | **None**. YouTube Help pages conflict on claimed music in Shorts over 60 s, so no claimable music (22 §3) | Motif, 3 beds, core SFX; rights logged (22) |
+| Real-world claims | **Verified 2026-10-14:** no BLOCKING rows remain (46 SUPPORTED, 20 QUALIFIED; one in-story detail) | Reopen cited pages at QA F-03 before each script lock |
 | YouTube channel | Not inspected (no access). YPP status unknown | Channel exists, branding set, nothing published |
 | Production capacity | **Unknown, never measured** | Pilot hours from Days 1–3 (§5) |
 
@@ -62,7 +62,7 @@ Lowering the QA bar is not one of the options.
 
 | Dates | Animator | Producer | Exit criterion |
 |---|---|---|---|
-| **Thu 15 – Sat 17 Oct** · Style lock + verification sprint | Model sheets for KAI, MIA, TESS, OWEN, the guest and the Turned (turnarounds, mouths, hands, brows); palette tokens in the tool | **Claim sprint:** C-101, C-205, C-207, C-505, C-506 (Days 1–5). Then the platform checks in 23 §2 (music/Content ID rule over 60 s, Audio Library terms). Voice decision + test read | Sheets approved; Days 1–5 claims verified or reserve swaps logged; voice chosen |
+| **Thu 15 – Sat 17 Oct** · Style lock + source-wording check | Model sheets for KAI, MIA, TESS, OWEN, the guest and the Turned (turnarounds, mouths, hands, brows); palette tokens in the tool | **Live-wording check (QA F-03)** of the Days 1–5 sources (claims already verified 2026-10-14). Safe-zone look in the Shorts editor (23 §2 P6). Voice decision + test read | Sheets approved; Days 1–5 source wording confirmed; voice chosen |
 | **Sun 18 – Thu 22 Oct** · Library build | Rigs (Duik/RubberHose or Moho/Blender), walk/run/shamble cycles, FX-BREATH; Fork/Sphere/Verdict/T1 templates | Kits K1–K4 and K10 backgrounds (vector) with floor plans; the audio library (motif, 3 beds, Fork/Verdict SFX); **script lock Days 1–5** (Oct 18–20, re-timing the Day 1–3 packages after the claim sprint); animatics; **VO batch 1 (Days 1–5) Wed 21 – Fri 23 Oct** | Library v1 tagged; scripts and VO for Days 1–5 approved |
 | **Fri 23 – Wed 28 Oct** · Produce Days 1–5 | Animation in this order: WS-001 (H), WS-002, WS-003 (H), WS-004, WS-005. Critical shots first | Edit, mix, caption re-timing and QA as each episode lands; claim checks for Days 6–10 (by Wed 21 Oct to T-10); scripts Days 6–7 (Oct 22–23); **K8 cabin kit** (Day 6) | **Gate (Wed 28 Oct):** Days 1–5 exported and QA-passed (including the playback section); Days 6–10 scripts locked; pilot hours logged |
 | **Thu 29 – Fri 30 Oct** | WS-006 animation | WS-007 animatic; VO batch 2 (Days 6–10); upload packages Days 1–5 ready for the owner | Bank = 5; Days 6–7 in progress |
@@ -144,13 +144,13 @@ For Scenario B, apply the same offsets to the fallback dates in §2.4.
 
 | Day | Publish | ID | Cx | Research start (T-14) | Claims verified (T-10) | Script lock + timed read (T-8) | Animatic + VO (T-7) | Assets ready (T-6) | Animation done (T-4) | Edit, mix, captions (T-3) | QA + export + package (T-3, end of day) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Sat 31 Oct | WS-001 | H | pre-launch (§2.2) | Sat 17 Oct (sprint) | Oct 18 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
-| 2 | Sun 01 Nov | WS-002 | M | pre-launch (§2.2) | Sat 17 Oct (sprint) | Oct 18 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
-| 3 | Mon 02 Nov | WS-003 | H | pre-launch (§2.2) | Sat 17 Oct (sprint) | Oct 19 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
-| 4 | Tue 03 Nov | WS-004 | L | pre-launch (§2.2) | Sat 17 Oct (sprint) | Oct 19 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
-| 5 | Wed 04 Nov | WS-005 | M | pre-launch (§2.2) | Sat 17 Oct (sprint) | Oct 20 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
-| 6 | Thu 05 Nov | WS-006 | H | pre-launch (§2.2) | Wed 21 Oct | Oct 22 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | Mon 02 Nov |
-| 7 | Fri 06 Nov | WS-007 | M | pre-launch (§2.2) | Wed 21 Oct | Oct 23 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | Tue 03 Nov |
+| 1 | Sat 31 Oct | WS-001 | H | pre-launch (§2.2) | Verified 14 Oct; wording check Sat 17 Oct | Oct 18 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
+| 2 | Sun 01 Nov | WS-002 | M | pre-launch (§2.2) | Verified 14 Oct; wording check Sat 17 Oct | Oct 18 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
+| 3 | Mon 02 Nov | WS-003 | H | pre-launch (§2.2) | Verified 14 Oct; wording check Sat 17 Oct | Oct 19 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
+| 4 | Tue 03 Nov | WS-004 | L | pre-launch (§2.2) | Verified 14 Oct; wording check Sat 17 Oct | Oct 19 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
+| 5 | Wed 04 Nov | WS-005 | M | pre-launch (§2.2) | Verified 14 Oct; wording check Sat 17 Oct | Oct 20 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | **Wed 28 Oct (gate)** |
+| 6 | Thu 05 Nov | WS-006 | H | pre-launch (§2.2) | Verified 14 Oct; wording check Wed 21 Oct | Oct 22 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | Mon 02 Nov |
+| 7 | Fri 06 Nov | WS-007 | M | pre-launch (§2.2) | Verified 14 Oct; wording check Wed 21 Oct | Oct 23 | Oct 21–23 (VO batch) | library (§2.2) | see §2.2 | see §2.2 | Tue 03 Nov |
 | 8 | Sat 07 Nov | WS-008 | M | Sat 24 Oct | Wed 28 Oct | Fri 30 Oct | Sat 31 Oct | Sun 01 Nov | Tue 03 Nov | Wed 04 Nov | Wed 04 Nov |
 | 9 | Sun 08 Nov | WS-009 | M | Sun 25 Oct | Thu 29 Oct | Sat 31 Oct | Sun 01 Nov | Mon 02 Nov | Wed 04 Nov | Thu 05 Nov | Thu 05 Nov |
 | 10 | Mon 09 Nov | WS-010 | M | Mon 26 Oct | Fri 30 Oct | Sun 01 Nov | Mon 02 Nov | Tue 03 Nov | Thu 05 Nov | Fri 06 Nov | Fri 06 Nov |
@@ -192,7 +192,9 @@ For Scenario B, apply the same offsets to the fallback dates in §2.4.
 
 ## 6. Claim-verification deadlines
 
-Only three reserves are verified P2 substitutes (R01, R02, R08). If several P2 claims fail in the same week:
+**Status 2026-10-14:** every BLOCKING claim was checked against official or primary sources (`07_Survival_Logic_and_Facts/verification_results.csv`, CL-013). What remains is the **live-page wording check** (QA F-03): reopen each cited URL by the episode's T-10 date in §3, because the research saw search excerpts. The table below lists any claim still not fully verified.
+
+If a live page contradicts a claim, only three reserves are verified P2 substitutes (R01, R02, R08). If several P2 claims fail in the same week:
 - use P1 reserves (R03, R04, R07, R09) and accept a temporary pillar imbalance
 - note it in the change log.
 
@@ -200,24 +202,7 @@ Verification is mostly 20–40 minutes per claim with web access (find the agenc
 
 | Claim | Status | Episode(s) | First publish date | Verify by (T-10, or the pre-launch sprint) | If not verified |
 |---|---|---|---|---|---|
-| C-101 | UNVERIFIED (low risk; add one citable source, e.g. a NOAA/NWS or university explainer) | WS-001 | Sat 31 Oct | **Sat 17 Oct** (pre-launch sprint) | Add one citable source (QA F-03); low risk |
-| C-205 | UNVERIFIED — BLOCKING | WS-002 | Sun 01 Nov | **Sat 17 Oct** (pre-launch sprint) | Swap to R02 Six Inches of Water |
-| C-207 | UNVERIFIED (description caveat only) | WS-002 | Sun 01 Nov | **Sat 17 Oct** (pre-launch sprint) | Add one citable source (QA F-03); low risk |
-| C-505 | UNVERIFIED — BLOCKING if used | WS-005 | Wed 04 Nov | **Sat 17 Oct** (pre-launch sprint) | Cut the line (the episode works without it) |
-| C-506 | UNVERIFIED — BLOCKING | WS-005 | Wed 04 Nov | **Sat 17 Oct** (pre-launch sprint) | Swap to R08 Cold Water Overboard |
-| C-1003 | UNVERIFIED — BLOCKING if stated | WS-010 | Mon 09 Nov | Fri 30 Oct | Cut the line (the episode works without it) |
 | C-1101 | UNVERIFIED (treat as in-story fact only) | WS-011, WS-013 | Tue 10 Nov | Sat 31 Oct | Keep it as an in-story fact only (no real-world claim) |
-| C-1501 | UNVERIFIED — BLOCKING if a number is shown | WS-015, WS-016 | Sat 14 Nov | Wed 04 Nov | Cut the line (the episode works without it) |
-| C-1704 | UNVERIFIED — BLOCKING if shown | WS-017 | Mon 16 Nov | Fri 06 Nov | Cut the line (the episode works without it) |
-| C-1801 | UNVERIFIED — BLOCKING | WS-018 | Tue 17 Nov | Sat 07 Nov | Swap to R01 Lightning (verified) |
-| C-1802 | UNVERIFIED — BLOCKING | WS-018 | Tue 17 Nov | Sat 07 Nov | Swap to R01 Lightning (verified) |
-| C-2001 | UNVERIFIED — BLOCKING | WS-020 | Thu 19 Nov | Mon 09 Nov | Swap to R01 Lightning |
-| C-2104 | UNVERIFIED — BLOCKING if a number is shown | WS-021 | Fri 20 Nov | Tue 10 Nov | Cut the line (the episode works without it) |
-| C-2301 | UNVERIFIED — BLOCKING | WS-023 | Sun 22 Nov | Thu 12 Nov | Swap to R02 Six Inches of Water |
-| C-2501 | UNVERIFIED — BLOCKING | WS-025 | Tue 24 Nov | Sat 14 Nov | Swap to R08 Cold Water Overboard |
-| C-2701 | UNVERIFIED — BLOCKING | WS-027 | Thu 26 Nov | Mon 16 Nov | Swap to R01 Lightning |
-| C-2801 | UNVERIFIED — BLOCKING | WS-028 | Fri 27 Nov | Tue 17 Nov | Swap to R02 Six Inches of Water |
-| C-2901 | UNVERIFIED — BLOCKING | WS-029 | Sat 28 Nov | Wed 18 Nov | Swap to R02 Six Inches of Water |
 
 ## 7. Asset dependencies and build deadlines
 

@@ -20,7 +20,7 @@
 - **C-1701** SUPPORTED: "Don't fight it. Float." · "Calm the breathing. Face the shore. Wave." (ledger: relax and float; face shore and wave for help) · "Then swim sideways, parallel to the shore."
 - **C-1702** QUALIFIED: "And most rips are narrower than a basketball court is long." The R1 tick reads "MOST <80 FT"; "most" appears in both.
 - **C-1703** QUALIFIED: no death figure on screen; if the description uses one, it says "estimates vary".
-- **C-1704** UNVERIFIED (BLOCKING if shown): **no rip signs in the art.** No gap in the breaking waves and no churned or discoloured lane. The surf is uniform, and the channel exists only as the Cyan Sphere and arrows.
+- **C-1704** SUPPORTED (checked 2026-10-14; NOAA JetStream: churning, choppy water; a difference in water colour; foam or debris moving seaward; a break in the incoming wave pattern). The rip signs **may now be drawn**: a gap in the breaking waves and a churned, discoloured lane, with the Cyan Sphere and arrows on top.
 - Story only: the STAMINA bar has no numbers, and there's no narrated speed or exhaustion claim. The description gives NWS/NOAA sources and "Not professional advice; follow local official guidance."
 
 **9. Three hook options:**
@@ -86,4 +86,4 @@
 
 **29. Success measures and reserve:** Primary: shares per 1,000 views against the P2 median and against Outbreak episodes (F04). Guardrail: zero factual corrections (width, signs), and average percentage viewed at or above the P2 median. Reserve: **R08 Cold Water Overboard**. R08 is also WS-020's and WS-021's reserve; if more than one is needed, use R01 for the second.
 
-*Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-1704 not depicted ✓ · Fork labels ≤3 words ✓ · Verdict factor 6 words + REAL RULE 11 words ✓
+*Ready-for-script:* claims SUPPORTED/QUALIFIED ✓ · C-1704 supported (rip signs may be drawn) ✓ · Fork labels ≤3 words ✓ · Verdict factor 6 words + REAL RULE 11 words ✓

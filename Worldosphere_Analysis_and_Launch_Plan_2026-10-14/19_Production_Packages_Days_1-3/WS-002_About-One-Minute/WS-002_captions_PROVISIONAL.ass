@@ -97,8 +97,8 @@ Dialogue: 0,0:00:23.76,0:00:27.28,N1_Narration,,0,0,0,,{\fad(83,0)}It wouldn't o
 Dialogue: 0,0:00:27.50,0:00:28.91,N1_Narration,,0,0,0,,{\fad(83,0)}Door, or window?
 Dialogue: 0,0:00:29.45,0:00:31.98,N1_Narration,,0,0,0,,{\fad(83,0)}The way out\Nis the {\1c&H47C2FF&}window{\1c&HFFFFFF&} —
 Dialogue: 0,0:00:32.00,0:00:34.37,N1_Narration,,0,0,0,,{\fad(83,0)}while the car\Nis still floating.
-Dialogue: 0,0:00:34.49,0:00:35.37,N1_Narration,,0,0,0,,{\fad(83,0)}Belt off.
-Dialogue: 0,0:00:35.39,0:00:36.02,N1_Narration,,0,0,0,,{\fad(83,0)}Window.
+Dialogue: 0,0:00:34.49,0:00:35.32,N1_Narration,,0,0,0,,{\fad(83,0)}Belt off.
+Dialogue: 0,0:00:35.34,0:00:36.37,N1_Narration,,0,0,0,,{\fad(83,0)}Window down.
 Dialogue: 0,0:00:37.74,0:00:38.83,N1_Narration,,0,0,0,,{\fad(83,0)}Then {\1c&H47C2FF&}out{\1c&HFFFFFF&} —
 Dialogue: 0,0:00:38.85,0:00:41.26,N1_Narration,,0,0,0,,{\fad(83,0)}before the water\Nreached the glass.
 Dialogue: 0,0:00:47.18,0:00:49.02,N1_Narration,,0,0,0,,{\fad(83,0)}Most people\Ntry the door.
